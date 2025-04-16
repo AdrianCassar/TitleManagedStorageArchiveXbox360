@@ -1,0 +1,9 @@
+TitleID: 415707D1
+Version: 0.0.4.1
+
+PathName[0]: //title.415707d1/t:415707d1/asb.xcb - Size: 1095856 (0x10B8B0) bytes - Created: 21/01/2008 - 07:15:57 - Modified: 26/08/2009 - 22:06:43
+
+PathName[1]: //title.415707d1/t:415707d1/vssc.xcb - Size: 2817 (0xB01) bytes - Created: 21/01/2008 - 07:15:58 - Modified: 13/02/2008 - 15:27:58
+
+PathName[2]: //title.415707d1/t:415707d1/aiasb.xcb - Size: 29671 (0x73E7) bytes - Created: 21/01/2008 - 07:15:57 - Modified: 13/02/2008 - 15:27:53
+

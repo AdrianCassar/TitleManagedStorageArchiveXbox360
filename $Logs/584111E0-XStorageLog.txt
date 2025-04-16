@@ -1,0 +1,5 @@
+TitleID: 584111E0
+Version: 0.0.3.5
+
+PathName[0]: //title.584111e0/t:584111e0/ContentInfo.rds - Size: 12936 (0x3288) bytes - Created: 11/10/2011 - 22:36:43 - Modified: 05/05/2015 - 16:39:24
+

@@ -1,0 +1,5 @@
+TitleID: 4E4D0859
+Version: 0.0.1.3
+
+PathName[0]: //title.4e4d0859/t:4e4d0859/title_storage.bin - Size: 6256 (0x1870) bytes - Created: 16/08/2012 - 16:07:52 - Modified: 02/09/2013 - 08:35:47
+

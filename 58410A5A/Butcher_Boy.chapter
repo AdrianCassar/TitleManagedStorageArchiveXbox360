@@ -1,0 +1,180 @@
+chapter
+{
+	name = "Butcher Boy";
+	music = "internets.wav";
+	altmusic = "internets.wav";
+	warpmusic = "internets.wav";
+	menunormalmusic = "internetsmenu.wav";
+	menuretromusic = "ch6hardmenu.wav";
+	warptrans = "warp.am";
+	intro = "internetsintro.am";
+	bossintro = "boss5intro.am";
+	bossoutro = "bossintro1.am";
+	bossmusic = "bawsslewp.wav";
+	overridechar = 2;
+	lives = 30;
+	time = 100.5;
+}
+
+normlevel
+{
+	file = "i1-1";
+	name = "the path";
+	par = 4.5;
+	id = 350;
+}
+
+normlevel
+{
+	file = "i1-2";
+	name = "cliff hanger";
+	par = 8;
+	id = 351;
+}
+
+normlevel
+{
+	file = "i1-3";
+	name = "Dig-Dig";
+	par =38.5;
+	id = 352;
+}
+
+normlevel
+{
+	file = "i1-4";
+	name = "Dr. Driller";
+	par = 28.5;
+	id = 353;
+}
+
+normlevel
+{
+	file = "i1-5";
+	name = "See Saw";
+	par = 12.5;
+	id = 354;
+}
+
+normlevel
+{
+	file = "i1-6";
+	name = "U,D,U,D,U,D";
+	par = 13;
+	id = 355;
+}
+
+normlevel
+{
+	file = "i1-7";
+	name = "Saw Guard";
+	par = 7.5;
+	id = 356;
+}
+
+normlevel
+{
+	file = "i1-8";
+	name = "Mostly Downs";
+	par = 10.5;
+	id = 357;
+}
+
+normlevel
+{
+	file = "i1-9";
+	name = "Double Dutch";
+	par = 8;
+	id = 358;
+}
+
+normlevel
+{
+	file = "i1-10";
+	name = "One Handed";
+	par = 20.5;
+	id = 359;
+}
+
+normlevel
+{
+	file = "i1-11";
+	name = "Ode to N";
+	par =7;
+	id = 360;
+}
+
+normlevel
+{
+	file = "i1-12";
+	name = "Command Missile  ";
+	par = 8.5;
+	id = 361;
+}
+
+normlevel
+{
+	file = "i1-13";
+	name = "High Rise";
+	par = 11;
+	id = 362;
+}
+
+normlevel
+{
+	file = "i1-14";
+	name = "Convoy";
+	par = 11;
+	id = 363;
+}
+
+normlevel
+{
+	file = "i1-15";
+	name = "Dance!";
+	par = 18.7;
+	id = 364;
+}
+
+normlevel
+{
+	file = "i1-16";
+	name = "Mudslide";
+	par = 17;
+	id = 365;
+}
+
+
+normlevel
+{
+	file = "i1-17";
+	name = "Fantastic";
+	par = 11.2;
+	id = 366;
+}
+
+normlevel
+{
+	file = "i1-18";
+	name = "Square";
+	par = 13;
+	id = 367;
+}
+
+normlevel
+{
+	file = "i1-19";
+	name = "Thrice";
+	par = 12;
+	id = 368;
+}
+
+normlevel
+{
+	file = "i1-20";
+	name = "1x1";
+	par = 32;
+	id = 369;
+}
+
+

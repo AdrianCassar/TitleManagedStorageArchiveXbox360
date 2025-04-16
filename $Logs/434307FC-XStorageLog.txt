@@ -1,0 +1,7 @@
+TitleID: 434307FC
+Version: 0.0.8.3
+
+PathName[0]: //title.434307fc/t:434307fc/SWAN_PRIZECODES.XOC - Size: 447 (0x1BF) bytes - Created: 30/05/2014 - 01:09:11 - Modified: 13/11/2015 - 03:18:12
+
+PathName[1]: //title.434307fc/t:434307fc/SUPER_STREET_FIGHTER_IV.xoc - Size: 11951 (0x2EAF) bytes - Created: 27/07/2010 - 05:49:05 - Modified: 01/10/2015 - 06:28:12
+

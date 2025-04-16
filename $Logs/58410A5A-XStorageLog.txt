@@ -1,0 +1,34 @@
+strServerPath: //title.58410a5a/t:58410a5a/*
+
+PathName[0]: //title.58410a5a/t:58410a5a/Starlight.chapter.dat - Size: 298145 - Created: 06/01/2012 - 22:08:29 - Modified: 06/01/2012 - 22:08:29
+
+PathName[1]: //title.58410a5a/t:58410a5a/Starlight.chapter - Size: 2354 - Created: 06/01/2012 - 22:08:27 - Modified: 06/01/2012 - 22:08:27
+
+PathName[2]: //title.58410a5a/t:58410a5a/Paradise_Lost.chapter.dat - Size: 193647 - Created: 06/01/2012 - 22:08:24 - Modified: 06/01/2012 - 22:08:24
+
+PathName[3]: //title.58410a5a/t:58410a5a/Paradise_Lost.chapter - Size: 2337 - Created: 06/01/2012 - 22:08:21 - Modified: 06/01/2012 - 22:08:21
+
+PathName[4]: //title.58410a5a/t:58410a5a/Minneapolis.chapter.dat - Size: 377261 - Created: 06/01/2012 - 22:08:18 - Modified: 06/01/2012 - 22:08:18
+
+PathName[5]: //title.58410a5a/t:58410a5a/Minneapolis.chapter - Size: 2392 - Created: 06/01/2012 - 22:08:15 - Modified: 06/01/2012 - 22:08:15
+
+PathName[6]: //title.58410a5a/t:58410a5a/Remnants.chapter.dat - Size: 299337 - Created: 28/04/2011 - 00:56:33 - Modified: 28/04/2011 - 00:56:33
+
+PathName[7]: //title.58410a5a/t:58410a5a/Remnants.chapter - Size: 2022 - Created: 28/04/2011 - 00:56:30 - Modified: 28/04/2011 - 00:56:30
+
+PathName[8]: //title.58410a5a/t:58410a5a/Expert_Remix.chapter.dat - Size: 310833 - Created: 22/02/2011 - 02:07:43 - Modified: 22/02/2011 - 02:07:43
+
+PathName[9]: //title.58410a5a/t:58410a5a/Expert_Remix.chapter - Size: 2154 - Created: 22/02/2011 - 02:07:41 - Modified: 22/02/2011 - 02:07:41
+
+PathName[10]: //title.58410a5a/t:58410a5a/Cramps_(Nova).chapter.dat - Size: 154700 - Created: 22/02/2011 - 02:07:38 - Modified: 22/02/2011 - 02:07:38
+
+PathName[11]: //title.58410a5a/t:58410a5a/Cramps_(Nova).chapter - Size: 2123 - Created: 22/02/2011 - 02:07:35 - Modified: 22/02/2011 - 02:07:35
+
+PathName[12]: //title.58410a5a/t:58410a5a/Sewers_of_Dross.chapter.dat - Size: 118275 - Created: 21/11/2010 - 10:03:23 - Modified: 21/11/2010 - 10:03:23
+
+PathName[13]: //title.58410a5a/t:58410a5a/Sewers_of_Dross.chapter - Size: 2087 - Created: 21/11/2010 - 10:03:20 - Modified: 21/11/2010 - 10:03:20
+
+PathName[14]: //title.58410a5a/t:58410a5a/Butcher_Boy.chapter.dat - Size: 102927 - Created: 21/11/2010 - 10:01:24 - Modified: 21/11/2010 - 10:01:24
+
+PathName[15]: //title.58410a5a/t:58410a5a/Butcher_Boy.chapter - Size: 2071 - Created: 13/10/2010 - 23:19:21 - Modified: 21/11/2010 - 10:01:21
+

@@ -1,0 +1,7 @@
+TitleID: 58410B86
+Version: 0.0.0.2
+
+PathName[0]: //title.58410b86/t:58410b86/journeytransferdata.dat - Size: 39 (0x27) bytes - Created: 17/04/2012 - 11:01:40 - Modified: 29/08/2012 - 12:32:50
+
+PathName[1]: //title.58410b86/t:58410b86/cloudscore.dat - Size: 16 (0x10) bytes - Created: 04/05/2012 - 15:59:25 - Modified: 04/05/2012 - 18:51:12
+

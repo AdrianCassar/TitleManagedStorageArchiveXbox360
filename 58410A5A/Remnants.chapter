@@ -1,0 +1,177 @@
+chapter
+{
+	name = "Remnants";
+	music = "ch6.wav";
+	altmusic = "ch6.wav";
+	warpmusic = "internets.wav";
+	menunormalmusic = "ch6normalmenu.wav";
+	menuretromusic = "ch6hardmenu.wav";
+	warptrans = "warp.am";
+	intro = "internetsintro.am";
+	bossintro = "boss5intro.am";
+	bossoutro = "bossintro1.am";
+	bossmusic = "bawsslewp.wav";
+}
+
+normlevel
+{
+	file = "rem1";
+	name = "Route 1";
+	par = 9;
+	id = 430;
+}
+
+normlevel
+{
+	file = "rem2";
+	name = "Ground switch";
+	par = 12;
+	id = 431;
+}
+
+normlevel
+{
+	file = "rem3";
+	name = "Clockwork";
+	par =11.0;
+	id = 432;
+}
+
+normlevel
+{
+	file = "rem4";
+	name = "Fortress";
+	par = 14.0;
+	id = 433;
+}
+
+normlevel
+{
+	file = "rem5";
+	name = "Dime a dozen";
+	par = 25.0;
+	id = 434;
+}
+
+normlevel
+{
+	file = "rem6";
+	name = "Anemoi";
+	par = 27.0;
+	id = 435;
+}
+
+normlevel
+{
+	file = "rem7";
+	name = "Swap";
+	par = 17.0;
+	id = 436;
+}
+
+normlevel
+{
+	file = "rem8";
+	name = "Gyration";
+	par = 12.0;
+	id = 437;
+}
+
+normlevel
+{
+	file = "rem9";
+	name = "Stress";
+	par = 22.0;
+	id = 438;
+}
+
+normlevel
+{
+	file = "rem10";
+	name = "Hemoglobin";
+	par = 21;
+	id = 439;
+}
+
+normlevel
+{
+	file = "rem11";
+	name = "Links";
+	par =13.0;
+	id = 440;
+}
+
+normlevel
+{
+	file = "rem12";
+	name = "Get Down";
+	par = 24.0;
+	id = 441;
+}
+
+normlevel
+{
+	file = "rem13";
+	name = "Transition";
+	par = 41.0;
+	id = 442;
+}
+
+normlevel
+{
+	file = "rem14";
+	name = "Unidirectional";
+	par = 20;
+	id = 443;
+}
+
+normlevel
+{
+	file = "rem15";
+	name = "Bits to share";
+	par = 13.0;
+	id = 444;
+}
+
+normlevel
+{
+	file = "rem16";
+	name = "Mechanized";
+	par = 30.0;
+	id = 445;
+}
+
+
+normlevel
+{
+	file = "rem17";
+	name = "Compulsion";
+	par = 40.0;
+	id = 446;
+}
+
+normlevel
+{
+	file = "rem18";
+	name = "Suspended";
+	par = 25.0;
+	id = 447;
+}
+
+normlevel
+{
+	file = "rem19";
+	name = "Empyrean";
+	par = 22.0;
+	id = 448;
+}
+
+normlevel
+{
+	file = "rem20";
+	name = "Eerie";
+	par = 45.0;
+	id = 449;
+} 
+
+

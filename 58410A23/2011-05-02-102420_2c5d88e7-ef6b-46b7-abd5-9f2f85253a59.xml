@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<RequestInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <requestVersion>v2.2.2</requestVersion>
+  <testState>false</testState>
+  <requestGUID>2c5d88e7-ef6b-46b7-abd5-9f2f85253a59</requestGUID>
+  <requestName>Upload TMS File(s)</requestName>
+  <requestTitleID>0x58410A23</requestTitleID>
+  <requestEnvironmentName>CertNet</requestEnvironmentName>
+  <requestSubmitter>REDMOND\kevsal</requestSubmitter>
+  <requestData>
+    <anyType xsi:type="SerializableKeyValuePair">
+      <key>Certification Stage</key>
+      <value>N/A</value>
+    </anyType>
+    <anyType xsi:type="SerializableKeyValuePair">
+      <key>Resolve To</key>
+      <value>kevsal</value>
+    </anyType>
+  </requestData>
+  <psTitle>Title Managed Storage (TMS) for Full Game - Pinball FX2 - 0x58410A23 - in CertNet</psTitle>
+  <psPriority>1</psPriority>
+  <psIssueType>Prop Content</psIssueType>
+  <psPropDateTime />
+  <psDescription>Upload TMS File(s)
+
+Title ID: 0x58410A23
+
+Resolve To: kevsal</psDescription>
+  <psReproSteps>Request XML File: 2011-05-02-102420_2c5d88e7-ef6b-46b7-abd5-9f2f85253a59.xml
+
+</psReproSteps>
+  <psLinkedBug />
+  <psLinkedBugType>1</psLinkedBugType>
+  <psAttachFiles>true</psAttachFiles>
+  <psSetAutoPropState>false</psSetAutoPropState>
+  <emailTitle> to Upload TMS File(s) for Full Game - Pinball FX2 (0x58410A23) in CertNet</emailTitle>
+  <emailHTMLBody>&lt;b&gt;Title ID:&lt;/b&gt; 0x58410A23&lt;br&gt;&lt;b&gt;Environment:&lt;/b&gt; CertNet&lt;br&gt;&lt;b&gt;Priority:&lt;/b&gt; High&lt;br&gt;&lt;b&gt;Certification Stage:&lt;/b&gt; N/A&lt;br&gt;&lt;b&gt;Resolve To:&lt;/b&gt; kevsal&lt;br&gt;&lt;b&gt;Requested Prop Date/Time:&lt;/b&gt; N/A</emailHTMLBody>
+  <emailCCList>xblawa;chrisaro;</emailCCList>
+  <filePaths>
+    <anyType xsi:type="xsd:string">\\RRCRPLSDTSQL102\xltrans\2c5d88e7-ef6b-46b7-abd5-9f2f85253a59\PTSData.pxp</anyType>
+    <anyType xsi:type="xsd:string">\\RRCRPLSDTSQL102\xltrans\2c5d88e7-ef6b-46b7-abd5-9f2f85253a59\PTSVersion.txt</anyType>
+  </filePaths>
+  <fileDropPointPath>\\RRCRPLSDTSQL102\xltrans\</fileDropPointPath>
+  <serializedTempPath>D:\PropManagerXML\</serializedTempPath>
+</RequestInfo>

@@ -1,0 +1,159 @@
+
+chapter
+{
+    name = "minneapolis";
+    music = "altfactory.wav";
+    altmusic = "altfactory.wav";
+    warpmusic = "altfactory.wav";
+    menunormalmusic = "internetsmenu.wav";
+    menuretromusic = "ch6hardmenu.wav";
+    warptrans = "warp.am";
+    intro = "internetsintro.am";
+    bossintro = "boss5intro.am";
+    bossoutro = "bossintro1.am";
+    bossmusic = "bawsslewp.wav";
+    overridechar = 0;
+    lives = 30;
+    time = 100.5;
+}
+
+normlevel
+{
+    file = "335";
+    name = "rail corridor";
+    par = 16.87;
+    id = 560;
+}
+normlevel
+{
+    file = "337";
+    name = "skyways";
+    par = 15.47;
+    id = 561;
+}
+normlevel
+{
+    file = "338";
+    name = "nicollet isle";
+    par = 14.72;
+    id = 562;
+}
+normlevel
+{
+    file = "339";
+    name = "coffman union";
+    par = 13.53;
+    id = 563;
+}
+normlevel
+{
+    file = "341";
+    name = "cherry on top";
+    par = 19.27;
+    id = 564;
+}
+normlevel
+{
+    file = "343";
+    name = "road repair";
+    par = 23.27;
+    id = 565;
+}
+normlevel
+{
+    file = "344";
+    name = "uptown center";
+    par = 8.54;
+    id = 566;
+}
+normlevel
+{
+    file = "345";
+    name = "spring";
+    par = 14.43;
+    id = 567;
+}
+normlevel
+{
+    file = "348";
+    name = "tin fish";
+    par = 19.40;
+    id = 568;
+}
+normlevel
+{
+    file = "349";
+    name = "nordeast";
+    par = 12.87;
+    id = 569;
+}
+normlevel
+{
+    file = "351";
+    name = "spires";
+    par = 19.89;
+    id = 570;
+}
+normlevel
+{
+    file = "352";
+    name = "crystal court";
+    par = 16.43;
+    id = 571;
+}
+normlevel
+{
+    file = "353";
+    name = "foshay";
+    par = 20.96;
+    id = 572;
+}
+normlevel
+{
+    file = "356";
+    name = "linden hills";
+    par = 40.74;
+    id = 573;
+}
+normlevel
+{
+    file = "358";
+    name = "grain belt";
+    par = 17.97;
+    id = 574;
+}
+normlevel
+{
+    file = "359";
+    name = "hennepin/lake";
+    par = 23.72;
+    id = 575;
+}
+normlevel
+{
+    file = "361";
+    name = "riverside";
+    par = 20.00;
+    id = 576;
+}
+normlevel
+{
+    file = "362";
+    name = "superblock";
+    par = 36.58;
+    id = 577;
+}
+normlevel
+{
+    file = "363";
+    name = "basilica";
+    par = 22.55;
+    id = 578;
+}
+normlevel
+{
+    file = "365";
+    name = "dinkytown";
+    par = 57.66;
+    id = 579;
+}

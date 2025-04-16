@@ -1,0 +1,5 @@
+TitleID: 425307EC
+Version: 0.0.4.5
+
+PathName[0]: //title.425307ec/t:425307ec/titleStorage.tss - Size: 6716 (0x1A3C) bytes - Created: 12/08/2011 - 13:35:37 - Modified: 10/10/2011 - 20:50:10
+

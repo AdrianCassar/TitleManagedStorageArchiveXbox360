@@ -1,0 +1,22 @@
+strServerPath: //title.415607ff/t:415607ff/*
+
+PathName[0]: //title.415607ff/t:415607ff/ffotd_mp-spanish.ff - Size: 7488 - Created: 18/05/2009 - 21:50:32 - Modified: 18/05/2009 - 21:50:32
+
+PathName[1]: //title.415607ff/t:415607ff/ffotd_mp-russian.ff - Size: 7488 - Created: 18/05/2009 - 21:50:30 - Modified: 18/05/2009 - 21:50:30
+
+PathName[2]: //title.415607ff/t:415607ff/ffotd_mp-korean.ff - Size: 7488 - Created: 18/05/2009 - 21:50:27 - Modified: 18/05/2009 - 21:50:27
+
+PathName[3]: //title.415607ff/t:415607ff/ffotd_mp-japanese.ff - Size: 7488 - Created: 18/05/2009 - 21:50:24 - Modified: 18/05/2009 - 21:50:24
+
+PathName[4]: //title.415607ff/t:415607ff/ffotd_mp-italian.ff - Size: 7488 - Created: 18/05/2009 - 21:50:21 - Modified: 18/05/2009 - 21:50:21
+
+PathName[5]: //title.415607ff/t:415607ff/ffotd_mp-german.ff - Size: 7488 - Created: 18/05/2009 - 21:50:19 - Modified: 18/05/2009 - 21:50:19
+
+PathName[6]: //title.415607ff/t:415607ff/ffotd_mp-french.ff - Size: 7488 - Created: 18/05/2009 - 21:50:16 - Modified: 18/05/2009 - 21:50:16
+
+PathName[7]: //title.415607ff/t:415607ff/ffotd_mp-english.ff - Size: 7488 - Created: 18/05/2009 - 21:50:13 - Modified: 18/05/2009 - 21:50:13
+
+PathName[8]: //title.415607ff/t:415607ff/playlists.info - Size: 14662 - Created: 06/10/2008 - 18:52:24 - Modified: 15/05/2009 - 18:11:48
+
+PathName[9]: //title.415607ff/t:415607ff/clantags.csv - Size: 541 - Created: 06/12/2008 - 01:01:02 - Modified: 06/12/2008 - 01:01:02
+

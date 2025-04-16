@@ -1,0 +1,180 @@
+chapter
+{
+	name = "Expert Remix";
+	music = "hardhell.wav";
+	altmusic = "hardhell.wav";
+	warpmusic = "internets.wav";
+	menunormalmusic = "hmenuloop.wav";
+	menuretromusic = "ch6hardmenu.wav";
+	warptrans = "warp.am";
+	intro = "internetsintro.am";
+	bossintro = "boss5intro.am";
+	bossoutro = "bossintro1.am";
+	bossmusic = "bawsslewp.wav";
+	overridechar = 1;
+	lives = 30;
+	time = 100.5;
+}
+
+normlevel
+{
+	file = "expert1-1";
+	name = "Howdy";
+	par = 7.0;
+	id = 390;
+}
+
+normlevel
+{
+	file = "expert1-2";
+	name = "Burrito Boy";
+	par = 20;
+	id = 391;
+}
+
+normlevel
+{
+	file = "expert1-3";
+	name = "Regerts";
+	par =21.0;
+	id = 392;
+}
+
+normlevel
+{
+	file = "expert1-4";
+	name = "Big Time";
+	par = 17.0;
+	id = 393;
+}
+
+normlevel
+{
+	file = "expert1-5";
+	name = "Play Dead";
+	par = 17.5;
+	id = 394;
+}
+
+normlevel
+{
+	file = "expert1-6";
+	name = "Gozer";
+	par = 22.5;
+	id = 395;
+}
+
+normlevel
+{
+	file = "expert1-7";
+	name = "Doppelganger";
+	par = 46.0;
+	id = 396;
+}
+
+normlevel
+{
+	file = "expert1-8";
+	name = "Flex";
+	par = 19.0;
+	id = 397;
+}
+
+normlevel
+{
+	file = "expert1-9";
+	name = "Super Shaft!";
+	par = 9;
+	id = 398;
+}
+
+normlevel
+{
+	file = "expert1-10";
+	name = "Tea Leaf";
+	par = 12;
+	id = 399;
+}
+
+normlevel
+{
+	file = "expert1-11";
+	name = "Kingsley";
+	par =41.5;
+	id = 400;
+}
+
+normlevel
+{
+	file = "expert1-12";
+	name = "Toxie";
+	par = 12.0;
+	id = 401;
+}
+
+normlevel
+{
+	file = "expert1-13";
+	name = "Ping";
+	par = 60.0;
+	id = 402;
+}
+
+normlevel
+{
+	file = "expert1-14";
+	name = "Peeping Tom";
+	par = 36;
+	id = 403;
+}
+
+normlevel
+{
+	file = "expert1-15";
+	name = "Open Sky";
+	par = 24.5;
+	id = 404;
+}
+
+normlevel
+{
+	file = "expert1-16";
+	name = "Drop Dead";
+	par = 15.5;
+	id = 405;
+}
+
+
+normlevel
+{
+	file = "expert1-17";
+	name = "Flea";
+	par = 34;
+	id = 406;
+}
+
+normlevel
+{
+	file = "expert1-18";
+	name = "Speck";
+	par = 60.0;
+	id = 407;
+}
+
+normlevel
+{
+	file = "expert1-19";
+	name = "AAAAAAHHH!";
+	par = 16.0;
+	id = 408;
+}
+
+normlevel
+{
+	file = "expert1-20";
+	name = "Puberty";
+	par = 50;
+	id = 409;
+} 
+
+

@@ -1,0 +1,16 @@
+# Butler's choice (offer ids by priority)
+
+00004d5308d60ccf009c   # Free dog breed
+00004d5308d60ccf0071   # Free Weapons
+00004d5308d60ccf009d   # Paid dog breeds
+00004d5308d60ccf0076   # Understone Quest Pack
+00004d5308d60ccf0075   # Red Setter Dog Skin
+00004d5308d60ccf0077   # Dog Suit Hero Outfit
+00004d5308d60ccf0078   # Reaver Industries Hero Outfit
+00004d5308d60ccf0072   # Scot Male Hero Outfit
+00004d5308d60ccf0073   # Scot Female Hero Outfit
+00004d5308d60ccf0079   # Dye Pack
+00004d5308d60ccf007b   # Exclusive Hair Pack
+00004d5308d60ccf007a   # 5 Star Dog Potion
+00004d5308d60ccf0074   # Highlander Tattoo Set
+

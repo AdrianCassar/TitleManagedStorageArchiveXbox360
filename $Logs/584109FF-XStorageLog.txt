@@ -1,0 +1,15 @@
+TitleID: 584109FF
+Version: 0.0.1.4
+
+PathName[0]: //title.584109ff/t:584109ff/mailbox_en.pak - Size: 190256 (0x2E730) bytes - Created: 25/10/2010 - 19:52:38 - Modified: 14/03/2011 - 19:51:15
+
+PathName[1]: //title.584109ff/t:584109ff/mailbox_jp.pak - Size: 149568 (0x24840) bytes - Created: 26/10/2010 - 20:59:00 - Modified: 27/10/2010 - 20:51:10
+
+PathName[2]: //title.584109ff/t:584109ff/mailbox_it.pak - Size: 150280 (0x24B08) bytes - Created: 26/10/2010 - 20:58:53 - Modified: 27/10/2010 - 20:50:20
+
+PathName[3]: //title.584109ff/t:584109ff/mailbox_fr.pak - Size: 157240 (0x26638) bytes - Created: 26/10/2010 - 20:58:50 - Modified: 27/10/2010 - 20:50:17
+
+PathName[4]: //title.584109ff/t:584109ff/mailbox_es.pak - Size: 154488 (0x25B78) bytes - Created: 26/10/2010 - 20:58:40 - Modified: 27/10/2010 - 20:50:14
+
+PathName[5]: //title.584109ff/t:584109ff/mailbox_de.pak - Size: 159224 (0x26DF8) bytes - Created: 26/10/2010 - 20:58:36 - Modified: 27/10/2010 - 20:50:11
+

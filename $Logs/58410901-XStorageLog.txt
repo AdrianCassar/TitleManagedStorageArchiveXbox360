@@ -1,0 +1,5 @@
+TitleID: 58410901
+Version: 0.0.1.2
+
+PathName[0]: //title.58410901/t:58410901/duke3dtitlestorage.xml - Size: 2133 (0x855) bytes - Created: 23/09/2008 - 21:24:00 - Modified: 23/09/2008 - 21:24:00
+

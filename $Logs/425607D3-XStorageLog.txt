@@ -1,0 +1,5 @@
+TitleID: 425607D3
+Version: 0.0.2.2
+
+PathName[0]: //title.425607d3/t:425607d3/TurokPlaylist_TitleStorage.ini - Size: 56933 (0xDE65) bytes - Created: 07/03/2008 - 02:55:09 - Modified: 07/03/2008 - 02:55:09
+

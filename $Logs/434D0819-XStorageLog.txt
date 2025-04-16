@@ -1,0 +1,5 @@
+TitleID: 434D0819
+Version: 0.0.1.1
+
+PathName[0]: //title.434d0819/t:434d0819/PTConfig.xml - Size: 12088 (0x2F38) bytes - Created: 21/10/2009 - 11:07:44 - Modified: 06/11/2009 - 19:56:19
+

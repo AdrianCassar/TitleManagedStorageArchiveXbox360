@@ -1,0 +1,27 @@
+TitleID: 4D5307F1
+Version: 0.0.1.26
+
+PathName[0]: //title.4d5307f1/t:4d5307f1/tms_dlcnames_zh-cht.babel - Size: 146 (0x92) bytes - Created: 12/12/2008 - 18:47:46 - Modified: 02/04/2009 - 20:41:14
+
+PathName[1]: //title.4d5307f1/t:4d5307f1/tms_dlcnames_ko-kr.babel - Size: 162 (0xA2) bytes - Created: 12/12/2008 - 18:47:44 - Modified: 02/04/2009 - 20:41:12
+
+PathName[2]: //title.4d5307f1/t:4d5307f1/tms_dlcnames_ja-jp.babel - Size: 159 (0x9F) bytes - Created: 12/12/2008 - 18:47:41 - Modified: 02/04/2009 - 20:41:09
+
+PathName[3]: //title.4d5307f1/t:4d5307f1/tms_dlcnames_it-it.babel - Size: 201 (0xC9) bytes - Created: 12/12/2008 - 18:47:38 - Modified: 02/04/2009 - 20:41:06
+
+PathName[4]: //title.4d5307f1/t:4d5307f1/tms_dlcnames_fr-fr.babel - Size: 180 (0xB4) bytes - Created: 12/12/2008 - 18:47:36 - Modified: 02/04/2009 - 20:41:03
+
+PathName[5]: //title.4d5307f1/t:4d5307f1/tms_dlcnames_es-la.babel - Size: 186 (0xBA) bytes - Created: 12/12/2008 - 18:47:33 - Modified: 02/04/2009 - 20:41:00
+
+PathName[6]: //title.4d5307f1/t:4d5307f1/tms_dlcnames_es-es.babel - Size: 189 (0xBD) bytes - Created: 12/12/2008 - 18:47:30 - Modified: 02/04/2009 - 20:40:57
+
+PathName[7]: //title.4d5307f1/t:4d5307f1/tms_dlcnames_en-uk.babel - Size: 180 (0xB4) bytes - Created: 12/12/2008 - 18:47:27 - Modified: 02/04/2009 - 20:40:55
+
+PathName[8]: //title.4d5307f1/t:4d5307f1/tms_dlcnames_de-de.babel - Size: 182 (0xB6) bytes - Created: 12/12/2008 - 18:47:25 - Modified: 02/04/2009 - 20:40:52
+
+PathName[9]: //title.4d5307f1/t:4d5307f1/LivePresence.ini - Size: 186 (0xBA) bytes - Created: 16/10/2008 - 16:39:51 - Modified: 30/12/2008 - 12:51:20
+
+PathName[10]: //title.4d5307f1/t:4d5307f1/items.dat - Size: 11 (0xB) bytes - Created: 30/12/2008 - 12:51:17 - Modified: 30/12/2008 - 12:51:17
+
+PathName[11]: //title.4d5307f1/t:4d5307f1/gold.dat - Size: 4 (0x4) bytes - Created: 30/12/2008 - 12:51:14 - Modified: 30/12/2008 - 12:51:14
+

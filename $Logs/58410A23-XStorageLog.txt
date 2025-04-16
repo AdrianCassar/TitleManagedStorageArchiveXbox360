@@ -1,0 +1,13 @@
+TitleID: 58410A23
+Version: 0.0.4.1
+
+PathName[0]: //title.58410a23/t:58410a23/PTSData.pxp - Size: 1869141 (0x1C8555) bytes - Created: 21/10/2010 - 22:29:13 - Modified: 07/11/2017 - 20:58:23
+
+PathName[1]: //title.58410a23/t:58410a23/PTSVersion.txt - Size: 10 (0xA) bytes - Created: 21/10/2010 - 22:29:15 - Modified: 07/11/2017 - 20:26:54
+
+PathName[2]: //title.58410a23/t:58410a23/PropResults_2011-05-02-103129.txt - Size: 628 (0x274) bytes - Created: 18/05/2011 - 19:15:22 - Modified: 18/05/2011 - 19:15:22
+
+PathName[3]: //title.58410a23/t:58410a23/2011-05-02-102420_2c5d88e7-ef6b-46b7-abd5-9f2f85253a59.xml - Size: 2236 (0x8BC) bytes - Created: 18/05/2011 - 19:15:20 - Modified: 18/05/2011 - 19:15:20
+
+Illegal name was substituted with File[3]NameSub-CheckLog
+

@@ -1,0 +1,159 @@
+
+chapter
+{
+    name = "Starlight";
+    music = "factory.wav";
+    altmusic = "factory.wav";
+    warpmusic = "factory.wav";
+    menunormalmusic = "internetsmenu.wav";
+    menuretromusic = "ch6hardmenu.wav";
+    warptrans = "warp.am";
+    intro = "internetsintro.am";
+    bossintro = "boss5intro.am";
+    bossoutro = "bossintro1.am";
+    bossmusic = "bawsslewp.wav";
+    overridechar = ;
+    lives = 30;
+    time = 100.5;
+}
+
+normlevel
+{
+    file = "278";
+    name = "rubicon";
+    par = 21.01;
+    id = 510;
+}
+normlevel
+{
+    file = "279";
+    name = "pillbox";
+    par = 13.08;
+    id = 511;
+}
+normlevel
+{
+    file = "280";
+    name = "pale moon";
+    par = 14.07;
+    id = 512;
+}
+normlevel
+{
+    file = "281";
+    name = "phobos";
+    par = 15.09;
+    id = 513;
+}
+normlevel
+{
+    file = "282";
+    name = "long eyeland";
+    par = 12.10;
+    id = 514;
+}
+normlevel
+{
+    file = "283";
+    name = "big babel";
+    par = 14.15;
+    id = 515;
+}
+normlevel
+{
+    file = "284";
+    name = "domino";
+    par = 12.59;
+    id = 516;
+}
+normlevel
+{
+    file = "285";
+    name = "pink death";
+    par = 10.76;
+    id = 517;
+}
+normlevel
+{
+    file = "286";
+    name = "16th parallel";
+    par = 15.50;
+    id = 518;
+}
+normlevel
+{
+    file = "287";
+    name = "red planet";
+    par = 8.15;
+    id = 519;
+}
+normlevel
+{
+    file = "288";
+    name = "milky way";
+    par = 13.07;
+    id = 520;
+}
+normlevel
+{
+    file = "289";
+    name = "wrath of god";
+    par = 15.06;
+    id = 521;
+}
+normlevel
+{
+    file = "290";
+    name = "wimpy";
+    par = 17.68;
+    id = 522;
+}
+normlevel
+{
+    file = "291";
+    name = "narrows";
+    par = 14.07;
+    id = 523;
+}
+normlevel
+{
+    file = "292";
+    name = "grimace";
+    par = 14.27;
+    id = 524;
+}
+normlevel
+{
+    file = "293";
+    name = "atlantis";
+    par = 11.42;
+    id = 525;
+}
+normlevel
+{
+    file = "294";
+    name = "200 degreest";
+    par = 9.59;
+    id = 526;
+}
+normlevel
+{
+    file = "295";
+    name = "shaftstop";
+    par = 15.73;
+    id = 527;
+}
+normlevel
+{
+    file = "296";
+    name = "durandal";
+    par = 25.57;
+    id = 528;
+}
+normlevel
+{
+    file = "297";
+    name = "limoncello";
+    par = 15.75;
+    id = 529;
+}

@@ -1,0 +1,5 @@
+TitleID: 43430821
+Version: 0.0.1.5
+
+PathName[0]: //title.43430821/t:43430821/titlestorage.bin - Size: 8 (0x8) bytes - Created: 26/10/2011 - 01:27:56 - Modified: 08/03/2012 - 00:00:17
+

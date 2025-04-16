@@ -1,0 +1,5 @@
+TitleID: 425307D9
+Version: 0.0.4.3
+
+PathName[0]: //title.425307d9/t:425307d9/titlestorage.tss - Size: 34044 (0x84FC) bytes - Created: 08/04/2011 - 11:45:39 - Modified: 21/03/2012 - 09:33:54
+

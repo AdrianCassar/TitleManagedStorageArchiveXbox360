@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<!-- All the xuids in here are for Retail -->
+  
+  <!-- Mojang -->
+  <data xuid="2533274792231700" cape="Mojang_Cape.png"/>
+  <data xuid="2533274914658058" cape="Mojang_Cape.png"/>
+  <data xuid="2533274828283710" cape="Mojang_Cape.png"/>
+  <data xuid="2533274797915360" cape="Mojang_Cape.png"/>
+  <data xuid="2533274846346220" cape="Mojang_Cape.png"/>
+  <data xuid="2533274792337920" cape="Mojang_Cape.png"/>
+  <data xuid="2533274818360410" cape="Mojang_Cape.png"/>
+  <data xuid="2533274932601480" cape="Mojang_Cape.png"/>
+  <data xuid="2533274863463230" cape="Mojang_Cape.png"/>
+  <data xuid="2533274824276080" cape="Mojang_Cape.png"/>
+  
+
+  <!-- DannyB -->
+  <data xuid="2533274827992396" cape="DB_Cape.png"/>
+
+ <!-- Deadmau5 to be added when he has a xuid name="XUID_DEADMAU5" xuid="" skin="Deadmau5_Skin.png" -->
+
+ <!-- Microsoft -->
+
+  <data xuid="2533274862450704" cape="Xbox_Cape.png"/>
+  <data xuid="2533274810692209" cape="Xbox_Cape.png"/>
+  <data xuid="2533274791884536" cape="Xbox_Cape.png"/>
+  <data xuid="2533274825220315" cape="Xbox_Cape.png"/>
+  <data xuid="2701489597909653" cape="Xbox_Cape.png"/>
+  <data xuid="2533274910868778" cape="Xbox_Cape.png"/>
+  <data xuid="2533274808579186" cape="Xbox_Cape.png"/>
+  <data xuid="2533274865878989" cape="Xbox_Cape.png"/>
+  <data xuid="2533274805837713" cape="Xbox_Cape.png"/>
+  <data xuid="2533274912246977" cape="Xbox_Cape.png"/>
+  <data xuid="2533274806957958" cape="Xbox_Cape.png"/>
+  <data xuid="2806707624938879" cape="Xbox_Cape.png"/>
+  <data xuid="2732987988162015" cape="Xbox_Cape.png"/>
+  <data xuid="2533274798008351" cape="Xbox_Cape.png"/>
+  <data xuid="2734998523705957" cape="Xbox_Cape.png"/>
+  <data xuid="2533274895135337" cape="Xbox_Cape.png"/>
+  <data xuid="2533274792145653" cape="Xbox_Cape.png"/>
+  <data xuid="2533274822107517" cape="Xbox_Cape.png"/>
+  <data xuid="2704170311970688" cape="Xbox_Cape.png"/>
+  <data xuid="2533274792083918" cape="Xbox_Cape.png"/>
+  <data xuid="2533274817382948" cape="Xbox_Cape.png"/>
+  <data xuid="2533274796009016" cape="Xbox_Cape.png"/>
+  <data xuid="2566113537681573" cape="Xbox_Cape.png"/>
+  <data xuid="2706851026034373" cape="Xbox_Cape.png"/>
+  <data xuid="2533274797038525" cape="Xbox_Cape.png"/>
+  <data xuid="2533274792193926" cape="Xbox_Cape.png"/>
+  <data xuid="2533274810788292" cape="Xbox_Cape.png"/>
+  <data xuid="2533274801084771" cape="Xbox_Cape.png"/>
+  <data xuid="2533274908322507" cape="Xbox_Cape.png"/>
+  <data xuid="2798665482723034" cape="Xbox_Cape.png"/>
+  <data xuid="2711542275645890" cape="Xbox_Cape.png"/>
+  <data xuid="2533274793441808" cape="Xbox_Cape.png"/>
+  <data xuid="2533274830814106" cape="Xbox_Cape.png"/>
+  <data xuid="2533274793649422" cape="Xbox_Cape.png"/>
+  <data xuid="2533274814733373" cape="Xbox_Cape.png"/>
+  <data xuid="2718244060818085" cape="Xbox_Cape.png"/>
+  <data xuid="2581527643547663" cape="Xbox_Cape.png"/>
+  <data xuid="2533274807568626" cape="Xbox_Cape.png"/>
+  <data xuid="2736338880743004" cape="Xbox_Cape.png"/>
+  <data xuid="2533274904986724" cape="Xbox_Cape.png"/>
+  <data xuid="2687415849073554" cape="Xbox_Cape.png"/>
+  <data xuid="2533274792605712" cape="Xbox_Cape.png"/>
+  <data xuid="2533274795358104" cape="Xbox_Cape.png"/>
+  <data xuid="2533274806863153" cape="Xbox_Cape.png"/>
+  <data xuid="2533274795491327" cape="Xbox_Cape.png"/>
+  <data xuid="2671331564688722" cape="Xbox_Cape.png"/>
+  <data xuid="2533274809149768" cape="Xbox_Cape.png"/>
+  <data xuid="2533274796827395" cape="Xbox_Cape.png"/>
+  <data xuid="2533274818325747" cape="Xbox_Cape.png"/>
+  <data xuid="2533274794336340" cape="Xbox_Cape.png"/>
+  <data xuid="2629780496706053" cape="Xbox_Cape.png"/>
+  <data xuid="2533274873738820" cape="Xbox_Cape.png"/>
+  <data xuid="2533274888812460" cape="Xbox_Cape.png"/>
+
+  <!-- 4J -->
+
+  <data xuid="2533274794164740" cape="4J_Cape.png"/>
+  <data xuid="2533274843839320" cape="4J_Cape.png"/>
+  <data xuid="2533274820016710" cape="4J_Cape.png"/>
+  <data xuid="2533274797769370" cape="4J_Cape.png"/>
+  <data xuid="2533274817739430" cape="4J_Cape.png"/>
+  <data xuid="2533274831484110" cape="4J_Cape.png"/>
+  <data xuid="2533274829171060" cape="4J_Cape.png"/>
+  <data xuid="2604313713099550" cape="4J_Cape.png"/>
+  <data xuid="2533274821147200" cape="4J_Cape.png"/>
+  <data xuid="2533274807378450" cape="4J_Cape.png"/>
+
+
+  <!-- Millionth Buyer to be added when there is one  xuid="" cape="1M_Cape.png" -->
+
+
+</root>

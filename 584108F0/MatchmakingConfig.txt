@@ -1,0 +1,342 @@
+// Set to true to ignore Config file from Live and use local version instead
+// Generally this should be false unless testing things locally and the version
+// uploaded to live should ALWAYS be false.
+UseLocalConfigFile = false
+
+// Message of the day for different languages...
+Language = en-en
+	// year,month,day,hour,minute,second "Message of the day"
+	// Note do not put leading zeros in these numbers!
+	Message = 2000,1,1,0,0,0 ""
+	Message = 2008,9,19,0,0 "We hope ye be havin' a groggingly good International Talk Like a Pirate Day!"
+	Message = 2008,9,20,0,0 ""
+
+Language = de-de
+	Message = 2000,1,1,0,0,0 ""
+
+Language = fr-fr
+	Message = 2000,1,1,0,0,0 ""
+
+Language = es-es
+	Message = 2000,1,1,0,0,0 ""
+
+Language = it-it
+	Message = 2000,1,1,0,0,0 ""
+
+QuickmatchOptions = OpenNat
+	GameCountdownTimer = 5.9	// How long to wait once we have a full game to start
+	DesperationTimer = 180.0	// How long before asking user to expand search
+	TryJoinTimeout = 10.0	// wait a second for a join request response
+	MinHostingTime = 15.0	// Minimum amount of time to spend as host
+	MaxHostingTime = 30.0	// Maximum time to spend as host
+	PartyWaitTime = 30.0	// Max time to wait for party to follow
+	ArbitrationConfirmationTimeout = 10.0	// Wait 10 seconds for clients to register with arbitration server
+	SelectingMapDelayWithNewPlayers = 2.0	// Wait for 2 seconds after filling up the game before starting arbitration
+	SelectingMapDelayForEstablishedGroup = 20.0	// For groups that stay together after a game, wait 20 seconds
+
+	MinTimeToDissolveRandomHost = 120
+	MaxTimeToDissolveRandomHost = 240
+
+	// Ignore condition if value is <= 0
+	JoinFailuresBeforeHosting = 15
+	JoinTimeoutsBeforeHosting = 10
+	JoinRejectionsBeforeHosting = -1
+
+QuickmatchOptions = ModerateNat
+	GameCountdownTimer = 5.9	// How long to wait once we have a full game to start
+	DesperationTimer = 180.0	// How long before asking user to expand search
+	TryJoinTimeout = 10.0	// wait a second for a join request response
+	MinHostingTime = 15.0	// Minimum amount of time to spend as host
+	MaxHostingTime = 30.0	// Maximum time to spend as host
+	PartyWaitTime = 30.0	// Max time to wait for party to follow
+	ArbitrationConfirmationTimeout = 10.0	// Wait 10 seconds for clients to register with arbitration server
+	SelectingMapDelayWithNewPlayers = 2.0	// Wait for 2 seconds after filling up the game before starting arbitration
+	SelectingMapDelayForEstablishedGroup = 20.0	// For groups that stay together after a game, wait 20 seconds
+
+	MinTimeToDissolveRandomHost = 120	// Wait 2 minutes before breaking up an empty host
+	MaxTimeToDissolveRandomHost = 240	// Wait 5 minutes before breaking up a completely full host
+
+	// Ignore condition if value is <= 0
+	JoinFailuresBeforeHosting = 30
+	JoinTimeoutsBeforeHosting = 15
+	JoinRejectionsBeforeHosting = -1
+
+QuickmatchOptions = StrictNat
+	GameCountdownTimer = 5.9	// How long to wait once we have a full game to start
+	DesperationTimer = 180.0	// How long before asking user to expand search
+	TryJoinTimeout = 10.0	// wait a second for a join request response
+	MinHostingTime = 15.0	// Minimum amount of time to spend as host
+	MaxHostingTime = 30.0	// Maximum time to spend as host
+	PartyWaitTime = 30.0	// Max time to wait for party to follow
+	ArbitrationConfirmationTimeout = 10.0	// Wait 10 seconds for clients to register with arbitration server
+	SelectingMapDelayWithNewPlayers = 2.0	// Wait for 2 seconds after filling up the game before starting arbitration
+	SelectingMapDelayForEstablishedGroup = 20.0	// For groups that stay together after a game, wait 20 seconds
+
+	MinTimeToDissolveRandomHost = 120
+	MaxTimeToDissolveRandomHost = 240
+
+	// Ignore condition if value is <= 0
+	JoinFailuresBeforeHosting = 50
+	JoinTimeoutsBeforeHosting = 25
+	JoinRejectionsBeforeHosting = -1
+
+//-----------------------------------------------------------------------------
+
+Playlist = 2v2
+	Enabled = true	// set to false to turn off this playlist
+
+	// How likely a group of the given size is to host this playlist
+	// if they didn't set a playlist preference and can't join a game
+	GroupHostWeight = 1, 1.0		// single players will always host 2v2
+	GroupHostWeight = 2, 1.0		// pairs will always host 2v2
+	GroupHostWeight = 3, 0.0
+	GroupHostWeight = 4, 0.0
+	GroupHostWeight = 5, 0.0		// groups with more then 4 people can't host 2v2 games
+	GroupHostWeight = 6, 0.0
+	GroupHostWeight = 7, 0.0
+	GroupHostWeight = 8, 0.0
+
+	// MapId and map name.
+	// During development we don't want to rely just on MapId because the id changes
+	// if the map has be edited.  Text map name is only used during development if
+	// the MapId can't be found
+
+	// Example of how to reference a DLC map...
+	//		Map = 0xFA4E9A4E:0xA2975074		// [CA] Barrage
+	//			Weight = 2.0
+
+	Map = 0, After_All.map
+		Weight = 2.0
+
+	Map = 0, Chaos.map
+		Weight = 1.0
+	
+	Map = 0, Cross_the_Main.map
+		Weight = 2.0
+		
+	Map = 0, Desert_Winds.map
+		Weight = 3.0
+		
+	Map = 0, Dire_Straits.map
+		Weight = 2.0
+
+	Map = 0, Isles_of_Fear.map
+		Weight = 2.0
+		
+	Map = 0, Lagoons.map
+		Weight = 1.0	
+	
+	Map = 0, Marauders.map
+		Weight = 2.0
+
+	Map = 0, Native_Wood.map
+		Weight = 1.0
+
+	Map = 0, Northern_Rum.map
+		Weight = 2.0		
+
+	Map = 0, Pining_Spirits.map
+		Weight = 2.0
+		
+	Map = 0, Quick_or_Dead.map
+		Weight = 2.0
+	
+	Map = 0, Rum_Runners.map
+		Weight = 1.0
+
+	Map = 0, Sunset.map
+		Weight = 3.0
+		
+	Map = 0, Tattered_Canvas.map
+		Weight = 2.0
+
+	Map = 0, The_Stache.map
+		Weight = 3.0
+
+
+//-----------------------------------------------------------------------------
+
+Playlist = 4v4
+	Enabled = true
+
+	GroupHostWeight = 1, 0.0
+	GroupHostWeight = 2, 0.0
+	GroupHostWeight = 3, 1.0	// This group size wants to host a 3v3 game
+	GroupHostWeight = 4, 1.0		// Only host 4v4 if we have four of more people
+	GroupHostWeight = 5, 1.0
+	GroupHostWeight = 6, 1.0	// This group size wants to host a 3v3 game
+	GroupHostWeight = 7, 1.0
+	GroupHostWeight = 8, 1.0		// All group sizes can host 4v4 games
+
+
+	Map = 0, Chaos.map
+		Weight = 4.0
+
+	Map = 0, Cross_the_Main.map
+		Weight = 4.0
+
+	Map = 0, Desert_Winds.map
+		Weight = 2.0
+
+	Map = 0, Dire_Straits.map
+		Weight = 2.0
+
+	Map = 0, Isla_de_la_Muerte.map
+		Weight = 4.0
+
+	Map = 0, Isles_of_Fear.map
+		Weight = 4.0
+
+	Map = 0, Lagoons.map
+		Weight = 6.0
+		
+	Map = 0, Marauders.map
+		Weight = 2.0
+
+	Map = 0, Mountain_Retreat.map
+		Weight = 4.0
+
+	Map = 0, Native_Wood.map
+		Weight = 4.0
+
+	Map = 0, Northern_Rum.map
+		Weight = 4.0
+
+	Map = 0, Pining_Spirits.map
+		Weight = 2.0
+
+	Map = 0, River_Raiders.map
+		Weight = 2.0
+
+	Map = 0, Rum_Runners.map
+		Weight = 2.0
+		
+	Map = 0, Sunset.map
+		Weight = 2.0
+
+	Map = 0, Tattered_Canvas.map
+		Weight = 6.0
+	
+	Map = 0, The_Stache.map
+		Weight = 6.0
+
+	Map = 0, Sinking_Feeling.map
+		Weight = 1.0
+
+	Map = 0, Magnificent_7.map
+		Weight = 1.0		
+		
+
+//-----------------------------------------------------------------------------
+
+Playlist = 3v3
+	// 3v3 is disabled because we want to ship with only 2v2 and 4v4
+	// NOTE: If you turn this back on, go to the 4v4 playlist and
+	//       set GroupHostWeight for 3 and 6 players to 0.0
+	Enabled = false
+
+	GroupHostWeight = 1, 0.0
+	GroupHostWeight = 2, 0.0
+	GroupHostWeight = 3, 1.0		// Start a 3v3 game if our party has 3 people
+	GroupHostWeight = 4, 0.0
+	GroupHostWeight = 5, 0.0
+	GroupHostWeight = 6, 1.0		// Start a 3v3 game if we already have 6 people
+	GroupHostWeight = 7, 0.0		// groups with more then 6 people can't host 3v3 games
+	GroupHostWeight = 8, 0.0
+
+	Map = 0, After_All.map
+		Weight = 1.0
+
+	Map = 0, Cross_the_Main.map
+		Weight = 4.0
+
+	Map = 0, Desert_Winds.map
+		Weight = 1.0
+
+	Map = 0, Dire_Straits.map
+		Weight = 4.0
+
+	Map = 0, Isla_de_la_Muerte.map
+		Weight = 4.0
+
+	Map = 0, Isles_of_Fear.map
+		Weight = 4.0
+
+	Map = 0, Lagoons.map
+		Weight = 4.0
+
+	Map = 0, Mountain_Retreat.map
+		Weight = 4.0
+
+	Map = 0, Native_Wood.map
+		Weight = 1.0
+
+	Map = 0, Northern_Rum.map
+		Weight = 4.0
+
+	Map = 0, Pining_Spirits.map
+		Weight = 4.0
+
+	Map = 0, Quick_or_Dead.map
+		Weight = 1.0
+
+	Map = 0, River_Raiders.map
+		Weight = 4.0
+
+	Map = 0, Rum_Runners.map
+		Weight = 4.0
+	
+	Map = 0, Sunset.map
+		Weight = 1.0
+			
+	Map = 0, Tattered_Canvas.map
+		Weight = 1.0
+
+	Map = 0, The_Stache.map
+		Weight = 4.0
+
+	Map = 0, Triumvirate.map
+		Weight = 4.0
+
+	Map = 0, Sinking_Feeling.map
+		Weight = 1.0
+
+	Map = 0, Magnificent_7.map
+		Weight = 1.0
+	
+	
+//-----------------------------------------------------------------------------
+
+Playlist = 2v2v2v2
+	// Battle Royale is disabled because we want to ship with only 2v2 and 4v4
+	Enabled = true
+
+	GroupHostWeight = 1, 0.0		// Never try to host a 2v2v2v2 game if quickmatch was chosen
+	GroupHostWeight = 2, 0.0
+	GroupHostWeight = 3, 0.0
+	GroupHostWeight = 4, 0.0
+	GroupHostWeight = 5, 0.0
+	GroupHostWeight = 6, 0.0
+	GroupHostWeight = 7, 0.0
+	GroupHostWeight = 8, 0.0		// All group sizes can host 2v2v2v2 games
+
+	Map = 0, Apocalypse.map
+		Weight = 1.0
+
+	Map = 0, One_Too_Few.map
+		Weight = 2.0
+	
+	Map = 0, Pain_in_the_Grass.map
+		Weight = 2.0
+
+	Map = 0, Shiver_Me_Timbers.map
+		Weight = 3.0
+
+	Map = 0, Steady_Aim.map
+		Weight = 3.0
+
+	Map = 0, Sinking_Feeling.map
+		Weight = 2.0
+		
+	Map = 0, Magnificent_7.map
+		Weight = 1.0

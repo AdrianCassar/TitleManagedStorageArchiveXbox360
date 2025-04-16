@@ -1,0 +1,180 @@
+chapter
+{
+	name = "Cramps (Nova)";
+	music = "ch2track.wav";
+	altmusic = "ch2track.wav";
+	warpmusic = "internets.wav";
+	menunormalmusic = "hmenuloop.wav";
+	menuretromusic = "ch6hardmenu.wav";
+	warptrans = "warp.am";
+	intro = "internetsintro.am";
+	bossintro = "boss5intro.am";
+	bossoutro = "bossintro1.am";
+	bossmusic = "bawsslewp.wav";
+	overridechar = 1;
+	lives = 30;
+	time = 100.5;
+}
+
+normlevel
+{
+	file = "cramps01";
+	name = "Ribs";
+	par = 3.5;
+	id = 410;
+}
+
+normlevel
+{
+	file = "cramps02";
+	name = "Lamp Oil";
+	par = 12;
+	id = 411;
+}
+
+normlevel
+{
+	file = "cramps03";
+	name = "Rope";
+	par =11.0;
+	id = 412;
+}
+
+normlevel
+{
+	file = "cramps04";
+	name = "Bombs";
+	par = 12.0;
+	id = 413;
+}
+
+normlevel
+{
+	file = "cramps05";
+	name = "Spelunk";
+	par = 16.0;
+	id = 414;
+}
+
+normlevel
+{
+	file = "cramps06";
+	name = "Parkour";
+	par = 12.0;
+	id = 415;
+}
+
+normlevel
+{
+	file = "cramps07";
+	name = "Warszawa";
+	par = 7.0;
+	id = 416;
+}
+
+normlevel
+{
+	file = "cramps08";
+	name = "Flex";
+	par = 11.0;
+	id = 417;
+}
+
+normlevel
+{
+	file = "cramps09";
+	name = "How do i do?";
+	par = 11.0;
+	id = 418;
+}
+
+normlevel
+{
+	file = "cramps10";
+	name = "What a shame";
+	par = 15;
+	id = 419;
+}
+
+normlevel
+{
+	file = "cramps11";
+	name = "CCCool";
+	par =26.0;
+	id = 420;
+}
+
+normlevel
+{
+	file = "cramps12";
+	name = "Ribs 2";
+	par = 19.0;
+	id = 421;
+}
+
+normlevel
+{
+	file = "cramps13";
+	name = "Run like Smeg";
+	par = 7.0;
+	id = 422;
+}
+
+normlevel
+{
+	file = "cramps14";
+	name = "uh, no";
+	par = 14;
+	id = 423;
+}
+
+normlevel
+{
+	file = "cramps15";
+	name = "Hot";
+	par = 19.0;
+	id = 424;
+}
+
+normlevel
+{
+	file = "cramps16";
+	name = "I Orange";
+	par = 17.0;
+	id = 425;
+}
+
+
+normlevel
+{
+	file = "cramps17";
+	name = "Lemon-Lime ";
+	par = 12.0;
+	id = 426;
+}
+
+normlevel
+{
+	file = "cramps18";
+	name = "The Box";
+	par = 19.0;
+	id = 427;
+}
+
+normlevel
+{
+	file = "cramps19";
+	name = "Troll Face";
+	par = 32.0;
+	id = 428;
+}
+
+normlevel
+{
+	file = "cramps20";
+	name = "U Meat";
+	par = 3.0;
+	id = 429;
+} 
+
+

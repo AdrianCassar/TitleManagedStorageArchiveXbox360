@@ -1,0 +1,180 @@
+chapter
+{
+	name = "Sewers of Dross";
+	music = "ch2trackalt.wav";
+	altmusic = "ch2trackalt.wav";
+	warpmusic = "internets.wav";
+	menunormalmusic = "hmenuloop.wav";
+	menuretromusic = "ch6hardmenu.wav";
+	warptrans = "warp.am";
+	intro = "internetsintro.am";
+	bossintro = "boss5intro.am";
+	bossoutro = "bossintro1.am";
+	bossmusic = "bawsslewp.wav";
+	overridechar = 24;
+	lives = 30;
+	time = 100.5;
+}
+
+normlevel
+{
+	file = "g1-1";
+	name = "Blood Drain";
+	par = 7.5;
+	id = 370;
+}
+
+normlevel
+{
+	file = "g1-2";
+	name = "Stick n Move";
+	par = 18;
+	id = 371;
+}
+
+normlevel
+{
+	file = "g1-3";
+	name = "Stalactite";
+	par =15.5;
+	id = 372;
+}
+
+normlevel
+{
+	file = "g1-4";
+	name = "Brittle";
+	par = 26;
+	id = 373;
+}
+
+normlevel
+{
+	file = "g1-5";
+	name = "Cog";
+	par = 17.5;
+	id = 374;
+}
+
+normlevel
+{
+	file = "g1-6";
+	name = "Paper Cuts";
+	par = 13.5;
+	id = 375;
+}
+
+normlevel
+{
+	file = "g1-7";
+	name = "Metal Waves";
+	par = 19;
+	id = 376;
+}
+
+normlevel
+{
+	file = "g1-8";
+	name = "Tree of Woe";
+	par = 38;
+	id = 377;
+}
+
+normlevel
+{
+	file = "g1-9";
+	name = "Backtraced!";
+	par = 19;
+	id = 378;
+}
+
+normlevel
+{
+	file = "g1-10";
+	name = "The Pants";
+	par = 9;
+	id = 379;
+}
+
+normlevel
+{
+	file = "g1-11";
+	name = "The Gallows";
+	par =9.5;
+	id = 380;
+}
+
+normlevel
+{
+	file = "g1-12";
+	name = "Private Hell";
+	par = 8.5;
+	id = 381;
+}
+
+normlevel
+{
+	file = "g1-13";
+	name = "The Drift";
+	par = 18.5;
+	id = 382;
+}
+
+normlevel
+{
+	file = "g1-14";
+	name = "Mr. ID";
+	par = 16;
+	id = 383;
+}
+
+normlevel
+{
+	file = "g1-15";
+	name = "Divide";
+	par = 38;
+	id = 384;
+}
+
+normlevel
+{
+	file = "g1-16";
+	name = "Crack the Sky";
+	par = 10;
+	id = 385;
+}
+
+
+normlevel
+{
+	file = "g1-17";
+	name = "Easy Target";
+	par = 29;
+	id = 386;
+}
+
+normlevel
+{
+	file = "g1-18";
+	name = "Half Light";
+	par = 38;
+	id = 387;
+}
+
+normlevel
+{
+	file = "g1-19";
+	name = "The Glow";
+	par = 13;
+	id = 388;
+}
+
+normlevel
+{
+	file = "g1-20";
+	name = "Hyperpower!";
+	par = 50;
+	id = 389;
+}
+
+

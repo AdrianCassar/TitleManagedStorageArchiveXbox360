@@ -1,0 +1,159 @@
+
+chapter
+{
+    name = "Paradise Lost";
+    music = "factory.wav";
+    altmusic = "factory.wav";
+    warpmusic = "factory.wav";
+    menunormalmusic = "internetsmenu.wav";
+    menuretromusic = "ch6hardmenu.wav";
+    warptrans = "warp.am";
+    intro = "internetsintro.am";
+    bossintro = "boss5intro.am";
+    bossoutro = "bossintro1.am";
+    bossmusic = "bawsslewp.wav";
+    overridechar = ;
+    lives = 30;
+    time = 100.5;
+}
+
+normlevel
+{
+    file = "256";
+    name = "chili";
+    par = 7.09;
+    id = 470;
+}
+normlevel
+{
+    file = "257";
+    name = "rig";
+    par = 13.60;
+    id = 471;
+}
+normlevel
+{
+    file = "258";
+    name = "s.h.a.f.t.";
+    par = 15.01;
+    id = 472;
+}
+normlevel
+{
+    file = "259";
+    name = "blues";
+    par = 13.39;
+    id = 473;
+}
+normlevel
+{
+    file = "260";
+    name = "clockwork";
+    par = 5.29;
+    id = 474;
+}
+normlevel
+{
+    file = "261";
+    name = "acid rain";
+    par = 5.27;
+    id = 475;
+}
+normlevel
+{
+    file = "262";
+    name = "the mist";
+    par = 7.33;
+    id = 476;
+}
+normlevel
+{
+    file = "263";
+    name = "paradigm";
+    par = 15.35;
+    id = 477;
+}
+normlevel
+{
+    file = "264";
+    name = "condom joke";
+    par = 8.10;
+    id = 478;
+}
+normlevel
+{
+    file = "265";
+    name = "h.a.l.l.";
+    par = 12.39;
+    id = 479;
+}
+normlevel
+{
+    file = "266";
+    name = "the plant";
+    par = 11.43;
+    id = 480;
+}
+normlevel
+{
+    file = "267";
+    name = "midnight";
+    par = 12.20;
+    id = 481;
+}
+normlevel
+{
+    file = "268";
+    name = "and down";
+    par = 8.63;
+    id = 482;
+}
+normlevel
+{
+    file = "269";
+    name = "grand prix";
+    par = 13.24;
+    id = 483;
+}
+normlevel
+{
+    file = "270";
+    name = "salt joke";
+    par = 10.52;
+    id = 484;
+}
+normlevel
+{
+    file = "271";
+    name = "going green";
+    par = 17.20;
+    id = 485;
+}
+normlevel
+{
+    file = "272";
+    name = "deception";
+    par = 10.03;
+    id = 486;
+}
+normlevel
+{
+    file = "273";
+    name = "stardust";
+    par = 9.03;
+    id = 487;
+}
+normlevel
+{
+    file = "274";
+    name = "milk";
+    par = 33.35;
+    id = 488;
+}
+normlevel
+{
+    file = "275";
+    name = "behemoth";
+    par = 37.40;
+    id = 489;
+}

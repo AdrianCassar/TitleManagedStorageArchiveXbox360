@@ -1,0 +1,5 @@
+TitleID: 584108B7
+Version: 0.0.4.3
+
+PathName[0]: //title.584108b7/t:584108b7/news.pak - Size: 53486 (0xD0EE) bytes - Created: 25/08/2011 - 21:46:21 - Modified: 06/08/2018 - 17:31:17
+

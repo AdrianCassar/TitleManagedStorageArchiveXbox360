@@ -1,0 +1,35 @@
+using root.typedefs.GamePackageTypes
+
+
+//////////////////////////////////////////////////////////////
+// Data for title managed storage.  This file does not get
+// put on the disc.
+//////////////////////////////////////////////////////////////
+
+type TITLESTORAGELX {
+	category	= "MP"
+	description	= "Title Manage Storage data from TMSData.lx"
+} titlestoragelx = {
+
+	bool			send_nat_in_qos             	= true			// for matchmaking.
+	bool			disable_char_locks             	= false			// for unlocking disk based special characters
+
+}
+
+
+
+//////////////////////////////////////////////////////////////
+// Gamertags
+///////////////////////////////////////////////////////////////
+
+
+/////////////////////////XBOX GAMERTAGS////////////////////////
+string[] gamertagsXbox = {
+	"Xefab89256RTHIU",
+    "complexicus",
+}
+
+/////////////////////////PS3  GAMERTAGS////////////////////////
+string[] gamertagsPS3 = {
+	"d1-hvqa25",
+}

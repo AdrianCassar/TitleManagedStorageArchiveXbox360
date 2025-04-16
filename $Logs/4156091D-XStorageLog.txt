@@ -1,0 +1,8 @@
+strServerPath: //title.4156091d/t:4156091d/*
+
+PathName[0]: //title.4156091d/t:4156091d/content_ids_1_ww.csv - Size: 252 - Created: 30/10/2015 - 22:27:27 - Modified: 18/04/2016 - 17:52:39
+
+PathName[1]: //title.4156091d/t:4156091d/content_ids_1_ja.csv - Size: 252 - Created: 30/10/2015 - 22:27:24 - Modified: 18/04/2016 - 17:52:38
+
+PathName[2]: //title.4156091d/t:4156091d/content_ids_1_ea.csv - Size: 252 - Created: 30/10/2015 - 22:27:20 - Modified: 18/04/2016 - 17:52:37
+

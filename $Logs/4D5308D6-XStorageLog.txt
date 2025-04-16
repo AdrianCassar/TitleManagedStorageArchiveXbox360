@@ -1,0 +1,33 @@
+TitleID: 4D5308D6
+Version: 0.0.1.11
+
+PathName[0]: //title.4d5308d6/t:4d5308d6/tms_dlcnames_zh-cht.babel - Size: 1193 (0x4A9) bytes - Created: 13/12/2010 - 14:52:52 - Modified: 13/12/2010 - 14:52:52
+
+PathName[1]: //title.4d5308d6/t:4d5308d6/tms_dlcnames_sk-sk.babel - Size: 1444 (0x5A4) bytes - Created: 13/12/2010 - 14:52:50 - Modified: 13/12/2010 - 14:52:50
+
+PathName[2]: //title.4d5308d6/t:4d5308d6/tms_dlcnames_ru-ru.babel - Size: 1154 (0x482) bytes - Created: 13/12/2010 - 14:52:47 - Modified: 13/12/2010 - 14:52:47
+
+PathName[3]: //title.4d5308d6/t:4d5308d6/tms_dlcnames_pl-pl.babel - Size: 1562 (0x61A) bytes - Created: 13/12/2010 - 14:52:44 - Modified: 13/12/2010 - 14:52:44
+
+PathName[4]: //title.4d5308d6/t:4d5308d6/tms_dlcnames_ko-kr.babel - Size: 1298 (0x512) bytes - Created: 13/12/2010 - 14:52:41 - Modified: 13/12/2010 - 14:52:41
+
+PathName[5]: //title.4d5308d6/t:4d5308d6/tms_dlcnames_ja-jp.babel - Size: 1259 (0x4EB) bytes - Created: 13/12/2010 - 14:52:38 - Modified: 13/12/2010 - 14:52:38
+
+PathName[6]: //title.4d5308d6/t:4d5308d6/tms_dlcnames_it-it.babel - Size: 1364 (0x554) bytes - Created: 13/12/2010 - 14:52:35 - Modified: 13/12/2010 - 14:52:35
+
+PathName[7]: //title.4d5308d6/t:4d5308d6/tms_dlcnames_hu-hu.babel - Size: 1444 (0x5A4) bytes - Created: 13/12/2010 - 14:52:32 - Modified: 13/12/2010 - 14:52:32
+
+PathName[8]: //title.4d5308d6/t:4d5308d6/tms_dlcnames_fr-fr.babel - Size: 1472 (0x5C0) bytes - Created: 13/12/2010 - 14:52:29 - Modified: 13/12/2010 - 14:52:29
+
+PathName[9]: //title.4d5308d6/t:4d5308d6/tms_dlcnames_es-la.babel - Size: 1393 (0x571) bytes - Created: 13/12/2010 - 14:52:26 - Modified: 13/12/2010 - 14:52:26
+
+PathName[10]: //title.4d5308d6/t:4d5308d6/tms_dlcnames_es-es.babel - Size: 1408 (0x580) bytes - Created: 13/12/2010 - 14:52:23 - Modified: 13/12/2010 - 14:52:23
+
+PathName[11]: //title.4d5308d6/t:4d5308d6/tms_dlcnames_en-uk.babel - Size: 1255 (0x4E7) bytes - Created: 13/12/2010 - 14:52:20 - Modified: 13/12/2010 - 14:52:20
+
+PathName[12]: //title.4d5308d6/t:4d5308d6/tms_dlcnames_de-de.babel - Size: 1504 (0x5E0) bytes - Created: 13/12/2010 - 14:52:17 - Modified: 13/12/2010 - 14:52:17
+
+PathName[13]: //title.4d5308d6/t:4d5308d6/tms_dlcnames_cs-cz.babel - Size: 1444 (0x5A4) bytes - Created: 13/12/2010 - 14:52:14 - Modified: 13/12/2010 - 14:52:14
+
+PathName[14]: //title.4d5308d6/t:4d5308d6/butlersChoice.txt - Size: 637 (0x27D) bytes - Created: 13/12/2010 - 14:52:11 - Modified: 13/12/2010 - 14:52:11
+

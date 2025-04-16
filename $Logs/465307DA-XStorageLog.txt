@@ -1,0 +1,7 @@
+TitleID: 465307DA
+Version: 0.0.4.1
+
+PathName[0]: //title.465307da/t:465307da/regulation_enc.bin - Size: 245952 (0x3C0C0) bytes - Created: 08/04/2009 - 04:47:14 - Modified: 17/04/2009 - 07:59:22
+
+PathName[1]: //title.465307da/t:465307da/Contents.bin - Size: 560 (0x230) bytes - Created: 08/04/2009 - 04:47:13 - Modified: 17/04/2009 - 07:59:19
+

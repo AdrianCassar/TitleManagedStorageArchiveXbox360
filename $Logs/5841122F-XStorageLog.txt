@@ -1,0 +1,5 @@
+TitleID: 5841122F
+Version: 0.0.2.3
+
+PathName[0]: //title.5841122f/t:5841122f/5841122F-PerTitleData.bin - Size: 3364 (0xD24) bytes - Created: 22/01/2013 - 17:13:02 - Modified: 22/01/2013 - 17:13:02
+

@@ -1,0 +1,4 @@
+strServerPath: //title.41560834/t:41560834/*
+
+PathName[0]: //title.41560834/t:41560834/TMSData.lx - Size: 950 - Created: 15/05/2009 - 17:42:24 - Modified: 15/05/2009 - 17:42:24
+

@@ -1,0 +1,5 @@
+TitleID: 584109E9
+Version: 0.0.0.4
+
+PathName[0]: //title.584109e9/t:584109e9/title_tweak.cfg - Size: 410 (0x19A) bytes - Created: 13/08/2012 - 18:47:24 - Modified: 25/08/2012 - 00:33:46
+

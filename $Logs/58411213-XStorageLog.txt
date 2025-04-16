@@ -1,0 +1,21 @@
+TitleID: 58411213
+Version: 0.0.1.1
+
+PathName[0]: //title.58411213/t:58411213/DownLoadDataRu.zip - Size: 354540 (0x568EC) bytes - Created: 18/09/2012 - 23:18:17 - Modified: 03/06/2013 - 18:00:34
+
+PathName[1]: //title.58411213/t:58411213/DownLoadDataPt.zip - Size: 353688 (0x56598) bytes - Created: 18/09/2012 - 23:18:14 - Modified: 03/06/2013 - 18:00:31
+
+PathName[2]: //title.58411213/t:58411213/DownLoadDataKo.zip - Size: 352220 (0x55FDC) bytes - Created: 18/09/2012 - 23:18:11 - Modified: 03/06/2013 - 18:00:28
+
+PathName[3]: //title.58411213/t:58411213/DownLoadDataJa.zip - Size: 352468 (0x560D4) bytes - Created: 18/09/2012 - 23:18:08 - Modified: 03/06/2013 - 18:00:25
+
+PathName[4]: //title.58411213/t:58411213/DownLoadDataIt.zip - Size: 351168 (0x55BC0) bytes - Created: 18/09/2012 - 23:18:05 - Modified: 03/06/2013 - 18:00:22
+
+PathName[5]: //title.58411213/t:58411213/DownLoadDataFr.zip - Size: 352932 (0x562A4) bytes - Created: 18/09/2012 - 23:18:03 - Modified: 03/06/2013 - 18:00:19
+
+PathName[6]: //title.58411213/t:58411213/DownLoadDataEs.zip - Size: 352972 (0x562CC) bytes - Created: 18/09/2012 - 23:18:00 - Modified: 03/06/2013 - 18:00:16
+
+PathName[7]: //title.58411213/t:58411213/DownLoadDataEn.zip - Size: 352084 (0x55F54) bytes - Created: 18/09/2012 - 23:17:57 - Modified: 03/06/2013 - 18:00:13
+
+PathName[8]: //title.58411213/t:58411213/DownLoadDataDe.zip - Size: 353792 (0x56600) bytes - Created: 18/09/2012 - 23:17:54 - Modified: 03/06/2013 - 18:00:10
+

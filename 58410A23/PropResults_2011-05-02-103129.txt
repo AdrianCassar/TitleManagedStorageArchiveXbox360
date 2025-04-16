@@ -1,0 +1,17 @@
+FileName : stutil.exe
+Arguments: -a:write -p://title/t:58410A23/PTSData.pxp -f:PTSData.pxp -t:0x58410A23 
+
+
+FileName : stutil.exe
+Arguments: -a:write -p://title/t:58410A23/PTSVersion.txt -f:PTSVersion.txt -t:0x58410A23 
+
+
+FileName : stutil.exe
+Arguments: -a:enum -p://title/t:58410A23/* -n:5000 
+
+Creation Date     	Modified Date     	Size	Path
+3/8/2011 4:09:42 PM	5/2/2011 5:27:57 PM	10	//title/t:58410a23/PTSVersion.txt
+3/8/2011 4:09:37 PM	5/2/2011 5:27:54 PM	1359016	//title/t:58410a23/PTSData.pxp
+8/18/2010 11:27:08 PM	8/18/2010 11:27:08 PM	1220575	//title/t:58410a23/tournament04.zip
+Listed 3 of 3 files.
+

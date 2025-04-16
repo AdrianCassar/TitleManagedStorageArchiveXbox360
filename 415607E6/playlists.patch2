@@ -1,0 +1,1117 @@
+version 177
+gametype hs_tdm
+name english "Team Deathmatch"
+name french "Match à mort en équipe"
+name italian "Deathmatch a squadre"
+name german "Team-Deathmatch"
+name spanish "Combate a muerte por equipos"
+name polish "Dru¿ynowy deathmatch"
+name russian "Êîìàíäíûé áîé"
+name japanese "ƒ`[ƒ€ƒfƒXƒ}ƒbƒ`"
+name korean "ÆÀ µ¥½º¸ÅÄ¡"
+script war
+teambased
+
+gametype sm_tdm
+name english "Team Deathmatch"
+name french "Match à mort en équipe"
+name italian "Deathmatch a squadre"
+name german "Team-Deathmatch"
+name spanish "Combate a muerte por equipos"
+name polish "Dru¿ynowy deathmatch"
+name russian "Êîìàíäíûé áîé"
+name japanese "ƒ`[ƒ€ƒfƒXƒ}ƒbƒ`"
+name korean "ÆÀ µ¥½º¸ÅÄ¡""
+script war
+teambased
+
+gametype big_tdm
+name english "Team Deathmatch"
+name french "Match à mort en équipe"
+name italian "Deathmatch a squadre"
+name german "Team-Deathmatch"
+name spanish "Combate a muerte por equipos"
+name polish "Dru¿ynowy deathmatch"
+name russian "Êîìàíäíûé áîé"
+name japanese "ƒ`[ƒ€ƒfƒXƒ}ƒbƒ`"
+name korean "ÆÀ µ¥½º¸ÅÄ¡""
+script war
+teambased
+rule scr_war_scorelimit 1000
+
+gametype smhc_tdm
+name english "Hardcore Team Deathmatch"
+name french "Match à mort en équipe Hardcore"
+name italian "Deathmatch veterano a squadre"
+name german "Hardcore-Team-Deathmatch"
+name spanish "Duelo a muerte extremo por equipos"
+name polish "Hardcore'owy dru¿ynowy deathmatch"
+name russian "Æåñêèé êîìàíäíûé áîé"
+name japanese "ƒn[ƒhƒRƒAEƒ`[ƒ€ƒfƒXƒ}ƒbƒ`"
+name korean "ÇÏµåÄÚ¾î ÆÀ µ¥½º¸ÅÄ¡"
+script war
+teambased
+rule scr_hardcore 1
+rule ui_hud_hardcore 1
+rule scr_team_fftype 1
+rule scr_player_healthregentime 0
+rule scr_player_maxhealth 30
+rule scr_war_scorelimit 500
+rule scr_war_waverespawndelay 15
+rule scr_game_allowkillcam 0
+
+gametype hc_tdm
+name english "Hardcore Team Deathmatch"
+name french "Match à mort en équipe Hardcore"
+name italian "Deathmatch veterano a squadre"
+name german "Hardcore-Team-Deathmatch"
+name spanish "Duelo a muerte extremo por equipos"
+name polish "Hardcore'owy dru¿ynowy deathmatch"
+name russian "Æåñêèé êîìàíäíûé áîé"
+name japanese "ƒn[ƒhƒRƒAEƒ`[ƒ€ƒfƒXƒ}ƒbƒ`"
+name korean "ÇÏµåÄÚ¾î ÆÀ µ¥½º¸ÅÄ¡"
+script war
+teambased
+rule scr_hardcore 1
+rule ui_hud_hardcore 1
+rule scr_team_fftype 1
+rule scr_player_healthregentime 0
+rule scr_player_maxhealth 30
+rule scr_war_waverespawndelay 15
+rule scr_game_allowkillcam 0
+
+gametype old_tdm
+name english "Old School Team Deathmatch"
+name french "Match à mort en équipe Ancienne école"
+name italian "Deathmatch a squadre tradizionale"
+name german "Traditionelles Team-Deathmatch"
+name spanish "Duelo a muerte por equipos vieja escuela"
+name polish "Tradycyjny dru¿ynowy Deathmatch"
+name russian "Êëàññè÷åñêèé êîìàíäíûé áîé"
+name japanese "ƒ`[ƒ€ƒfƒXƒ}ƒbƒ`"
+name korean "¿Ãµå½ºÄğ µ¥½º¸ÅÄ¡"
+script war
+teambased
+rule scr_oldschool 1
+rule scr_player_maxhealth 200
+
+gametype old_hc_tdm
+name english "Oldcore Team Deathmatch"
+name french "Match à mort en équipe à l'ancienne"
+name italian "Deathmatch classico a squadre"
+name german "Tradicore Team-Deathmatch"
+name spanish "Duelo a muerte por equipos básico viejo"
+name polish "Tradycyjny hardcorowy dru¿ynowy Deathmatch"
+name russian "Îëäêîğ êîìàíäíûé áîé"
+name japanese "ƒI[ƒ‹ƒhƒRƒAEƒ`[ƒ€ƒfƒXƒ}ƒbƒ`"
+name korean "¿Õ³âÆÄ ÆÀ µ¥½º¸ÅÄ¡"
+script war
+teambased
+rule scr_hardcore 1
+rule scr_oldschool 1
+rule scr_team_fftype 1
+rule scr_player_healthregentime 0
+rule scr_player_maxhealth 30
+rule scr_game_allowkillcam 0
+
+gametype smold_tdm
+name english "Old School Team Deathmatch"
+name french "Match à mort en équipe Ancienne école"
+name italian "Deathmatch a squadre tradizionale"
+name german "Traditionelles Team-Deathmatch"
+name spanish "Duelo a muerte por equipos vieja escuela"
+name polish "Tradycyjny dru¿ynowy Deathmatch"
+name russian "Êëàññè÷åñêèé êîìàíäíûé áîé"
+name japanese "ƒ`[ƒ€ƒfƒXƒ}ƒbƒ`"
+name korean "¿Ãµå½ºÄğ µ¥½º¸ÅÄ¡"
+script war
+teambased
+rule scr_oldschool 1
+rule scr_player_maxhealth 250
+rule scr_war_scorelimit 500
+
+gametype hs_dom
+name english "Domination"
+name french "Domination"
+name italian "Dominio"
+name german "Herrschaft"
+name spanish "Dominación"
+name polish "Dominacja"
+name russian "Ïåğâåíñòâî"
+name japanese "ƒhƒ~ƒl[ƒVƒ‡ƒ“"
+name korean "Áö¹è"
+script dom
+teambased
+
+gametype sm_dom
+name english "Domination"
+name french "Domination"
+name italian "Dominio"
+name german "Herrschaft"
+name spanish "Dominación"
+name polish "Dominacja"
+name russian "Ïåğâåíñòâî"
+name japanese "ƒhƒ~ƒl[ƒVƒ‡ƒ“"
+name korean "Áö¹è"
+script dom
+teambased
+rule scr_dom_scorelimit 150
+
+gametype hs_koth
+name english "Headquarters"
+name french "QG"
+name italian "Quartier generale"
+name german "Hauptquartier"
+name spanish "Cuartel general"
+name polish "Sztab"
+name russian "Øòàá"
+name japanese "i—ß•”"
+name korean "»ç·ÉºÎ"
+script koth
+teambased
+
+gametype hs_sab
+name english "Sabotage"
+name french "Sabotage"
+name italian "Sabotaggio"
+name german "Sabotage"
+name spanish "Sabotaje"
+name polish "Sabota¿"
+name russian "Ñàáîòàæ"
+name japanese "ƒTƒ{ƒ^[ƒWƒ…"
+name korean "»çº¸Å¸ÁÖ"
+script sab
+teambased
+
+gametype hc_sd
+name english "Hardcore Search and Destroy"
+name french "Recherche et destruction Hardcore"
+name italian "Cerca e distruggi veterano"
+name german "Hardcore Suchen und Zerstören"
+name spanish "Buscar y destruir extremo"
+name polish "Hardcorowy ZnajdŸ i zniszcz"
+name russian "Æåñòêèé Íàéòè è óíè÷òîæèòü"
+name japanese "ƒn[ƒhƒRƒAEƒT[ƒ`&ƒfƒXƒgƒƒC"
+name korean "ÇÏµåÄÚ¾î¿Í ¼ö»ö ¼¶¸ê"
+script sd
+teambased
+rule scr_hardcore 1
+rule scr_team_fftype 1
+rule scr_player_maxhealth 30
+rule scr_player_healthregentime 0
+rule scr_game_allowkillcam 0
+
+gametype hs_sd
+name english "Search and Destroy"
+name french "Recherche et destruction"
+name italian "Cerca e distruggi"
+name german "Suchen und Zerstören"
+name spanish "Buscar y destruir"
+name polish "ZnajdŸ i zniszcz"
+name russian "Íàéòè è óíè÷òîæèòü"
+name japanese "ƒT[ƒ`EƒAƒ“ƒhEƒfƒXƒgƒƒC"
+name korean "¼ö»ö ¼¶¸ê"
+script sd
+teambased
+
+gametype hs_ffa
+name english "Free-for-all"
+name french "Chacun pour soi"
+name italian "Tutti contro tutti"
+name german "Frei für alle"
+name spanish "Todos contra todos"
+name polish "Dowolna"
+name russian "Áîé íàñìåğòü"
+name japanese "ƒtƒŠ[EƒtƒH[EƒI[ƒ‹"
+name korean "°³ÀÎÀü"
+script dm
+rule scr_dm_scorelimit 125
+
+gametype old_ffa
+name english "Old School Free-for-all"
+name french "Chacun pour soi Ancienne école"
+name italian "Tutti contro tutti  classico"
+name german "Traditionelles Frei für alle"
+name spanish "Todos contra todos vieja escuela"
+name polish "Tradycyjna gra dowolna"
+name russian "Êëàññè÷åñêèé áîé íàñìåğòü"
+name japanese "ƒtƒŠ[EƒtƒH[EƒI[ƒ‹"
+name korean "¿Ãµå½ºÄğ °³ÀÎÀü"
+script dm
+rule scr_oldschool 1
+rule scr_player_maxhealth 250
+rule scr_player_healthregentime 0
+rule scr_dm_scorelimit 125
+
+gametype cage_ffa
+name english "Free-for-all"
+name french "Chacun pour soi"
+name italian "Tutti contro tutti"
+name german "Frei für alle"
+name spanish "Todos contra todos"
+name polish "Dowolna"
+name russian "Áîé íàñìåğòü"
+name japanese "ƒtƒŠ[EƒtƒH[EƒI[ƒ‹"
+name korean "°³ÀÎÀü"
+script dm
+rule scr_dm_scorelimit 50
+
+gametype hc_ffa
+name english "Hardcore Free-for-all"
+name french "Chacun pour soi Hardcore"
+name italian "Tutti contro tutti veterano"
+name german "Hardcore Frei für alle"
+name spanish "Todos contra todos extremo"
+name polish "Hardcorowa gra dowolna"
+name russian "Æåñòêèé áîé íàñìåğòü"
+name japanese "ƒn[ƒhƒRƒAEƒtƒŠ[EƒtƒH[EƒI[ƒ‹"
+name korean "ÇÏµåÄÚ¾î °³ÀÎÀü"
+script dm
+rule scr_hardcore 1
+rule scr_player_healthregentime 0
+rule scr_player_maxhealth 30
+rule scr_game_allowkillcam 0
+rule set scr_dm_playerrespawndelay 7
+
+gametype hc_koth
+name english "Hardcore Headquarters"
+name french "QG Hardcore"
+name italian "Quartier generale veterano"
+name german "Hardcore-Hauptquartier"
+name spanish "Cuartel general extremo"
+name polish "Hardcore Headquarters"
+name russian "Hardcore Headquarters"
+name japanese "ƒn[ƒhƒRƒA ƒwƒbƒhƒNƒH[ƒ^["
+name korean "ÇÏµåÄÚ¾î »ç·ÉºÎ"
+script koth
+teambased
+rule scr_hardcore 1
+rule scr_player_healthregentime 0
+rule scr_player_maxhealth 30
+rule scr_game_allowkillcam 0
+rule scr_team_fftype 1
+
+playlist 1 // hs_tdm gametype
+name english "Team Deathmatch"
+name french "Match à mort en équipe"
+name italian "Deathmatch a squadre"
+name german "Team-Deathmatch"
+name spanish "Combate a muerte por equipos"
+name polish "Dru¿ynowy deathmatch"
+name russian "Êîìàíäíûé áîé"
+name japanese "ƒ`[ƒ€ƒfƒXƒ}ƒbƒ`"
+name korean "ÆÀ µ¥½º¸ÅÄ¡"
+description english "Straight up Team Deathmatch.  Use teamwork to kill enemy players and reach the score limit.\n__________\nPlayers:6-12"
+description french "Un Match à mort en équipe classique. Progressez avec vos compagnons pour exterminer vos ennemis et atteindre la limite de score.\n__________\nJoueurs : 6-12"
+description italian "Deathmatch a squadre, nudo e crudo. Coordina il lavoro di squadra per eliminare i giocatori nemici e realizzare il punteggio stabilito.\n__________\nDa 6 a 12 giocatori"
+description german "Ganz normales Team-Deathmatch. Schalten Sie mit Teamwork gegnerische Spieler aus und erreichen Sie das Punktlimit.\n__________\nSpieler: 6-12"
+description spanish "Combate a muerte por equipos directo. Usa el trabajo en equipo para matar a jugadores y llegar al límite de puntuación.\n__________\nJugadores: 6 a 12"
+description polish "Normalny dru¿ynowy Deathmatch. Dzia³ajcie jako dru¿yna, aby zabijaæ wrogich graczy.\n__________\nGracze:6-12"
+description russian "Îáû÷íûé áîé äâóõ êîìàíä. Ğàáîòàéòå ñîîáùà íà óíè÷òîæåíèå ïğîòèâíèêà è äîñòèæåíèå ìàêñèìóìà î÷êîâ.\n__________\nÈãğîêè:6-12"
+description japanese "‚Ü‚³‚Éƒ`[ƒ€‚Å‚ÌƒfƒXƒ}ƒbƒ`B”²ŒQ‚Ì\nƒ`[ƒ€ƒ[ƒN‚Å“GƒvƒŒƒCƒ„[‚ğ“|‚µA\nƒXƒRƒA§ŒÀ‚É’B‚µ‚Ü‚µ‚å‚¤B\n__________\nƒvƒŒƒCƒ„[l”:6`12l"
+description korean "ÁøÁ¤ÇÑ ÆÀ µ¥½º¸ÅÄ¡. »ó´ë ÇÃ·¹ÀÌ¾îµéÀ» Á×ÀÌ°í ÃÖ°í Á¡¼ö¿¡ µµ´ŞÇÏ±â À§ÇØ ÆÀ¿öÅ©¸¦ ¹ßÈÖÇØ¶ó.\n__________\nÇÃ·¹ÀÌ¾î:6-12"
+unlockxp -3000000000
+maxparty 6
+rule party_minplayers 6
+rule party_maxplayers 12
+rule party_matchedplayercount 4
+rule party_readypercentrequired 0
+rule party_gameStartTimerLength 8
+rule scr_xpscale 1
+rule timescale 1
+rule set ufo 0
+rule set noclip 0
+rule set god 0
+rule set demigod 0
+rule closemenu menu_xboxlive_privatelobby
+mp_convoy,hs_tdm,1
+mp_backlot,hs_tdm,1
+mp_bloc,hs_tdm,1
+mp_bog,hs_tdm,1
+mp_countdown,hs_tdm,1
+mp_crash,hs_tdm,1
+mp_crossfire,hs_tdm,1
+mp_citystreets,hs_tdm,1
+mp_farm,hs_tdm,1
+mp_overgrown,hs_tdm,1
+mp_pipeline,hs_tdm,1
+mp_strike,hs_tdm,1
+mp_vacant,hs_tdm,1
+mp_showdown,hs_tdm,1
+mp_cargoship,hs_tdm,1
+mp_broadcast,hs_tdm,1
+mp_carentan,hs_tdm,1
+mp_creek,hs_tdm,1
+
+playlist 2 // hs_tdm gametype
+name english "Mercenary Team Deathmatch"
+name french "Match à mort par équipe Mercenaire"
+name italian "Deathmatch a squadre - Mercenari"
+name german "Söldner-Team-Deathmatch"
+name spanish "Mercenario por equipos"
+name polish "Dru¿ynowy deathmatch"
+name russian "Êîìàíäíûé áîé"
+name japanese "ƒ}[ƒTƒiƒŠ[ ƒ`[ƒ€ƒfƒXƒ}ƒbƒ`"
+name korean "¸Ó½Ã³Ê¸® ÆÀ µ¥½º¸ÅÄ¡"
+description english "Team Deathmatch with random teams, no parties allowed. Use teamwork to kill enemy players and reach the score limit.\n__________\nPlayers:6-12"
+description french "Match à mort par équipe avec équipes aléatoires, groupes interdits. Tirez parti de l'esprit d'équipe pour éliminer vos adversaires et atteindre la limite de score.\n__________\nJoueurs : 6-12"
+description italian "Deathmatch a squadre con squadre casuali, non sono ammessi gruppi. Sfrutta il lavoro di squadra per uccidere i nemici e raggiungere il limite di punti.\n__________\nGiocatori: 6-12"
+description german "Team-Deathmatch mit zufälligen Teams, keine Gruppen erlaubt. Schalten Sie mit Teamwork gegnerische Spieler aus und erreichen Sie das Punktlimit.\n__________\nSpieler: 6-12"
+description spanish "Duelo a muerte con equipos al azar, no se permiten grupos. Usa el trabajo en equipo para matar a jugadores y llegar al límite de puntuación.\n__________\nJugadores: 6-12."
+description polish "Normalny dru¿ynowy Deathmatch. Dzia³ajcie jako dru¿yna, aby zabijaæ wrogich graczy.\n__________\nGracze:6-12"
+description russian "Îáû÷íûé áîé äâóõ êîìàíä. Ğàáîòàéòå ñîîáùà íà óíè÷òîæåíèå ïğîòèâíèêà è äîñòèæåíèå ìàêñèìóìà î÷êîâ.\n__________\nÈãğîêè:6-12"
+description japanese "ƒ‰ƒ“ƒ_ƒ€‚É‘I‚Î‚ê‚½ƒ`[ƒ€‚Æ‚Ì\nƒ`[ƒ€ƒfƒXƒ}ƒbƒ`Bƒp[ƒeƒB[•s‰ÂB\nƒ`[ƒ€ƒ[ƒN‚ğg‚¢A\n“G‚ğ“|‚µ‚ÄƒXƒRƒA‚ğ’B¬‚¹‚æB\n__________\nƒvƒŒƒCƒ„[l”:6`12l"
+description korean "¹«ÀÛÀ§ÀÇ ÆÀ°úÀÇ µ¥½º¸ÅÄ¡. ÆÄÆ¼ Çã¿ë ºÒ°¡. ÆÀ¿öÅ©¸¦ ÅëÇØ ÀûÀ» Á×ÀÌ°í Á¦ÇÑ Á¡¼ö¿¡ µµ´ŞÇÏ½Ê½Ã¿À.\n__________\nÇÃ·¹ÀÌ¾î:6-12"
+unlockxp -3000000000
+maxparty 1
+rule party_minplayers 6
+rule party_maxplayers 12
+rule party_matchedplayercount 4
+rule party_readypercentrequired 0
+rule party_gameStartTimerLength 8
+rule scr_xpscale 1
+rule timescale 1
+rule set ufo 0
+rule set noclip 0
+rule set god 0
+rule set demigod 0
+rule closemenu menu_xboxlive_privatelobby
+mp_convoy,hs_tdm,1
+mp_backlot,hs_tdm,1
+mp_bloc,hs_tdm,1
+mp_bog,hs_tdm,1
+mp_countdown,hs_tdm,1
+mp_crash,hs_tdm,1
+mp_crossfire,hs_tdm,1
+mp_citystreets,hs_tdm,1
+mp_farm,hs_tdm,1
+mp_overgrown,hs_tdm,1
+mp_pipeline,hs_tdm,1
+mp_strike,hs_tdm,1
+mp_vacant,hs_tdm,1
+mp_showdown,hs_tdm,1
+mp_cargoship,hs_tdm,1
+mp_broadcast,hs_tdm,1
+mp_carentan,hs_tdm,1
+mp_creek,hs_tdm,1
+
+playlist 3 // hs_ffa gametype
+name english "Free-for-all"
+name french "Chacun pour soi"
+name italian "Tutti contro tutti"
+name german "Frei für alle"
+name spanish "Todos contra todos"
+name polish "Dowolna"
+name russian "Áîé íàñìåğòü"
+name japanese "ƒtƒŠ[EƒtƒH[EƒI[ƒ‹"
+name korean "°³ÀÎÀü"
+description english "Straight up Deathmatch.  Every man for himself.  Kill everyone.\n__________\nPlayers:4-8"
+description french "Un Match à mort classique, de type chacun pour soi. N'épargnez personne.\n__________\nJoueurs : 4-8"
+description italian "Deathmatch a squadre, nudo e crudo. Vinci da solo la tua battaglia contro tutti gli altri.\n__________\nDa 4 a 8 giocatori"
+description german "Ganz normales Team-Deathmatch. Jeder kämpft hier für sich allein und gegen jeden.\n__________\nSpieler: 4-8"
+description spanish "Todos contra todos directo. Cada uno por su cuenta. Mata a todos.\n__________\nJugadores: 4 a 8"
+description polish "Normalny dru¿ynowy Deathmatch. Ka¿dy dzia³a indywidualnie. Zabij wszystkich.\n__________\nGracze:4-8"
+description russian "Îáû÷íûé deathmatch. Êàæäûé ñàì çà ñåáÿ. Óáèâàéòå âñåõ.\n__________\nÈãğîêè:4-8"
+description japanese "’Êí‚ÌƒfƒXƒ}ƒbƒ`B\n©•ª‚Ì–½‚Í©•ª‚Åç‚êB\n“G‚ğŠFE‚µ‚É‚µ‚Ü‚µ‚å‚¤B\n------\nƒvƒŒƒCƒ„[l”:4`8l"
+description korean "ÁøÁ¤ÇÑ ÆÀ µ¥½º¸ÅÄ¡. ÀÚ½ÅÀÇ ¾ÈÀüÀ» ÁöÄÑ¾ß ÇÕ´Ï´Ù. ¸ğµÎ Á×ÀÌ½Ê½Ã¿À.\n------\nÇÃ·¹ÀÌ¾î:4-8"
+unlockxp -3000000000
+maxparty 1
+rule party_minplayers 4
+rule party_maxplayers 8
+rule party_matchedplayercount 4
+rule party_readypercentrequired 0
+rule party_gameStartTimerLength 8
+rule scr_xpscale 1
+rule timescale 1
+rule set ufo 0
+rule set noclip 0
+rule set god 0
+rule set demigod 0
+rule closemenu menu_xboxlive_privatelobby
+mp_convoy,hs_ffa,1
+mp_backlot,hs_ffa,1
+mp_bloc,hs_ffa,1
+mp_bog,hs_ffa,1
+mp_countdown,hs_ffa,1
+mp_crash,hs_ffa,1
+mp_crossfire,hs_ffa,1
+mp_citystreets,hs_ffa,1
+mp_farm,hs_ffa,1
+mp_overgrown,hs_ffa,1
+mp_pipeline,hs_ffa,1
+mp_strike,hs_ffa,1
+mp_vacant,hs_ffa,1
+mp_showdown,hs_ffa,1
+mp_cargoship,hs_ffa,1
+mp_broadcast,hs_ffa,1
+mp_carentan,hs_ffa,1
+mp_creek,hs_ffa,1
+mp_killhouse,hs_ffa,1
+
+playlist 4 //hs_dom gametype
+name english "Domination"
+name french "Domination"
+name italian "Dominio"
+name german "Herrschaft"
+name spanish "Dominación"
+name polish "Dominacja"
+name russian "Ïåğâåíñòâî"
+name japanese "ƒhƒ~ƒl[ƒVƒ‡ƒ“"
+name korean "Áö¹è"
+description english "3 flags in the level must be captured.  Your team gets points for having control of a flag.  The more flags your team holds, the more points you gain.\n__________\nPlayers:6-12"
+description french "3 drapeaux doivent être capturés dans le niveau. Votre équipe gagne des points lorsqu'elle contrôle un drapeau. Plus votre équipe contrôle de drapeaux, plus vous gagnez de points.\n__________\nJoueurs : 6-12"
+description italian "Lo scopo è prendere possesso delle 3 bandiere presenti nel livello. La tua squadra ottiene un punto per ogni bandiera conquistata. Più saranno le bandiere possedute dalla squadra e più punti otterrete.\n__________\nDa 6 a 12 giocatori"
+description german "3 Flaggen im Level müssen erobert werden. Ihr Team punktet für die Kontrolle einer Flagge. Je mehr Flaggen Ihr Team hält, desto mehr Punkte bekommt es.\n__________\nSpieler: 6-12"
+description spanish "En el nivel hay que capturar 3 banderas. Tu equipo consigue puntos por tener control de una bandera. Cuantas más banderas tenga tu equipo, más puntos se consiguen.\n__________\nJugadores: 6 a 12"
+description polish "Trzeba przej¹æ 3 flagi na mapie. Dru¿yna zdobywa punkty za przejêcie kontroli nad flag¹. Im wiêcej flag posiada Twoja dru¿yna, tym wiêcej punktów zdobywasz.\n__________\nGracze:6-12"
+description russian "Íà êàğòå íóæíî çàõâàòèòü 3 ôëàãà. Êîìàíäà ïîëó÷àåò î÷êè çà óäåğæàíèå êîíòğîëÿ íàä ôëàãîì. ×åì áîëüøå ó êîìàíäû ôëàãîâ - òåì áîëüøå î÷êîâ îíà ïîëó÷àåò.\n__________\nÈãğîêè:6-12"
+description japanese "ƒŒƒxƒ‹“à‚Ì3–{‚ÌŠø‚ğŠm•Û‚µ‚Ü‚µ‚å‚¤B\nŠø‚ğŠm•Û‚µ‚½‚çƒ`[ƒ€‚É“¾“_‚ª“ü‚è‚Ü‚·B\nŠm•Û‚µ‚½Šø‚Ì–{”‚ª‘½‚¯‚ê‚Î‘½‚¢‚Ù‚ÇA\n‚»‚ê‚¾‚¯‘½‚­‚Ì“_”‚ğŠl“¾‚Å‚«‚Ü‚·B\n__________\nƒvƒŒƒCƒ„[l”:6`12l"
+description korean "3°³ÀÇ ±ê¹ßÀ» È¹µæÇØ¶ó. ³ÊÀÇ ÆÀÀÌ ±ê¹ßÀÇ ÅëÁ¦±ÇÀ» °¡ÁüÀ¸·Î½á Á¡¼ö¸¦ ¾ò°Ô µÈ´Ù. ±ê¹ßÀ» ´õ ¸¹ÀÌ È¹µæÇÒ¼ö·Ï ´õ ¸¹Àº Á¡¼ö¸¦ ¾ò´Â´Ù.\n__________\nÇÃ·¹ÀÌ¾î:6-12"
+unlockxp -3000000000
+maxparty 6
+rule party_minplayers 6
+rule party_maxplayers 12
+rule party_matchedplayercount 4
+rule party_readypercentrequired 0
+rule party_gameStartTimerLength 8
+rule scr_xpscale 1
+rule timescale 1
+rule set ufo 0
+rule set noclip 0
+rule set god 0
+rule set demigod 0
+rule closemenu menu_xboxlive_privatelobby
+mp_backlot,hs_dom,1
+mp_bog,hs_dom,1
+mp_countdown,hs_dom,1
+mp_crash,hs_dom,1
+mp_crossfire,hs_dom,1
+mp_citystreets,hs_dom,1
+mp_farm,hs_dom,1
+mp_overgrown,hs_dom,1
+mp_shipment,hs_dom,1
+mp_showdown,hs_dom,1
+mp_strike,hs_dom,1
+mp_vacant,hs_dom,1
+mp_cargoship,hs_dom,1
+mp_convoy,hs_dom,1
+mp_bloc,hs_dom,1
+mp_pipeline,hs_dom,1
+mp_broadcast,hs_dom,1
+mp_carentan,hs_dom,1
+mp_creek,hs_dom,1
+
+playlist 5 // hs_tdm gametype
+name english "Ground War"
+name french "Champ de bataille"
+name italian "Guerra di terra"
+name german "Bodenangriff"
+name spanish "Guerra terrestre"
+name polish "Wojna o teren"
+name russian "Âîéíà"
+name japanese "’nãí"
+name korean "Áö»ó ÀüÀï"
+description english "Big team games - Team Deathmatch and Domination.\n__________\nPlayers:8-18"
+description french "Un mode taillé pour le jeu en équipe avec, au menu, Match à mort en équipe et Domination.\n__________\nJoueurs : 8-18"
+description italian "Modalità per squadre numerose: Deathmatch a squadre e Dominio.\n__________\nDa 8 a 18 giocatori"
+description german "Große Teamspiele - Team-Deathmatch und Herrschaft.\n__________\nSpieler: 8-18"
+description spanish "Partidas de grandes equipos: Combate a muerte por equipos y Dominación.\n__________\nJugadores: 8 a 18"
+description polish "Gry dla du¿ych dru¿yn - Dru¿ynowy deathmatch i Dominacja.\n__________\nGracze:8-18"
+description russian "Áîëüøèå êîìàíäíûå èãğû - Êîìàíäíûé áîé è Ïåğâåíñòâî.\n__________\nÈãğîêè:8-18"
+description japanese "‘åƒ`[ƒ€Œü‚«Bƒ`[ƒ€ƒfƒXƒ}ƒbƒ`‚Æx”zB\n__________\nƒvƒŒƒCƒ„[l”:8`18l"
+description korean "Å« ´ÜÃ¼ °æ±â - ÆÀ µ¥½º¸ÅÄ¡¿Í Á¦¾Ğ\n__________\nÇÃ·¹ÀÌ¾î:8-18"
+unlockxp -3000000000
+maxparty 9
+rule party_minplayers 8
+rule party_maxplayers 18
+rule party_matchedplayercount 4
+rule party_readypercentrequired 0
+rule party_gameStartTimerLength 8
+rule scr_xpscale 1
+rule timescale 1
+rule set ufo 0
+rule set noclip 0
+rule set god 0
+rule set demigod 0
+rule closemenu menu_xboxlive_privatelobby
+mp_convoy,hs_dom,1
+mp_backlot,hs_dom,1
+mp_bloc,hs_dom,1
+mp_bog,hs_dom,1
+mp_countdown,hs_dom,1
+mp_crash,hs_dom,1
+mp_crossfire,hs_dom,1
+mp_citystreets,hs_dom,1
+mp_farm,hs_dom,1
+mp_overgrown,hs_dom,1
+mp_pipeline,hs_dom,1
+mp_strike,hs_dom,1
+mp_vacant,hs_dom,1
+mp_convoy,big_tdm,1
+mp_backlot,big_tdm,1
+mp_bloc,big_tdm,1
+mp_bog,big_tdm,1
+mp_countdown,big_tdm,1
+mp_crash,big_tdm,1
+mp_crossfire,big_tdm,1
+mp_citystreets,big_tdm,1
+mp_farm,big_tdm,1
+mp_overgrown,big_tdm,1
+mp_pipeline,big_tdm,1
+mp_strike,big_tdm,1
+mp_vacant,big_tdm,1
+mp_broadcast,hs_dom,1
+mp_carentan,hs_dom,1
+mp_creek,hs_dom,1
+mp_broadcast,big_tdm,1
+mp_carentan,big_tdm,1
+mp_creek,big_tdm,1
+
+playlist 6 //hs_sab gametype
+name english "Sabotage"
+name french "Sabotage"
+name italian "Sabotaggio"
+name german "Sabotage"
+name spanish "Sabotaje"
+name polish "Sabota¿"
+name russian "Ñàáîòàæ"
+name japanese "ƒTƒ{ƒ^[ƒWƒ…"
+name korean "»çº¸Å¸ÁÖ"
+description english "A neutral bomb is in the center of the level and teams fight to destroy the enemy team's objective.  The bomb carrier can be seen by all players.  First team to successfully bomb the enemy objective wins.\n__________\nPlayers:6-12"
+description french "Une bombe neutre se trouve au centre du niveau. Le porteur de la bombe est visible par tous les joueurs. La première équipe qui parvient à faire sauter l'objectif de l'adversaire remporte la partie.\n__________\nJoueurs : 6-12"
+description italian "Al centro del livello si cela una bomba, piazzata in territorio neutrale. Ciascuna squadra lotta per distruggere l'obiettivo avversario. Tutti possono vedere chi possiede la bomba. Vince la prima squadra che detona l'ordigno sull'obiettivo nemico.\n__________\nDa 6 a 12 giocatori"
+description german "Eine neutrale Bombe befindet sich in der Mitte des Levels und die Teams kämpfen darum, das Ziel des gegnerischen Teams zu zerstören. Den Bombenträger sehen alle Spieler. Das erste Team, das das gegnerische Ziel sprengt, gewinnt.\n__________\nSpieler: 6-12"
+description spanish "En el centro del nivel hay una bomba neutral y los equipos luchan para destruir el objetivo del equipo enemigo. Todos los jugadores pueden ver al portador de la bomba. Gana el primer equipo que vuela el objetivo enemigo.\n__________\nJugadores: 6 a 12"
+description polish "W centrum planszy znajduje siê neutralna bomba, a dru¿yny staraj¹ siê zniszczyæ nieprzyjacielski cel. Wszyscy gracze widz¹ osobê, która niesie bombê. Zwyciê¿a dru¿yna, która jako pierwsza wysadzi nieprzyjacielski cel.\n__________\nGracze:6-12"
+description russian "Â öåíòğå êàğòû ğàñïîëîæåíà áîìáà, è êàæäàÿ êîìàíäà ïûòàåòñÿ ñ åå ïîìîùüş óíè÷òîæèòü öåëü ïğîòèâíèêà. Îáëàäàòåëü áîìáû âèäåí âñåì èãğîêàì. Ïîáåæäàåò êîìàíäà ïåğâàÿ óíè÷òîæèâøàÿ öåëü ïğîòèâíèêà.\n__________\nÈãğîêè:6-12"
+description japanese "ƒŒƒxƒ‹’†‰›‚É”š’e‚ªİ’u‚³‚ê‚Ä‚¨‚èA\nƒ`[ƒ€‚Í‘Šèƒ`[ƒ€‚Ì–Ú•W‚ğ”j‰ó‚·‚é\n–Ú“I‚Ås“®‚µ‚Ü‚·B”š’e•Û—LÒ‚Í\n‚·‚×‚Ä‚ÌƒvƒŒƒCƒ„[‚ªŠm”F‚·‚é‚±‚Æ‚ª\n‚Å‚«‚Ü‚·B‘Šè‚Ì–Ú•W‚Ì”j‰ó‚É¬Œ÷‚µ‚½\nƒ`[ƒ€‚ÌŸ—˜‚Å‚·B\n__________\nƒvƒŒƒCƒ„[l”:6`12l"
+description korean "Áß¸³ ÆøÅºÀº ÆòÁöÀÇ Áß¾Ó¿¡ ÀÖÀ¸¸ç, »ó´ë ÆÀÀÇ ¸ñÇ¥¸¦ ÆÄ±«ÇÏ±â À§ÇØ °¢ ÆÀÀº ½Î¿ö¾ß ÇÑ´Ù. ¸ğµç ÇÃ·¹ÀÌ¾îµéÀº ÆøÅº ¿î¹İ ÀÚ¸¦ º¼ ¼ö ÀÖ´Ù. »ó´ëÀÇ ¸ñÇ¥¸¦ Æø°İÇÏ´Â Ã¹ ¹øÂ° ÆÀÀÌ ÀÌ±ä´Ù.\n__________\nÇÃ·¹ÀÌ¾î:6-12"
+unlockxp -3000000000
+maxparty 6
+rule party_minplayers 6
+rule party_maxplayers 12
+rule party_matchedplayercount 4
+rule party_readypercentrequired 0
+rule party_gameStartTimerLength 8
+rule scr_xpscale 1
+rule timescale 1
+rule set ufo 0
+rule set noclip 0
+rule set god 0
+rule set demigod 0
+rule closemenu menu_xboxlive_privatelobby
+mp_convoy,hs_sab,1
+mp_backlot,hs_sab,1
+mp_bloc,hs_sab,1
+mp_bog,hs_sab,1
+mp_countdown,hs_sab,1
+mp_crash,hs_sab,1
+mp_crossfire,hs_sab,1
+mp_citystreets,hs_sab,1
+mp_farm,hs_sab,1
+mp_overgrown,hs_sab,1
+mp_pipeline,hs_sab,1
+mp_strike,hs_sab,1
+mp_vacant,hs_sab,1
+mp_cargoship,hs_sab,1
+mp_showdown,hs_sab,1
+mp_broadcast,hs_sab,1
+mp_carentan,hs_sab,1
+mp_creek,hs_sab,1
+
+playlist 7 //hs_koth gametype
+name english "Headquarters"
+name french "QG"
+name italian "Quartier generale"
+name german "Hauptquartier"
+name spanish "Cuartel general"
+name polish "Sztab"
+name russian "Øòàá"
+name japanese "i—ß•”"
+name korean "»ç·ÉºÎ"
+description english "A neutral base to capture is marked in the level.  Each team fights to capture it.  Capture and hold it to gain points.  The team that holds the HQ doesn't respawn.\n__________\nPlayers:6-12"
+description french "Le jeu indique la position d'une base neutre à capturer. Chaque équipe se bat pour en prendre le contrôle. Capturez la base et tenez votre position pour gagner des points. L'équipe qui tient le QG ne réapparaît pas.\n__________\nJoueurs : 6-12"
+description italian "L'obiettivo è conquistare una base neutrale situata nel livello. Ciascuna squadra deve battersi per prenderne il controllo e difenderla per ottenere punti. La squadra che difende il QG non può effettuare rientri.\n__________\nDa 6 a 12 giocatori"
+description german "In jedem Level gilt es für jedes Team, eine neutrale Basis zu erobern. Erobern und halten Sie sie zum Punkten. Bei dem Team, das das Hauptquartier hält, steigen keine Spieler neu ein.\n__________\nSpieler: 6-12"
+description spanish "En el nivel hay marcada una base neutral para capturarla. Cada equipo lucha para conseguirla. Capturarla y conservarla da puntos. El equipo que mantiene el CG no reaparece.\n__________\nJugadores: 6 a 12"
+description polish "Na mapie znajduje siê neutralna baza, któr¹ nale¿y zdobyæ. Dru¿yny walcz¹ o jej opanowanie i staraj¹ siê j¹ utrzymaæ. Dru¿yna, która ma sztab, nie odradza siê.\n__________\nGracze:6-12"
+description russian "Íà êàğòå îòìå÷àåòñÿ øòàá, êîòîğûé ìîæíî çàõâàòèòü. Êàæäà êîìàíäà áîğåòñÿ çà çàõâàò øòàáà. Çà óäåğæàíèå øòàáà äàşòñÿ î÷êè. Â êîìàíäå óäåğæèâàşùåé øòàá èãğîêè íå âîçğîæäàşòñÿ.\n__________\nÈãğîêè:6-12"
+description japanese "’†—§‚ÌŠî’n‚ªƒŒƒxƒ‹‚É‚Äˆó‚³‚êA\nƒ`[ƒ€‚Í‚»‚ê‚ğŠm•Û‚µ‚Ü‚·B“_”‚ğ\nŠl“¾‚·‚é‚É‚ÍAŠî’n‚ğŠm•Û‚µA\n‚»‚ê‚ğˆÛ‚µ‚Ü‚µ‚å‚¤Bi—ß•”‚ğ\nŠm•Û‚µ‚Ä‚¢‚éƒ`[ƒ€‚Í\nƒŠƒXƒ|[ƒ“‚µ‚Ü‚¹‚ñB\n__________\nƒvƒŒƒCƒ„[l”:6`12l"
+description korean "Á¡·ÉÇØ¾ß ÇÒ Áß¸³ ±âÁö´Â ÆòÁö¿¡ Ç¥½ÃµÇ¾îÀÖ´Ù. °¢ ÆÀÀº ±× ±âÁö¸¦ Á¡·ÉÇÏ±â À§ÇØ ½Î¿î´Ù. Á¡¼ö¸¦ ¾ò±â À§ÇØ ±× ±âÁö¸¦ Á¡·ÉÇÏ°í ÁöÄÑ¾ß ÇÑ´Ù. »ç·ÉºÎ¸¦ ÁöÅ°´Â ÆÀÀº ¸®½ºÆùÇÏÁö ¾Ê´Â´Ù.\n__________\nÇÃ·¹ÀÌ¾î:6-12"
+unlockxp -3000000000
+maxparty 6
+rule party_minplayers 6
+rule party_maxplayers 12
+rule party_matchedplayercount 4
+rule party_readypercentrequired 0
+rule party_gameStartTimerLength 8
+rule scr_xpscale 1
+rule timescale 1
+rule set ufo 0
+rule set noclip 0
+rule set god 0
+rule set demigod 0
+rule closemenu menu_xboxlive_privatelobby
+mp_backlot,hs_koth,1
+mp_bog,hs_koth,1
+mp_countdown,hs_koth,1
+mp_crash,hs_koth,1
+mp_crossfire,hs_koth,1
+mp_citystreets,hs_koth,1
+mp_farm,hs_koth,1
+mp_overgrown,hs_koth,1
+mp_shipment,hs_koth,1
+mp_showdown,hs_koth,1
+mp_strike,hs_koth,1
+mp_vacant,hs_koth,1
+mp_cargoship,hs_koth,1
+mp_convoy,hs_koth,1
+mp_bloc,hs_koth,1
+mp_pipeline,hs_koth,1
+mp_broadcast,hs_koth,1
+mp_carentan,hs_koth,1
+mp_creek,hs_koth,1
+
+playlist 8 // hs_sd gametype
+name english "Search and Destroy"
+name french "Recherche et destruction"
+name italian "Cerca e distruggi"
+name german "Suchen und Zerstören"
+name spanish "Buscar y destruir"
+name polish "ZnajdŸ i zniszcz"
+name russian "Íàéòè è óíè÷òîæèòü"
+name japanese "ƒT[ƒ`EƒAƒ“ƒhEƒfƒXƒgƒƒC"
+name korean "¼ö»ö ¼¶¸ê"
+description english "No respawning, defend and destroy the objective.\n__________\nPlayers:6-12"
+description french "Pas de réapparition. Cherchez et détruisez l'objectif.\n__________\nJoueurs : 6-12"
+description italian "Difendi il tuo obiettivo e distruggi quello avversario. Rientro non consentito.\n__________\nDa 6 a 12 giocatori"
+description german "Kein Wiedereinstieg; verteidigen oder zerstören Sie das Ziel.\n__________\nSpieler: 6-12"
+description spanish "No hay reaparición, defiende y destruye el objetivo.\n__________\nJugadores: 6 a 12"
+description polish "Bez odradzania siê. Zniszcz cel.\n__________\nGracze:6-12"
+description russian "Áåç âîçğîæäåíèé, íóæíî íàéòè è óíè÷òîæèòü öåëü.\n__________\nÈãğîêè:6-12"
+description japanese "ƒŠƒXƒ|[ƒ“‚È‚µA–Ú•W‚ğç‚è\n”j‰ó‚µ‚Ü‚µ‚å‚¤B\n__________\nƒvƒŒƒCƒ„[l”:6`12l"
+description korean "¸®½ºÆù ¾øÀ½. ¸ñÇ¥¸¦ ¹æ¾îÇÏ°í ÆÄ±«ÇØ¶ó.\n__________\nÇÃ·¹ÀÌ¾î:6-12"
+unlockxp -3000000000
+maxparty 6
+rule party_minplayers 6
+rule party_maxplayers 12
+rule party_matchedplayercount 4
+rule party_readypercentrequired 0
+rule party_gameStartTimerLength 8
+rule scr_xpscale 1
+rule timescale 1
+rule set ufo 0
+rule set noclip 0
+rule set god 0
+rule set demigod 0
+rule closemenu menu_xboxlive_privatelobby
+mp_convoy,hs_sd,1
+mp_backlot,hs_sd,1
+mp_bloc,hs_sd,1
+mp_bog,hs_sd,1
+mp_countdown,hs_sd,1
+mp_crash,hs_sd,1
+mp_crossfire,hs_sd,1
+mp_citystreets,hs_sd,1
+mp_farm,hs_sd,1
+mp_overgrown,hs_sd,1
+mp_pipeline,hs_sd,1
+mp_strike,hs_sd,1
+mp_vacant,hs_sd,1
+mp_cargoship,hs_sd,1
+mp_showdown,hs_sd,1
+mp_broadcast,hs_sd,1
+mp_carentan,hs_sd,1
+mp_creek,hs_sd,1
+
+playlist 9 // hs_tdm gametype
+name english "Team Tactical"
+name french "Tactique en équipe"
+name italian "Modalità tattiche a squadre"
+name german "Team - Taktisch"
+name spanish "Táctico por equipos"
+name polish "Taktyka dru¿ynowa"
+name russian "Êîìàíäíàÿ òàêòèêà"
+name japanese "íp“Iiƒ`[ƒ€j"
+name korean "Àü¼ú ÆÀ"
+description english "Small team based games.  Team Deathmatch, Domination, Headquarters, Sabotage, and Search and Destroy.\n__________\nPlayers:4-6"
+description french "Parties faites pour de petites équipes : Match à mort en équipe, Domination, QG, Sabotage ainsi que Recherche et destruction.\n__________\nJoueurs : 4-6"
+description italian "Modalità di gioco con squadre ridotte. Deathmatch a squadre, Dominio, Quartier generale, Sabotaggio e Cerca e distruggi.\n__________\nDa 4 a 6 giocatori"
+description german "Kleine Teambasierte Spiele. Team-Deathmatch, Herrschaft, Hauptquartier sowie Suchen und Zerstören.\n__________\nSpieler: 4-6"
+description spanish "Partidas para equipos pequeños. Combate a muerte por equipos, Dominación, Cuartel general, Sabotaje y Buscar y destruir.\n__________\nJugadores: 4 a 6"
+description polish "Gry dla ma³ych dru¿yn. Dru¿ynowy deathmatch, Dominacja, Sztab, Sabota¿, ZnajdŸ i zniszcz.\n__________\nGracze:4-6"
+description russian "Ìàëûå êîìàíäíûå èãğû. Êîìàíäíûé áîé, Ïåğâåíñòâî, Øòàá è Íàéòè è óíè÷òîæèòü.\n__________\nÈãğîêè:4-6"
+description japanese "¬ƒ`[ƒ€Œü‚«‚ÌƒQ[ƒ€B\nƒ`[ƒ€ƒfƒXƒ}ƒbƒ`Ax”zAi—ß•”A\nƒTƒ{ƒ^[ƒWƒ…A‚»‚µ‚Ä\nƒT[ƒ`&ƒfƒXƒgƒƒCB\n___________\nƒvƒŒƒCƒ„[l”:4`6l"
+description korean "ÀÛÀº ÆÀÀ» ±âÃÊ·Î ÇÑ °ÔÀÓ.  ÆÀ µ¥½º¸ÅÄ¡, Áö¹è, »ç·ÉºÎ, »çº¸Å¸ÁÖ, ±×¸®°í ¼ö»ö°ú Å½»ö\n__________\nÇÃ·¹ÀÌ¾î:4-6"
+unlockxp -3000000000
+maxparty 3
+rule party_minplayers 4
+rule party_maxplayers 6
+rule party_matchedplayercount 4
+rule party_readypercentrequired 0
+rule party_gameStartTimerLength 8
+rule scr_xpscale 1
+rule timescale 1
+rule set ufo 0
+rule set noclip 0
+rule set god 0
+rule set demigod 0
+rule closemenu menu_xboxlive_privatelobby
+mp_backlot,sm_tdm,1
+mp_bog,sm_tdm,1
+mp_countdown,sm_tdm,1
+mp_crash,sm_tdm,1
+mp_crossfire,sm_tdm,1
+mp_citystreets,sm_tdm,1
+mp_farm,sm_tdm,1
+mp_overgrown,sm_tdm,1
+mp_shipment,sm_tdm,1
+mp_showdown,sm_tdm,1
+mp_strike,sm_tdm,1
+mp_vacant,sm_tdm,1
+mp_cargoship,sm_tdm,1
+mp_convoy,sm_tdm,1
+mp_bloc,sm_tdm,1
+mp_pipeline,sm_tdm,1
+mp_backlot,sm_dom,1
+mp_bog,sm_dom,1
+mp_countdown,sm_dom,1
+mp_crash,sm_dom,1
+mp_crossfire,sm_dom,1
+mp_citystreets,sm_dom,1
+mp_farm,sm_dom,1
+mp_overgrown,sm_dom,1
+mp_shipment,sm_dom,1
+mp_showdown,sm_dom,1
+mp_strike,sm_dom,1
+mp_vacant,sm_dom,1
+mp_cargoship,sm_dom,1
+mp_convoy,sm_dom,1
+mp_bloc,sm_dom,1
+mp_pipeline,sm_dom,1
+mp_backlot,hs_sd,1
+mp_bog,hs_sd,1
+mp_countdown,hs_sd,1
+mp_crash,hs_sd,1
+mp_crossfire,hs_sd,1
+mp_citystreets,hs_sd,1
+mp_farm,hs_sd,1
+mp_overgrown,hs_sd,1
+mp_shipment,hs_sd,1
+mp_showdown,hs_sd,1
+mp_strike,hs_sd,1
+mp_vacant,hs_sd,1
+mp_cargoship,hs_sd,1
+mp_convoy,hs_sd,1
+mp_bloc,hs_sd,1
+mp_pipeline,hs_sd,1
+mp_backlot,hs_sab,1
+mp_bog,hs_sab,1
+mp_countdown,hs_sab,1
+mp_crash,hs_sab,1
+mp_crossfire,hs_sab,1
+mp_citystreets,hs_sab,1
+mp_farm,hs_sab,1
+mp_overgrown,hs_sab,1
+mp_shipment,hs_sab,1
+mp_showdown,hs_sab,1
+mp_strike,hs_sab,1
+mp_vacant,hs_sab,1
+mp_cargoship,hs_sab,1
+mp_convoy,hs_sab,1
+mp_bloc,hs_sab,1
+mp_pipeline,hs_sab,1
+mp_backlot,hs_koth,1
+mp_bog,hs_koth,1
+mp_countdown,hs_koth,1
+mp_crash,hs_koth,1
+mp_crossfire,hs_koth,1
+mp_citystreets,hs_koth,1
+mp_farm,hs_koth,1
+mp_overgrown,hs_koth,1
+mp_shipment,hs_koth,1
+mp_showdown,hs_koth,1
+mp_strike,hs_koth,1
+mp_vacant,hs_koth,1
+mp_cargoship,hs_koth,1
+mp_convoy,hs_koth,1
+mp_bloc,hs_koth,1
+mp_pipeline,hs_koth,1
+mp_killhouse,sm_tdm,1
+mp_killhouse,sm_dom,1
+mp_killhouse,hs_sd,1
+mp_killhouse,hs_sab,1
+mp_killhouse,hs_koth,1
+mp_broadcast,sm_tdm,1
+mp_carentan,sm_tdm,1
+mp_creek,sm_tdm,1
+mp_broadcast,sm_dom,1
+mp_carentan,sm_dom,1
+mp_creek,sm_dom,1
+mp_broadcast,hs_sd,1
+mp_carentan,hs_sd,1
+mp_creek,hs_sd,1
+mp_broadcast,hs_sab,1
+mp_carentan,hs_sab,1
+mp_creek,hs_sab,1
+mp_broadcast,hs_koth,1
+mp_carentan,hs_koth,1
+mp_creek,hs_koth,1
+
+playlist 10 // hc_tdm hc_sd gametype
+name english "Hardcore Team Deathmatch"
+name french "Match à mort par équipe Hardcore"
+name italian "Deathmatch veterano a squadre"
+name german "Hardcore-Team-Deathmatch"
+name spanish "Duelo a muerte extremo por equipos"
+name polish "Dru¿ynowy hardcore."
+name russian "Æåñòêèå êîìàíäû"
+name japanese "ƒn[ƒhƒRƒAEƒ`[ƒ€ƒfƒXƒ}ƒbƒ`"
+name korean "ÇÏµåÄÚ¾î ÆÀ µ¥½º¸ÅÄ¡"
+description english "Team Deathmatch with: limited HUD, extra bullet damage, friendly fire ON.\n__________\nPlayers:6-12"
+description french "Match à mort par équipe, avec ATH limié, dégâts balles extrêmes, tir ami activé.\n__________\nJoueurs : 6-12"
+description italian "Deathmatch a squadre con interfaccia ridotta, danno proiettili aumentato, fuoco amico ATTIVO.\n__________\nGiocatori: 6-12"
+description german "Team-Deathmatch mit eingeschränktem HUD, erhöhtem Patronenschaden und aktiviertem Teambeschuss.\n__________\nSpieler: 6-12"
+description spanish "Duelo a muerte con: HUD limitado, daño adicional por balas, fuego amigo ACTIVADO.\n__________\nJugadores: 6-12"
+description polish "Hardcorowe: Dru¿ynowy deathmatch i ZnajdŸ i zniszcz. Ograniczony HUD, wiêksze obra¿enia od kul, ogieñ przyjacielski W£¥CZONY.\n__________\nGracze:6-12"
+description russian "Æåñòêèå âàğèàíòû Êîìàíäíîãî áîÿ è Íàéòè è óíè÷òîæèòü. Îãğàíè÷åíà èíôîğìàöèÿ íà äèñïëåå, óñèëåííûé óğîí îò ïóëü, ñòğåëüáà ïî ñâîèì âêëş÷åíà.\n__________\nÈãğîêè:6-12"
+description japanese "ƒ`[ƒ€ƒfƒXƒ}ƒbƒ`:  ŒÀ’è‚³‚ê‚½HUDAe’e‚Ìƒ_ƒ[ƒWã¸A\nƒtƒŒƒ“ƒhƒŠ[ƒtƒ@ƒCƒA—LŒøB\n__________\nƒvƒŒƒCƒ„[”:6-12"
+description korean "ÆÀ µ¥½º¸ÅÄ¡: HUD Á¦ÇÑ. ÃÑ¾Ë ¼Õ»ó·Â Çâ»ó. ¾Æ±º »ç°İ Çã¿ë.\n__________\nÇÃ·¹ÀÌ¾î:6-12"
+unlockxp -3000000000
+maxparty 6
+rule party_minplayers 6
+rule party_maxplayers 12
+rule party_matchedplayercount 4
+rule party_readypercentrequired 0
+rule party_gameStartTimerLength 8
+rule scr_xpscale 1
+rule timescale 1
+rule set ufo 0
+rule set noclip 0
+rule set god 0
+rule set demigod 0
+rule closemenu menu_xboxlive_privatelobby
+mp_convoy,hc_tdm,1
+mp_backlot,hc_tdm,1
+mp_bloc,hc_tdm,1
+mp_bog,hc_tdm,1
+mp_countdown,hc_tdm,1
+mp_crash,hc_tdm,1
+mp_crossfire,hc_tdm,1
+mp_citystreets,hc_tdm,1
+mp_farm,hc_tdm,1
+mp_overgrown,hc_tdm,1
+mp_pipeline,hc_tdm,1
+mp_strike,hc_tdm,1
+mp_vacant,hc_tdm,1
+mp_showdown,hc_tdm,1
+mp_cargoship,hc_tdm,1
+mp_broadcast,hc_tdm,1
+mp_carentan,hc_tdm,1
+mp_creek,hc_tdm,1
+
+playlist 11 // hc_tdm hc_sd gametype
+name english "Hardcore Search and Destroy"
+name french "Recherche et destruction Hardcore"
+name italian "Cerca e distruggi - veterano"
+name german "Hardcore-Suchen und Zerstören"
+name spanish "Buscar y destruir extremo"
+name polish "Dru¿ynowy hardcore."
+name russian "Æåñòêèå êîìàíäû"
+name japanese "ƒn[ƒhƒRƒAEƒT[ƒ`&ƒfƒXƒgƒƒC"
+name korean "ÇÏµåÄÚ¾î¿Í ¼ö»ö ¼¶¸ê"
+description english "Search and Destroy with:  limited HUD, extra bullet damage, friendly fire ON.\n__________\nPlayers:6-12"
+description french "Recherche et destruction, avec ATH limité, dégâts balles extrêmes, tir ami activé.\n__________\nJoueurs : 6-12"
+description italian "Cerca e distruggi con interfaccia ridotta, danno proiettili aumentato, fuoco amico ATTIVO.\n__________\nGiocatori: 6-12"
+description german "Suchen und Zerstören mit eingeschränktem HUD, erhöhtem Patronenschaden und aktiviertem Teambeschuss.\n__________\nSpieler: 6-12"
+description spanish "Buscar y destruir con: HUD limitado, daño adicional por balas, fuego amigo ACTIVADO.\n__________\nJugadores: 6-12"
+description polish "Hardcorowe: Dru¿ynowy deathmatch i ZnajdŸ i zniszcz. Ograniczony HUD, wiêksze obra¿enia od kul, ogieñ przyjacielski W£¥CZONY.\n__________\nGracze:6-12"
+description russian "Æåñòêèå âàğèàíòû Êîìàíäíîãî áîÿ è Íàéòè è óíè÷òîæèòü. Îãğàíè÷åíà èíôîğìàöèÿ íà äèñïëåå, óñèëåííûé óğîí îò ïóëü, ñòğåëüáà ïî ñâîèì âêëş÷åíà.\n__________\nÈãğîêè:6-12"
+description japanese "ƒT[ƒ`EƒAƒ“ƒhEƒfƒXƒgƒƒC:  ŒÀ’è‚³‚ê‚½HUDAe’e‚Ìƒ_ƒ[ƒWã¸A\nƒtƒŒƒ“ƒhƒŠ[ƒtƒ@ƒCƒA—LŒøB\n__________\nƒvƒŒƒCƒ„[”:6-12"
+description korean "¼ö»ö ¼¶¸ê: HUD Á¦ÇÑ. ÃÑ¾Ë ¼Õ»ó·Â Çâ»ó. ¾Æ±º »ç°İ Çã¿ë.\n__________\nÇÃ·¹ÀÌ¾î:6-12"
+unlockxp -3000000000
+maxparty 6
+rule party_minplayers 6
+rule party_maxplayers 12
+rule party_matchedplayercount 4
+rule party_readypercentrequired 0
+rule party_gameStartTimerLength 8
+rule scr_xpscale 1
+rule timescale 1
+rule set ufo 0
+rule set noclip 0
+rule set god 0
+rule set demigod 0
+rule closemenu menu_xboxlive_privatelobby
+mp_convoy,hc_sd,1
+mp_backlot,hc_sd,1
+mp_bloc,hc_sd,1
+mp_bog,hc_sd,1
+mp_countdown,hc_sd,1
+mp_crash,hc_sd,1
+mp_crossfire,hc_sd,1
+mp_citystreets,hc_sd,1
+mp_farm,hc_sd,1
+mp_overgrown,hc_sd,1
+mp_pipeline,hc_sd,1
+mp_strike,hc_sd,1
+mp_vacant,hc_sd,1
+mp_showdown,hc_sd,1
+mp_cargoship,hc_sd,1
+mp_broadcast,hc_sd,1
+mp_carentan,hc_sd,1
+mp_creek,hc_sd,1
+
+playlist 12 // old_ffa gametype
+name english "Old School Free-for-all"
+name french "Mêlée générale (à l'ancienne)"
+name italian "Tutti contro tutti classico"
+name german "Traditionelles Frei für alle"
+name spanish "Todos contra todos vieja escuela"
+name polish "Tradycyjny"
+name russian "Êëàññèêà"
+name japanese "ƒI[ƒ‹ƒhƒXƒN[ƒ‹"
+name korean "¿Ãµå½ºÄğ °³ÀÎÀü"
+description english "Old School Free-for-all.  No classes. Weapons are pickups, health increased, no health regeneration, and jumps are higher.\n__________\nPlayers:4-8"
+description french "Mêlée générale à l'ancienne. Pas de classes. Les armes doivent être ramassées dans le jeu, la santé est plus importante et ne se régénère pas, et les sauts sont plus hauts..\n__________\nJoueurs : 4-8"
+description italian "Tutti contro tutti Classico. Niente classi, armi da raccogliere, integratori di salute presenti, niente rigenerazione salute e salti più ampi.\n__________\nGiocatori: 4-8"
+description german "Traditionelles Frei für alle. Keine Klassen. Waffen werden aufgenommen, Gesundheit ist größer, keine Heilung und die Sprünge sind höher.\n__________\nSpieler: 4-8"
+description spanish "Todos contra todos vieja escuela. Sin clases. Sin clases. Las armas se recogen, no se regenera la salud y se salta más alto.\n__________\nJugadores: 4-8"
+description polish "Tradycyjne: Dru¿ynowy deathmatch i gra dowolna. Bez klas. Mo¿na zbieraæ broñ. Masz wiêcej zdrowia i wy¿ej skaczesz.\n__________\nGracze:4-8"
+description russian "Êëàññè÷åñêèå êîìàíäíûé áîé è áîé ïğîòèâ âñåõ. Íèêàêèõ êëàññîâ. Îğóæèå íóæíî ïîäáèğàòü, çäîğîâüå óâåëè÷åíî, ïğûæêè âûøå.\n__________\nÈãğîêè:4-8"
+description japanese "ƒI[ƒ‹ƒhƒXƒN[ƒ‹EƒtƒŠ[EƒtƒH[E\nƒI[ƒ‹B\nŠK‹‰‚È‚µB•Ší‚ÍE‚¤B\nHP‚Í‘•‚³‚êA‰ñ•œ‚µ‚È‚¢B\nƒWƒƒƒ“ƒv—Í‚à‘•‚³‚ê‚éB\n__________\nƒvƒŒƒCƒ„[”:4-8"
+description korean "¿Ãµå ½ºÄğ °³ÀÎÀü: Å¬·¡½º ¾øÀ½. ¹«±â¸¦ Áı´Â ´ë·Î »ç¿ë. ¸ñ¼û ¿¬Àå, ´Ù½Ã »ı¼º ºÒ°¡´É. ´õ ³ô¾ÆÁø Á¡ÇÁ.\n__________\nÇÃ·¹ÀÌ¾î:4-8"
+unlockxp -3000000000
+maxparty 1
+rule party_minplayers 4
+rule party_maxplayers 8
+rule party_matchedplayercount 4
+rule party_readypercentrequired 0
+rule party_gameStartTimerLength 8
+rule scr_xpscale 1
+rule timescale 1
+rule set ufo 0
+rule set noclip 0
+rule set god 0
+rule set demigod 0
+rule closemenu menu_xboxlive_privatelobby
+mp_convoy,old_ffa,1
+mp_backlot,old_ffa,1
+mp_bloc,old_ffa,1
+mp_bog,old_ffa,1
+mp_countdown,old_ffa,1
+mp_crash,old_ffa,1
+mp_crossfire,old_ffa,1
+mp_citystreets,old_ffa,1
+mp_farm,old_ffa,1
+mp_overgrown,old_ffa,1
+mp_pipeline,old_ffa,1
+mp_strike,old_ffa,1
+mp_vacant,old_ffa,1
+mp_showdown,old_ffa,1
+mp_cargoship,old_ffa,1
+mp_broadcast,old_ffa,1
+mp_carentan,old_ffa,1
+mp_creek,old_ffa,1
+mp_killhouse,old_ffa,1
+
+playlist 13 // cage_ffa gametype
+name english "Cage Match"
+name french "Match en cage"
+name italian "Partita in spazi ristretti"
+name german "Käfigschlacht"
+name spanish "Partida enjaulada"
+name polish "Mecz w klatce"
+name russian "Áîé â êëåòêå"
+name japanese "ƒP[ƒWƒ}ƒbƒ`"
+name korean "¼ö¿ë¼Ò °æ±â"
+description english "1v1 deathmatch.\n__________\nPlayers:2"
+description french "Match à mort 1v1.\n__________\nJoueurs : 2"
+description italian "Deathmatch 1 vs 1.\n__________\nGiocatori: 2"
+description german "Deathmatch 1 gegen 1.\n__________\nSpieler: 2"
+description spanish "Duelo a muerte 1 vs.1.\n__________\nJugadores: 2"
+description polish "Tradycyjny 1 na 1.\n__________\nGracze:2"
+description russian "Êëàññè÷åñêèé 1 íà 1.\n__________\nÈãğîêîâ:2"
+description japanese "1v1 ƒfƒXƒ}ƒbƒ`B\n__________\nƒvƒŒƒCƒ„[”:2"
+description korean "ÀÏ´ëÀÏ µ¥½º¸ÅÄ¡.\n__________\nÇÃ·¹ÀÌ¾î:2"
+unlockxp -3000000000
+maxparty 1
+rule party_minplayers 2
+rule party_maxplayers 2
+rule party_matchedplayercount 1
+rule party_readypercentrequired 0
+rule party_gameStartTimerLength 8
+rule scr_xpscale 8
+rule timescale 1
+rule set ufo 0
+rule set noclip 0
+rule set god 0
+rule set demigod 0
+rule closemenu menu_xboxlive_privatelobby
+mp_backlot,cage_ffa,1
+mp_bog,cage_ffa,1
+mp_crash,cage_ffa,1
+mp_crossfire,cage_ffa,1
+mp_shipment,cage_ffa,3
+mp_showdown,cage_ffa,2
+mp_vacant,cage_ffa,1
+mp_cargoship,cage_ffa,1
+mp_countdown,cage_ffa,1
+mp_citystreets,cage_ffa,1
+mp_killhouse,cage_ffa,2
+mp_carentan,cage_ffa,
+
+playlist 14 //hc_koth gametype
+name english "Hardcore Headquarters"
+name french "QG Hardcore"
+name italian "Quartier generale veterano"
+name german "Hardcore-Hauptquartier"
+name spanish "Cuartel general extremo"
+name polish "Hardcore Headquarters"
+name russian "Hardcore Headquarters"
+name japanese "ƒn[ƒhƒRƒA ƒwƒbƒhƒNƒH[ƒ^["
+name korean "ÇÏµåÄÚ¾î »ç·ÉºÎ"
+Description english "A neutral base to capture is marked in the level. Each team fights to capture it. Capture and hold it to gain points. The team that holds the HQ doesn't respawn. Limited HUD, extra bullet damage, friendly fire ON.\n__________\nPlayers:6-12"
+Description french "Une base neutre est indiquée dans le niveau. Les deux équipes doivent tout faire pour la capturer. Plus vous la gardez longtemps, plus votre équipe marque de points. L'équipe qui tient le QG ne réapparaît pas. \n__________\nJoueurs : 6-12"
+Description italian "L'obiettivo è conquistare una base neutrale situata nel livello. Ciascuna squadra deve battersi per prenderne il controllo e difenderla per ottenere punti. La squadra che difende il QG non può effettuare rientri. \n__________\nGiocatori: 6-12"
+Description german "In jedem Level gilt es für jedes Team, eine neutrale Basis zu erobern. Erobern und halten Sie sie zum Punkten. Bei dem Team, das das Hauptquartier hält, steigen keine Spieler neu ein. \n__________\nSpieler: 6-12"
+Description spanish "Hay una base neutral para capturar en el nivel. Cada equipo lucha para conseguirla. Capturarla y conservarla da puntos. El equipo defensor no reaparece. HUD limitada, daño extra por balas y fuego amigo activado.\n__________\nJugadores:6-12"
+Description polish "A neutral base to capture is marked in the level. Each team fights to capture it. Capture and hold it to gain points. The team that holds the HQ doesn't respawn. Limited HUD, extra bullet damage, friendly fire ON.\n__________\nPlayers:6-12"
+Description russian "A neutral base to capture is marked in the level. Each team fights to capture it. Capture and hold it to gain points. The team that holds the HQ doesn't respawn. Limited HUD, extra bullet damage, friendly fire ON.\n__________\nPlayers:6-12"
+Description japanese "ƒXƒe[ƒW“à‚Éè—Ì‰Â”\‚Èƒjƒ…[ƒgƒ‰ƒ‹Šî’n‚ª\n•\¦‚³‚ê‚Ä‚¢‚éBŠeƒ`[ƒ€‚ªè—Ìí“¬‚ğs‚¤B\nè—Ì‚µ‚Äƒ|ƒCƒ“ƒg‚ğŠl“¾‚¹‚æBŠî’n‚ğ•Û—L‚·‚é\nƒ`[ƒ€‚ÍƒŠƒXƒ|[ƒ“‚ª•s‰Â”\B ƒŒ[ƒ_[íONA\n‰ßèe’eƒ_ƒ[ƒWAƒtƒŒƒ“ƒhƒŠ[ƒtƒ@ƒCƒAF ON\n__________\nƒvƒŒƒCƒ„[l”6`12l"
+Description korean "·¹º§¿¡ Ç¥½ÃµÈ Áß¸³ »ç·ÉºÎ¸¦ Á¡·ÉÇÏ±â À§ÇØ ¾ç ÆÀÀÌ ÀüÅõ¸¦ ¹úÀÔ´Ï´Ù. »ç·ÉºÎ¸¦ Á¡·ÉÇÏ°í »ç¼öÇÏ¸é Á¡¼ö È¹µæ. »ç·ÉºÎ¸¦ Á¡·ÉÇÑ ÆÀÀº ¸®½ºÆùÀÌ ºÒ°¡´É. ÇÑÁ¤µÈ HUD, ÃÑ±â ÇÇÇØÄ¡ Áõ°¡, ¾Æ±º »ç°İ °¡´É\n__________\nÇÃ·¹ÀÌ¾î:6-12"
+unlockxp -3000000000
+maxparty 6
+rule party_minplayers 6
+rule party_maxplayers 12
+rule party_matchedplayercount 4
+rule party_readypercentrequired 0
+rule party_gameStartTimerLength 8
+rule scr_xpscale 1
+rule timescale 1
+rule set ufo 0
+rule set noclip 0
+rule set god 0
+rule set demigod 0
+rule closemenu menu_xboxlive_privatelobby
+mp_backlot,hc_koth,1
+mp_bog,hc_koth,1
+mp_countdown,hc_koth,1
+mp_crash,hc_koth,1
+mp_crossfire,hc_koth,1
+mp_citystreets,hc_koth,1
+mp_farm,hc_koth,1
+mp_overgrown,hc_koth,1
+mp_shipment,hc_koth,1
+mp_showdown,hc_koth,1
+mp_strike,hc_koth,1
+mp_vacant,hc_koth,1
+mp_cargoship,hc_koth,1
+mp_convoy,hc_koth,1
+mp_bloc,hc_koth,1
+mp_pipeline,hc_koth,1
+mp_broadcast,hc_koth,1
+mp_carentan,hc_koth,1
+mp_creek,hc_koth,1
+
+

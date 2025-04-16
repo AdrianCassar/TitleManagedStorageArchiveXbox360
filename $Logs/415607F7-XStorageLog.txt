@@ -1,0 +1,4 @@
+strServerPath: //title.415607f7/t:415607f7/*
+
+PathName[0]: //title.415607f7/t:415607f7/maker.txt - Size: 61 - Created: 31/10/2007 - 19:03:26 - Modified: 31/10/2007 - 19:03:26
+

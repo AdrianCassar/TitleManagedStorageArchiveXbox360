@@ -1,0 +1,9 @@
+TitleID: 465307E4
+Version: 0.0.10.8
+
+PathName[0]: //title.465307e4/t:465307e4/regulation_0114.bin - Size: 829216 (0xCA720) bytes - Created: 25/02/2015 - 22:54:54 - Modified: 01/04/2015 - 02:50:43
+
+PathName[1]: //title.465307e4/t:465307e4/regulation_0112.bin - Size: 827600 (0xCA0D0) bytes - Created: 25/09/2014 - 09:41:23 - Modified: 25/09/2014 - 09:41:23
+
+PathName[2]: //title.465307e4/t:465307e4/regulation_0101.bin - Size: 675008 (0xA4CC0) bytes - Created: 05/02/2014 - 14:05:31 - Modified: 05/02/2014 - 14:05:31
+
