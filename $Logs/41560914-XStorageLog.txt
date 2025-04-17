@@ -1,4 +1,5 @@
-strServerPath: //title.41560914/t:41560914/*
+TitleID: 41560914
+Version: 0.0.17.10
 
-No files found!
+No files found for this titleid...
 

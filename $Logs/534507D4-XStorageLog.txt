@@ -1,0 +1,5 @@
+TitleID: 534507D4
+Version: 0.0.1.1
+
+PathName[0]: //title.534507d4/t:534507d4/CH_GlobalParam02.bnd - Size: 217984 (0x35380) bytes - Created: 03/04/2007 - 10:11:53 - Modified: 03/04/2007 - 10:11:53
+

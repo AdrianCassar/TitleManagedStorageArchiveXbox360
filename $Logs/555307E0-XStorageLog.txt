@@ -1,8 +1,5 @@
-strServerPath: //title.555307e0/t:555307e0/*
+TitleID: 555307E0
+Version: 0.0.2.1
 
-XStorageEnumerate error: 65B
-
-strServerPath: //title.555307e0/t:555307e0/*
-
-No files found!
+No files found for this titleid...
 

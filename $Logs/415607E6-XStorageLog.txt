@@ -1,10 +1,11 @@
-strServerPath: //title.415607e6/t:415607e6/*
+TitleID: 415607E6
+Version: 0.0.4.3
 
-PathName[0]: //title.415607e6/t:415607e6/motd.txt - Size: 56 - Created: 17/05/2012 - 09:00:24 - Modified: 17/05/2012 - 09:00:24
+PathName[0]: //title.415607e6/t:415607e6/motd.txt - Size: 56 (0x38) bytes - Created: 17/05/2012 - 09:00:24 - Modified: 17/05/2012 - 09:00:24
 
-PathName[1]: //title.415607e6/t:415607e6/motd-english.txt - Size: 56 - Created: 17/05/2012 - 09:00:21 - Modified: 17/05/2012 - 09:00:21
+PathName[1]: //title.415607e6/t:415607e6/motd-english.txt - Size: 56 (0x38) bytes - Created: 17/05/2012 - 09:00:21 - Modified: 17/05/2012 - 09:00:21
 
-PathName[2]: //title.415607e6/t:415607e6/playlists.patch2 - Size: 45973 - Created: 17/05/2010 - 23:19:53 - Modified: 28/03/2011 - 22:04:13
+PathName[2]: //title.415607e6/t:415607e6/playlists.patch2 - Size: 45973 (0xB395) bytes - Created: 17/05/2010 - 23:19:53 - Modified: 28/03/2011 - 22:04:13
 
-PathName[3]: //title.415607e6/t:415607e6/playlists.patch1 - Size: 38868 - Created: 26/02/2008 - 16:15:21 - Modified: 26/02/2008 - 16:15:21
+PathName[3]: //title.415607e6/t:415607e6/playlists.patch1 - Size: 38868 (0x97D4) bytes - Created: 26/02/2008 - 16:15:21 - Modified: 26/02/2008 - 16:15:21
 

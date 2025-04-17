@@ -1,0 +1,41 @@
+TitleID: 41560817
+Version: 0.0.9.21
+
+PathName[0]: //title.41560817/t:41560817/playlists.patch2 - Size: 66275 (0x102E3) bytes - Created: 08/12/2012 - 01:55:15 - Modified: 08/12/2012 - 01:55:15
+
+PathName[1]: //title.41560817/t:41560817/motd-english.txt - Size: 73 (0x49) bytes - Created: 02/10/2009 - 21:50:25 - Modified: 05/09/2011 - 17:53:09
+
+PathName[2]: //title.41560817/t:41560817/motd-sp-english.txt - Size: 77 (0x4D) bytes - Created: 02/10/2009 - 21:50:46 - Modified: 05/09/2011 - 17:53:04
+
+PathName[3]: //title.41560817/t:41560817/playlists.patch1 - Size: 62671 (0xF4CF) bytes - Created: 05/02/2010 - 02:44:09 - Modified: 28/05/2010 - 23:56:09
+
+PathName[4]: //title.41560817/t:41560817/playlists.info - Size: 52877 (0xCE8D) bytes - Created: 02/10/2009 - 21:51:08 - Modified: 11/01/2010 - 20:50:30
+
+PathName[5]: //title.41560817/t:41560817/motd-sp-spanish.txt - Size: 132 (0x84) bytes - Created: 02/10/2009 - 21:51:05 - Modified: 02/10/2009 - 21:51:05
+
+PathName[6]: //title.41560817/t:41560817/motd-sp-russian.txt - Size: 130 (0x82) bytes - Created: 02/10/2009 - 21:51:02 - Modified: 02/10/2009 - 21:51:02
+
+PathName[7]: //title.41560817/t:41560817/motd-sp-polish.txt - Size: 119 (0x77) bytes - Created: 02/10/2009 - 21:50:59 - Modified: 02/10/2009 - 21:50:59
+
+PathName[8]: //title.41560817/t:41560817/motd-sp-japanese.txt - Size: 55 (0x37) bytes - Created: 02/10/2009 - 21:50:57 - Modified: 02/10/2009 - 21:50:57
+
+PathName[9]: //title.41560817/t:41560817/motd-sp-italian.txt - Size: 114 (0x72) bytes - Created: 02/10/2009 - 21:50:54 - Modified: 02/10/2009 - 21:50:54
+
+PathName[10]: //title.41560817/t:41560817/motd-sp-german.txt - Size: 126 (0x7E) bytes - Created: 02/10/2009 - 21:50:51 - Modified: 02/10/2009 - 21:50:51
+
+PathName[11]: //title.41560817/t:41560817/motd-sp-french.txt - Size: 139 (0x8B) bytes - Created: 02/10/2009 - 21:50:49 - Modified: 02/10/2009 - 21:50:49
+
+PathName[12]: //title.41560817/t:41560817/motd-spanish.txt - Size: 34 (0x22) bytes - Created: 02/10/2009 - 21:50:43 - Modified: 02/10/2009 - 21:50:43
+
+PathName[13]: //title.41560817/t:41560817/motd-russian.txt - Size: 43 (0x2B) bytes - Created: 02/10/2009 - 21:50:41 - Modified: 02/10/2009 - 21:50:41
+
+PathName[14]: //title.41560817/t:41560817/motd-polish.txt - Size: 32 (0x20) bytes - Created: 02/10/2009 - 21:50:38 - Modified: 02/10/2009 - 21:50:38
+
+PathName[15]: //title.41560817/t:41560817/motd-japanese.txt - Size: 33 (0x21) bytes - Created: 02/10/2009 - 21:50:35 - Modified: 02/10/2009 - 21:50:35
+
+PathName[16]: //title.41560817/t:41560817/motd-italian.txt - Size: 29 (0x1D) bytes - Created: 02/10/2009 - 21:50:33 - Modified: 02/10/2009 - 21:50:33
+
+PathName[17]: //title.41560817/t:41560817/motd-german.txt - Size: 34 (0x22) bytes - Created: 02/10/2009 - 21:50:30 - Modified: 02/10/2009 - 21:50:30
+
+PathName[18]: //title.41560817/t:41560817/motd-french.txt - Size: 35 (0x23) bytes - Created: 02/10/2009 - 21:50:27 - Modified: 02/10/2009 - 21:50:27
+

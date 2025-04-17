@@ -1,4 +1,5 @@
-strServerPath: //title.545407f8/t:545407f8/*
+TitleID: 545407F8
+Version: 0.0.0.8
 
-PathName[0]: //title.545407f8/t:545407f8/xarchive_tms.rpf - Size: 24576 - Created: 18/04/2009 - 09:00:24 - Modified: 23/04/2009 - 08:59:31
+PathName[0]: //title.545407f8/t:545407f8/xarchive_tms.rpf - Size: 24576 (0x6000) bytes - Created: 18/04/2009 - 09:00:24 - Modified: 23/04/2009 - 08:59:31
 

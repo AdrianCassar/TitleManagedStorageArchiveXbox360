@@ -1,14 +1,15 @@
-strServerPath: //title.41560845/t:41560845/*
+TitleID: 41560845
+Version: 0.0.2.1
 
-PathName[0]: //title.41560845/t:41560845/BlurTU2_loc.ts - Size: 618 - Created: 01/07/2010 - 18:48:39 - Modified: 01/11/2010 - 08:40:15
+PathName[0]: //title.41560845/t:41560845/BlurTU2_loc.ts - Size: 618 (0x26A) bytes - Created: 01/07/2010 - 18:48:39 - Modified: 01/11/2010 - 08:40:15
 
-PathName[1]: //title.41560845/t:41560845/BlurTU2_bin.ts - Size: 39691 - Created: 01/07/2010 - 18:48:36 - Modified: 01/11/2010 - 08:40:05
+PathName[1]: //title.41560845/t:41560845/BlurTU2_bin.ts - Size: 39691 (0x9B0B) bytes - Created: 01/07/2010 - 18:48:36 - Modified: 01/11/2010 - 08:40:05
 
-PathName[2]: //title.41560845/t:41560845/BlurRC1SubTS_loc.ts - Size: 350 - Created: 13/05/2010 - 15:31:29 - Modified: 25/05/2010 - 11:43:02
+PathName[2]: //title.41560845/t:41560845/BlurRC1SubTS_loc.ts - Size: 350 (0x15E) bytes - Created: 13/05/2010 - 15:31:29 - Modified: 25/05/2010 - 11:43:02
 
-PathName[3]: //title.41560845/t:41560845/BlurRC1SubTS_bin.ts - Size: 39700 - Created: 13/05/2010 - 15:31:26 - Modified: 25/05/2010 - 11:42:59
+PathName[3]: //title.41560845/t:41560845/BlurRC1SubTS_bin.ts - Size: 39700 (0x9B14) bytes - Created: 13/05/2010 - 15:31:26 - Modified: 25/05/2010 - 11:42:59
 
-PathName[4]: //title.41560845/t:41560845/BlurDevTS_loc.ts - Size: 350 - Created: 13/05/2010 - 15:31:22 - Modified: 13/05/2010 - 15:31:22
+PathName[4]: //title.41560845/t:41560845/BlurDevTS_loc.ts - Size: 350 (0x15E) bytes - Created: 13/05/2010 - 15:31:22 - Modified: 13/05/2010 - 15:31:22
 
-PathName[5]: //title.41560845/t:41560845/BlurDevTS_bin.ts - Size: 39778 - Created: 13/05/2010 - 15:31:19 - Modified: 13/05/2010 - 15:31:19
+PathName[5]: //title.41560845/t:41560845/BlurDevTS_bin.ts - Size: 39778 (0x9B62) bytes - Created: 13/05/2010 - 15:31:19 - Modified: 13/05/2010 - 15:31:19
 

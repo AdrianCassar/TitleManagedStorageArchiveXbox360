@@ -1,4 +1,5 @@
-strServerPath: //title.41560834/t:41560834/*
+TitleID: 41560834
+Version: 0.0.1.1
 
-PathName[0]: //title.41560834/t:41560834/TMSData.lx - Size: 950 - Created: 15/05/2009 - 17:42:24 - Modified: 15/05/2009 - 17:42:24
+PathName[0]: //title.41560834/t:41560834/TMSData.lx - Size: 950 (0x3B6) bytes - Created: 15/05/2009 - 17:42:24 - Modified: 15/05/2009 - 17:42:24
 
