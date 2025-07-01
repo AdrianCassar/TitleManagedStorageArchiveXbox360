@@ -63,3 +63,18 @@ TMS contains game-specific data, it allows developers to control their global da
 | 43430821 | U. MARVEL VS. CAPCOM 3                |
 | 4C5307F3 | WRC 3                                 |
 | FFFE07D1 | Xbox 360 Dashboard                    |
+
+## Additional Content
+This content was taken from [X360TitleStorageArchive](https://github.com/Gamecheat13/X360TitleStorageArchive), therefore logs aren't available.
+
+| Title ID | Game                                  |
+|----------|---------------------------------------|
+| 5345080C | Aliens: Colonial Marines              |
+| 41560929 | Black Ops III Bundle                  |
+| 41560898 | Call of Duty® ELITE                   |
+| 4D5308CE | Halo Waypoint                         |
+| 54518827 | Red Faction: Guerrilla Beta           |
+| 5451884E | Red Faction: Guerrilla Demo           |
+| 4B4D07F6 | Saints Row IV                         |
+| 5451086D | Saints Row: The Third                 |
+| 4D53880B | Shadowrun                             |

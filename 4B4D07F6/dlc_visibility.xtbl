@@ -1,0 +1,916 @@
+<root>
+<Table>
+	<VisibilityRules>
+		<Name>VisibilityRules</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Offer_List>
+			<Offer_Visibility_Info>
+				<Name>Season Pass</Name>
+				<OfferID>4b4d07f635cb8800</OfferID>
+				<Indirect_License_Mask>00010000</Indirect_License_Mask>
+				<Is_Season_Pass>True</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Online Pass</Name>
+				<OfferID>4b4d07f6cfec6800</OfferID>
+				<Bundle_ID>10</Bundle_ID>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Online_Pass>True</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>The Rectifier Season Pass</Name>
+				<OfferID>4b4d07f6401e7c00</OfferID>
+				<Bundle_ID>11</Bundle_ID>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>True</Requires_Season_Pass>
+				<Hidden_By_Default>True</Hidden_By_Default>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>The Rectifier</Name>
+				<OfferID>4b4d07f68ec3c400</OfferID>
+				<Bundle_ID>11</Bundle_ID>
+				<Hidden_By_Default>True</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Commander-in-Chief Pack</Name>
+				<OfferID>4b4d07f6ce97a000</OfferID>
+				<Bundle_ID>12</Bundle_ID>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Volition Comics</Name>
+				<OfferID>4b4d07f661e1a400</OfferID>
+				<Bundle_ID>13</Bundle_ID>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Executive Privilege Pack</Name>
+				<OfferID>4b4d07f6717ed000</OfferID>
+				<Bundle_ID>14</Bundle_ID>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Voyeur Pack I</Name>
+				<OfferID>4b4d07f6ceedec00</OfferID>
+				<Bundle_ID>15</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>BradyGames Pack</Name>
+				<OfferID>4b4d07f6e9001400</OfferID>
+				<Bundle_ID>16</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Grass Roots Pack</Name>
+				<OfferID>4b4d07f6a72a0000</OfferID>
+				<Bundle_ID>17</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Presidential Pack</Name>
+				<OfferID>4b4d07f6bc486000</OfferID>
+				<Bundle_ID>18</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Dubstep Gun Remix Pack</Name>
+				<OfferID>4b4d07f62cc55000</OfferID>
+				<Bundle_ID>19</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Voyeur Pack II</Name>
+				<OfferID>4b4d07f623cfe800</OfferID>
+				<Bundle_ID>20</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Wild West Pack</Name>
+				<OfferID>4b4d07f634243000</OfferID>
+				<Bundle_ID>21</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>GAT V Pack</Name>
+				<OfferID>4b4d07f615263800</OfferID>
+				<Bundle_ID>22</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Voyeur Pack III</Name>
+				<OfferID>4b4d07f6b4e1d000</OfferID>
+				<Bundle_ID>24</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Enter The Dominatrix</Name>
+				<OfferID>4b4d07f60e074800</OfferID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				<Bundle_ID>25</Bundle_ID>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Enter The Dominatrix Season Pass</Name>
+				<OfferID>4b4d07f6dca59000</OfferID>
+				<Bundle_ID>25</Bundle_ID>
+				<Hidden_By_Default>True</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>True</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>The Super Saints Pack</Name>
+				<OfferID>4b4d07f608f4c400</OfferID>
+				<Bundle_ID>26</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Pirates Booty Pack</Name>
+				<OfferID>4b4d07f69a905c00</OfferID>
+				<Bundle_ID>27</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Voyeur Pack IV</Name>
+				<OfferID>4b4d07f6dbaf2000</OfferID>
+				<Bundle_ID>28</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Element of Destruction Pack</Name>
+				<OfferID>4b4d07f695e6d000</OfferID>
+				<Bundle_ID>29</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Zinyak Attack Pack</Name>
+				<OfferID>4b4d07f6594c5800</OfferID>
+				<Bundle_ID>30</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Hey Ash Watcha Playin Pack</Name>
+				<OfferID>4b4d07f6f5fc2400</OfferID>
+				<Bundle_ID>31</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Voyeur Pack V</Name>
+				<OfferID>4b4d07f6209d0c00</OfferID>
+				<Bundle_ID>32</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>How The Saints Save Christmas</Name>
+				<OfferID>4b4d07f603f71000</OfferID>
+				<Bundle_ID>33</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>How The Saints Save Christmas Season Pass</Name>
+				<OfferID>4b4d07f6cb5ad400</OfferID>
+				<Bundle_ID>33</Bundle_ID>
+				<Hidden_By_Default>True</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>True</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Anime Pack</Name>
+				<OfferID>4b4d07f62239b000</OfferID>
+				<Bundle_ID>34</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Caveman Pack</Name>
+				<OfferID>4b4d07f68de7c800</OfferID>
+				<Bundle_ID>35</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Voyeur Pack VI</Name>
+				<OfferID>4b4d07f69ea29800</OfferID>
+				<Bundle_ID>36</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Bling Bling Pack</Name>
+				<OfferID>4b4d07f65004a800</OfferID>
+				<Bundle_ID>37</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Reverse Cosplay Pack</Name>
+				<OfferID>4b4d07f6671c8800</OfferID>
+				<Bundle_ID>38</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>GameStop Warped Weapon Challenge</Name>
+				<OfferID>4b4d07f6229ef400</OfferID>
+				<Bundle_ID>39</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Game On</Name>
+				<OfferID>4b4d07f65ac88c00</OfferID>
+				<Bundle_ID>40</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>College Daze</Name>
+				<OfferID>4b4d07f69d0b9800</OfferID>
+				<Bundle_ID>41</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Child's Play Pack</Name>
+				<OfferID>4b4d07f655bf7c00</OfferID>
+				<Bundle_ID>42</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - Japanese Pass</Name>
+				<OfferID>4b4d07f60488a800</OfferID>
+				<Hidden_By_Default>True</Hidden_By_Default>
+				<Is_Season_Pass>True</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - Voyeur Pack I</Name>
+				<OfferID>4b4d07f6ceedec00</OfferID>
+				<Bundle_ID>15</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - BradyGames Pack</Name>
+				<OfferID>4b4d07f6e9001400</OfferID>
+				<Bundle_ID>16</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - BradyGames Pack Japanese Pass</Name>
+				<OfferID>4b4d07f6c3f6a800</OfferID>
+				<Bundle_ID>16</Bundle_ID>
+				<Hidden_By_Default>True</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>True</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - Grass Roots Pack</Name>
+				<OfferID>4b4d07f6a72a0000</OfferID>
+				<Bundle_ID>17</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - Grass Roots Pack Japanese Pass</Name>
+				<OfferID>4b4d07f698759400</OfferID>
+				<Bundle_ID>17</Bundle_ID>
+				<Hidden_By_Default>True</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>True</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - Presidential Pack</Name>
+				<OfferID>4b4d07f6bc486000</OfferID>
+				<Bundle_ID>18</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - Presidential Pack Japanese Pass</Name>
+				<OfferID>4b4d07f6a2f4d000</OfferID>
+				<Bundle_ID>18</Bundle_ID>
+				<Hidden_By_Default>True</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>True</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - Dubstep Gun Remix Pack</Name>
+				<OfferID>4b4d07f62cc55000</OfferID>
+				<Bundle_ID>19</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - Dubstep Gun Remix Pack Japanese Pass</Name>
+				<OfferID>4b4d07f6814f5400</OfferID>
+				<Bundle_ID>19</Bundle_ID>
+				<Hidden_By_Default>True</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>True</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - Voyeur Pack II</Name>
+				<OfferID>4b4d07f623cfe800</OfferID>
+				<Bundle_ID>20</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - Wild West Pack</Name>
+				<OfferID>4b4d07f634243000</OfferID>
+				<Bundle_ID>21</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - Wild West Pack Japanese Pass</Name>
+				<OfferID>4b4d07f66be8fc00</OfferID>
+				<Bundle_ID>21</Bundle_ID>
+				<Hidden_By_Default>True</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>True</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - GAT V Pack</Name>
+				<OfferID>4b4d07f615263800</OfferID>
+				<Bundle_ID>22</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - GAT V Pack Japanese Pass</Name>
+				<OfferID>4b4d07f68b5ff000</OfferID>
+				<Bundle_ID>22</Bundle_ID>
+				<Hidden_By_Default>True</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>True</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - Voyeur Pack III</Name>
+				<OfferID>4b4d07f6b4e1d000</OfferID>
+				<Bundle_ID>24</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - Enter The Dominatrix</Name>
+				<OfferID>4b4d07f60e074800</OfferID>
+				<Bundle_ID>25</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - Enter The Dominatrix Japanese Pass</Name>
+				<OfferID>4b4d07f621e9a800</OfferID>
+				<Bundle_ID>25</Bundle_ID>
+				<Hidden_By_Default>True</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>True</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - Super Saints Pack</Name>
+				<OfferID>4b4d07f608f4c400</OfferID>
+				<Bundle_ID>26</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - Super Saints Pack Japanese Pass</Name>
+				<OfferID>4b4d07f601a93c00</OfferID>
+				<Bundle_ID>26</Bundle_ID>
+				<Hidden_By_Default>True</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>True</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - Pirates Booty Pack</Name>
+				<OfferID>4b4d07f69a905c00</OfferID>
+				<Bundle_ID>27</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - Pirates Booty Pack Japanese Pass</Name>
+				<OfferID>4b4d07f6eb340800</OfferID>
+				<Bundle_ID>27</Bundle_ID>
+				<Hidden_By_Default>True</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>True</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - Voyeur Pack IV</Name>
+				<OfferID>4b4d07f6dbaf2000</OfferID>
+				<Bundle_ID>28</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - Element of Destruction Pack</Name>
+				<OfferID>4b4d07f695e6d000</OfferID>
+				<Bundle_ID>29</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - Zinyak Attack Pack</Name>
+				<OfferID>4b4d07f6594c5800</OfferID>
+				<Bundle_ID>30</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - Hey Ash Watcha Playin Pack</Name>
+				<OfferID>4b4d07f6f5fc2400</OfferID>
+				<Bundle_ID>31</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - Voyeur Pack V</Name>
+				<OfferID>4b4d07f6209d0c00</OfferID>
+				<Bundle_ID>32</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - How The Saints Save Christmas</Name>
+				<OfferID>4b4d07f603f71000</OfferID>
+				<Bundle_ID>33</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - Anime Pack</Name>
+				<OfferID>4b4d07f62239b000</OfferID>
+				<Bundle_ID>34</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - Caveman Pack</Name>
+				<OfferID>4b4d07f68de7c800</OfferID>
+				<Bundle_ID>35</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - Voyeur Pack VI</Name>
+				<OfferID>4b4d07f69ea29800</OfferID>
+				<Bundle_ID>36</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - Bling Bling Pack</Name>
+				<OfferID>4b4d07f65004a800</OfferID>
+				<Bundle_ID>37</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - Reverse Cosplay Pack</Name>
+				<OfferID>4b4d07f6671c8800</OfferID>
+				<Bundle_ID>38</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - GameStop Warped Weapon Challenge</Name>
+				<OfferID>4b4d07f6229ef400</OfferID>
+				<Bundle_ID>39</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - Game On</Name>
+				<OfferID>4b4d07f65ac88c00</OfferID>
+				<Bundle_ID>40</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - College Daze</Name>
+				<OfferID>4b4d07f69d0b9800</OfferID>
+				<Bundle_ID>41</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>JP - Child’s Play Pack</Name>
+				<OfferID>4b4d07f655bf7c00</OfferID>
+				<Bundle_ID>42</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			</Offer_List>
+		<Rule_List>
+			<Rule>
+				<Key_Offer>Season Pass</Key_Offer>
+				<Dependent_Offer>The Rectifier Season Pass</Dependent_Offer>
+				<Visibility>Show</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>Season Pass</Key_Offer>
+				<Dependent_Offer>Enter The Dominatrix Season Pass</Dependent_Offer>
+				<Visibility>Show</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>Season Pass</Key_Offer>
+				<Dependent_Offer>Enter The Dominatrix</Dependent_Offer>
+				<Visibility>Hide</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>Season Pass</Key_Offer>
+				<Dependent_Offer>How The Saints Save Christmas Season Pass</Dependent_Offer>
+				<Visibility>Show</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>Season Pass</Key_Offer>
+				<Dependent_Offer>How The Saints Save Christmas</Dependent_Offer>
+				<Visibility>Hide</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>JP - Japanese Pass</Key_Offer>
+				<Dependent_Offer>JP - BradyGames Pack Japanese Pass</Dependent_Offer>
+				<Visibility>Show</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>JP - Japanese Pass</Key_Offer>
+				<Dependent_Offer>JP - BradyGames Pack</Dependent_Offer>
+				<Visibility>Hide</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>JP - Japanese Pass</Key_Offer>
+				<Dependent_Offer>JP - Grass Roots Pack Japanese Pass</Dependent_Offer>
+				<Visibility>Show</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>JP - Japanese Pass</Key_Offer>
+				<Dependent_Offer>JP - Grass Roots Pack</Dependent_Offer>
+				<Visibility>Hide</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>JP - Japanese Pass</Key_Offer>
+				<Dependent_Offer>JP - Presidential Pack Japanese Pass</Dependent_Offer>
+				<Visibility>Show</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>JP - Japanese Pass</Key_Offer>
+				<Dependent_Offer>JP - Presidential Pack</Dependent_Offer>
+				<Visibility>Hide</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>JP - Japanese Pass</Key_Offer>
+				<Dependent_Offer>JP - Dubstep Gun Remix Pack Japanese Pass</Dependent_Offer>
+				<Visibility>Show</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>JP - Japanese Pass</Key_Offer>
+				<Dependent_Offer>JP - Dubstep Gun Remix Pack</Dependent_Offer>
+				<Visibility>Hide</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>JP - Japanese Pass</Key_Offer>
+				<Dependent_Offer>JP - Wild West Pack Japanese Pass</Dependent_Offer>
+				<Visibility>Show</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>JP - Japanese Pass</Key_Offer>
+				<Dependent_Offer>JP - Wild West Pack</Dependent_Offer>
+				<Visibility>Hide</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>JP - Japanese Pass</Key_Offer>
+				<Dependent_Offer>JP - GAT V Pack Japanese Pass</Dependent_Offer>
+				<Visibility>Show</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>JP - Japanese Pass</Key_Offer>
+				<Dependent_Offer>JP - GAT V Pack</Dependent_Offer>
+				<Visibility>Hide</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>JP - Japanese Pass</Key_Offer>
+				<Dependent_Offer>JP - Enter The Dominatrix Japanese Pass</Dependent_Offer>
+				<Visibility>Show</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>JP - Japanese Pass</Key_Offer>
+				<Dependent_Offer>JP - Enter The Dominatrix</Dependent_Offer>
+				<Visibility>Hide</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>JP - Japanese Pass</Key_Offer>
+				<Dependent_Offer>JP - Super Saints Pack Japanese Pass</Dependent_Offer>
+				<Visibility>Show</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>JP - Japanese Pass</Key_Offer>
+				<Dependent_Offer>JP - Super Saints Pack</Dependent_Offer>
+				<Visibility>Hide</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>JP - Japanese Pass</Key_Offer>
+				<Dependent_Offer>JP - Pirates Booty Pack Japanese Pass</Dependent_Offer>
+				<Visibility>Show</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>JP - Japanese Pass</Key_Offer>
+				<Dependent_Offer>JP - Pirates Booty Pack</Dependent_Offer>
+				<Visibility>Hide</Visibility>
+				</Rule>
+			</Rule_List>
+		</VisibilityRules>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>VisibilityRules</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Offer_List</Name>
+		<Type>Grid</Type>
+		<Display_Name>Offer List</Display_Name>
+		<Element>
+			<Name>Offer_Visibility_Info</Name>
+			<Type>Element</Type>
+			<Display_Name>Offer Visibility Info</Display_Name>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				</Element>
+			<Element>
+				<Name>OfferID</Name>
+				<Type>String</Type>
+				<Display_Name>Offer ID: 0x'0000000000000000'</Display_Name>
+				<Description>The Offer ID</Description>
+				<Default>5451086D</Default>
+				<MaxLength>16</MaxLength>
+				</Element>
+			<Element>
+				<Name>Bundle_ID</Name>
+				<Type>Int</Type>
+				<Display_Name>Bundle ID</Display_Name>
+				<Description>If this bundle is licensed treat it as purchased by the user even if the fUserHasPurchased flag is not set.</Description>
+				<Required>false</Required>
+				<Default>0</Default>
+				<MinValue>1</MinValue>
+				<MaxValue>254</MaxValue>
+				</Element>
+			<Element>
+				<Name>Indirect_License_Mask</Name>
+				<Type>String</Type>
+				<Display_Name>Indirect License Mask</Display_Name>
+				<Description>Indirect License Mask in base 16.</Description>
+				<Required>false</Required>
+				<Default>00000000</Default>
+				<MaxLength>8</MaxLength>
+				</Element>
+			<Element>
+				<Name>Hidden_By_Default</Name>
+				<Type>Selection</Type>
+				<Display_Name>Hidden By Default</Display_Name>
+				<Description>Is the offer hidden in the Xbox LIVE marketplace?</Description>
+				<Default>False</Default>
+				<Choice>True</Choice>
+				<Choice>False</Choice>
+				</Element>
+			<Element>
+				<Name>Is_Season_Pass</Name>
+				<Type>Selection</Type>
+				<Display_Name>Is Season Pass</Display_Name>
+				<Default>False</Default>
+				<Choice>True</Choice>
+				<Choice>False</Choice>
+				</Element>
+			<Element>
+				<Name>Requires_Season_Pass</Name>
+				<Type>Selection</Type>
+				<Display_Name>Requires Season Pass</Display_Name>
+				<Description>Does the Season Pass need to be installed for this offer's content need to be consumed?</Description>
+				<Default>False</Default>
+				<Choice>True</Choice>
+				<Choice>False</Choice>
+				</Element>
+			<Element>
+				<Name>Is_Online_Pass</Name>
+				<Type>Selection</Type>
+				<Display_Name>Is Online Pass</Display_Name>
+				<Default>False</Default>
+				<Choice>True</Choice>
+				<Choice>False</Choice>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Rule_List</Name>
+		<Type>Grid</Type>
+		<Display_Name>Rule List</Display_Name>
+		<Description>Order is important! Rules are applied in order. A rule will not be applied if its key offer was hidden by a previous rule.</Description>
+		<Element>
+			<Name>Rule</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Key_Offer</Name>
+				<Type>Reference</Type>
+				<Reference>
+					<File>..\..\tms\tms_jp\dlc6\dlc_visibility.xtbl</File>
+					<Type>VisibilityRules.Offer_List.Offer_Visibility_Info.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Dependent_Offer</Name>
+				<Type>Reference</Type>
+				<Display_Name>Dependent Offer</Display_Name>
+				<Reference>
+					<File>..\..\tms\tms_jp\dlc6\dlc_visibility.xtbl</File>
+					<Type>VisibilityRules.Offer_List.Offer_Visibility_Info.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Visibility</Name>
+				<Type>Selection</Type>
+				<Choice>Show</Choice>
+				<Choice>Hide</Choice>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Single_Line_XML>False</Single_Line_XML>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

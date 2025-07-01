@@ -1,0 +1,4 @@
+[XHttp.Connection]
+RegisterClient=https://settings.svc.halowaypoint.com/RegisterClientService.svc/register/{platform}/2CC5892EA9EA4ADF86510791A4719699?language={language}
+SpartanToken=https://settings.svc.halowaypoint.com/spartan-token?v=2
+BypassAuthTokens=false

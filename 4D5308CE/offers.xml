@@ -1,0 +1,11 @@
+﻿<!-- XMarketplace offers -->
+<root>
+  <offer name="waypoint">
+    <titleid>0x4d5308ce</titleid>
+    <offerid>0xf0000003</offerid>
+  </offer>
+  <offer name="midnight-lce">
+    <titleid>0x4d5308ce</titleid>
+    <offerid>0xb3425000</offerid>
+  </offer>
+</root>
