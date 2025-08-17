@@ -1,1 +1,4 @@
+# Disable git line feed conversion
+* -text
+
 **/* linguist-vendored
