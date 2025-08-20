@@ -3,6 +3,11 @@
 This project aims to archive a collection of Title Managed Storage (TMS) also known as XStorage from Xbox Live.\
 TMS contains game-specific data, it allows developers to control their global data such as updating playlists to add new gamemodes.
 
+## Notes
+Git will [normalize line endings](https://docs.github.com/en/get-started/git-basics/configuring-git-to-handle-line-endings) for OS compatibility.
+
+Normalization is disabled in [.gitattributes](.gitattributes) to prevent modification, this dumped content should be preserved in its original state. For instance, changing **CRLF** to **LF** for [LivePresence.ini](4D5307F1/LivePresence.ini) will cause **Fable II** to crash when accessing the pause menu.
+
 ## Archived Titles
 
 | Title ID | Game                                  |

@@ -1,1 +1,4 @@
+# Disable line endings normalization
+* -text
+
 **/* linguist-vendored
