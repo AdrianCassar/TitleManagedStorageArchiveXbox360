@@ -1,0 +1,54 @@
+<GlobalTickerAlerts>
+  <Version> 
+    <versionNumber major="1" minor="2"/>
+  </Version>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_GAMEPACK_RELEASED%" string="Il pacco giochi 7 è ora disponibile nel Negozio!" platform="gfw,x360"/>
+  </ServerAlert>
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_GAMEPACK_RELEASED%" string="Il pacco giochi 7 è ora disponibile! Contiene nuovi giochi, mascotte e un tema gratuito! Cosa stai aspettando?" platform="gfw,x360"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_GAME%" string="Spara all'impazzata nel classico arcade Gyruss, disponibile nel pacco giochi 7" platform="x360"/>
+  </ServerAlert>
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_GAME%" string="Mantieni l'ordine nelle strade! Jail Break è ora disponibile nel pacco giochi 7!"/>
+  </ServerAlert>
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_GAME%" string="Hai le carte in regola per gareggiare in The Activision Decathlon? Scarica il pacco giochi 7 per scoprirlo!"/>
+  </ServerAlert>
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_GAME%" string="Affronta 11 maestri di kung-fu in Yie Ar Kung-Fu, disponibile nel pacco giochi 7!"/>
+  </ServerAlert>
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_GAME%" string="Seaquest! In arrivo nel pacco giochi 8!"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_SHOWCASE_ARCADE%" string="Visita la sala giochi dimostrativa per avere un'anteprima degli ultimissimi giochi!"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_MASCOT%" string="In ogni pacco giochi sono disponibili nuove mascotte!"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_THEME%" string="Corpo di mille balene! Il tema Pirati è disponibile nel pacco giochi 7!"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_GAMEPACK_COMING_SOON%" string="Pacco giochi 8 in arrivo prossimamente..."/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_GAMEPACK_SPECIAL_OFFER%" string="Acquista qualsiasi gioco nello stesso giorno in cui esce per sbloccare la mascotte gratuita per quel gioco!"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_SHOWCASE_ARCADE_GAME%" string="Sono disponibili nuovi giochi nella sala giochi dimostrativa! Fai una capatina!"/>
+  </ServerAlert>
+
+
+</GlobalTickerAlerts>

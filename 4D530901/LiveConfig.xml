@@ -1,0 +1,70 @@
+<LiveConfig ver="20100329">
+
+<Var k="News.Global.Download.Interval" v="2" u="hour"/>
+<Var k="News.Global.Download.IntervalOnError" v="1" u="hour"/>
+<Var k="News.Personal.Download.Interval" v="5" u="min"/>
+<Var k="News.Personal.Download.IntervalOnError" v="2" u="min"/>
+<Var k="News.Personal.DiscardOlderThan" v="4" u="week"/>
+<Var k="News.Local.RecentCompletedChallengeTime" v="3" u="day"/>
+
+<Var k="Ticker.Download.Interval" v="2" u="hour"/>
+<Var k="Ticker.Download.IntervalOnError" v="1" u="hour"/>
+
+<Var k="Challenges.Download.GetInvitesInterval" v="5" u="min"/>
+<Var k="Challenges.Download.GetActiveInterval" v="60" u="min"/>
+<Var k="Challenges.Download.GetCompletedInterval" v="60" u="min"/>
+<Var k="Challenges.Download.IntervalOnError" v="2" u="min"/>
+<Var k="Challenges.Download.GetEntrantsForActiveInterval" v="20" u="min"/>
+<Var k="Challenges.Download.GetEntrantsRequestMinInterval" v="2" u="min"/>
+<Var k="Challenges.Download.GetEntrantsOnViewedInterval" v="60" u="sec"/>
+<Var k="Challenges.Attempt.WarnOnTimeRemainingLessThan" v="15" u="min"/>
+<Var k="Challenges.Attempt.DenyOnTimeRemainingLessThan" v="1" u="min"/>
+
+<Var k="Xlsp.Connection.SGConnectTimeLimit" v="30" u="sec"/>
+<Var k="Xlsp.Connection.ReconnectRetryInterval" v="60" u="sec"/>
+<Var k="Xlsp.Connection.ReconnectOnServerUnreachable" v="0" u=""/>
+<Var k="Xlsp.ServerTime.SyncInterval" v="5" u="min"/>
+<Var k="Xlsp.HttpClient.SendTimeout" v="30" u="sec"/>
+<Var k="Xlsp.HttpClient.RecvTimeout" v="30" u="sec"/>
+<Var k="Xlsp.HttpClient.SendBufferSize" v="0" u="kb"/>
+<Var k="Xlsp.HttpClient.RecvBufferSize" v="32" u="kb"/>
+
+<Var k="Friends.Download.IntervalOnError" v="20" u="sec"/>
+
+<Var k="Bopa.Download.IntervalOnError" v="60" u="sec"/>
+
+<Var k="Profile.QueueSaveDelay" v="2" u="min"/>
+
+<Var k="Scores.Leaderboards.World.CacheTime" v="5" u="min"/>
+<Var k="Scores.Leaderboards.World.CacheTimeOnError" v="1" u="min"/>
+<Var k="Scores.Leaderboards.World.TopCount" v="20" u=""/>
+<Var k="Scores.Leaderboards.Friends.CacheTime" v="2" u="min"/>
+<Var k="Scores.Leaderboards.Friends.CacheTimeOnError" v="30" u="sec"/>
+<Var k="Scores.Leaderboards.Friends.TopCount" v="20" u=""/>
+<Var k="Scores.Leaderboards.WorldSpread.CacheTime" v="30" u="min"/>
+<Var k="Scores.Leaderboards.WorldSpread.CacheTimeOnError" v="30" u="sec"/>
+<Var k="Scores.Leaderboards.WorldSpread.TopCount" v="70" u=""/>
+<Var k="Scores.Leaderboards.AroundPlayer.CacheTime" v="30" u="min"/>
+<Var k="Scores.Leaderboards.AroundPlayer.CacheTimeOnError" v="30" u="sec"/>
+<Var k="Scores.Leaderboards.AroundPlayer.TopCount" v="20" u=""/>
+<Var k="Scores.Leaderboards.LiveBoardType" v="0" u=""/>
+<Var k="Scores.Banners.DownloadInterval" v="2" u="min"/>
+<Var k="Scores.Banners.MachineCacheTime" v="5" u="min"/>
+
+<Var k="LiveStorage.Files.TitleStorageMaxSize" v="500" u="kb"/>
+<Var k="LiveStorage.Cache.DefaultExpiry" v="5" u="min"/>
+<Var k="LiveStorage.Cache.TitleStorageExpiry" v="60" u="min"/>
+
+<Var k="LiveConfig.Download.Interval" v="4" u="hour"/>
+<Var k="LiveConfig.Download.IntervalOnError" v="5" u="min"/>
+
+<Var k="Ratings.User.Download.IntervalOnError" v="4" u="min"/>
+<Var k="Ratings.User.Upload.IntervalOnError" v="4" u="min"/>
+<Var k="Ratings.Global.Download.Interval" v="2" u="hour"/>
+<Var k="Ratings.Global.Download.IntervalOnError" v="5" u="min"/>
+
+<Var k="Store.Marketplace.OfferDownloadTimeout" v="22" u="sec"/>
+
+<Var k="Content.Packs.EnableUpdateTU2" v="0" u=""/>
+
+</LiveConfig>

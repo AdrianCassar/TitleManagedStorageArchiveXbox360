@@ -1,0 +1,5 @@
+TitleID: 545108B4
+Version: 0.0.1.2
+
+PathName[0]: //title.545108b4/t:545108b4/offerlist.dat - Size: 588 (0x24C) bytes - Created: 29/08/2012 - 17:16:06 - Modified: 08/01/2013 - 22:38:14
+

@@ -1,0 +1,7 @@
+TitleID: 4D5307D5
+Version: 0.0.1.7
+
+PathName[0]: //title.4d5307d5/t:4d5307d5/WarWeaponTDM.ini - Size: 70 (0x46) bytes - Created: 14/06/2007 - 09:25:23 - Modified: 14/06/2007 - 09:25:23
+
+PathName[1]: //title.4d5307d5/t:4d5307d5/Xe-WarGame.ini - Size: 56 (0x38) bytes - Created: 30/01/2007 - 10:44:48 - Modified: 14/06/2007 - 09:24:22
+

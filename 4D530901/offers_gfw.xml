@@ -1,0 +1,190 @@
+<OfferFileHeader>
+  <VersionList>
+    <Version ver="20100221"/>
+  </VersionList>
+</OfferFileHeader>
+
+<PackList ver="20100221">
+<Pack cId="GamePack001" dlId="1301000">
+  <Pur S="1301001" B="1301021" U="1301041" lmbi="01" vis="y"/> <!--ASTEROIDSDELUXE-->
+  <Pur S="1301002" B="1301022" U="1301042" lmbi="02" vis="y"/> <!--CRYSTALCASTLES-->
+  <Pur S="1301003" B="1301023" U="1301043" lmbi="03" vis="y"/> <!--LUNARLANDER-->
+  <Pur S="1301004" B="1301024" U="1301044" lmbi="04" vis="y"/> <!--REDBARON-->
+  <Pur S="1301005" B="1301025" U="1301045" lmbi="05" vis="y"/> <!--COMBAT-->
+  <Pur S="1301006" B="1301026" U="1301046" lmbi="06" vis="y"/> <!--OUTLAW-->
+  <Pur S="1301007" B="1301027" U="1301047" lmbi="07" vis="y"/> <!--YARSREVENGE-->
+  <Pur S="1301008" B="1301028" U="1301048" lmbi="08" vis="y"/> <!--BATTLANTIS-->
+  <Pur S="1301009" B="1301029" U="1301049" lmbi="09" vis="y"/> <!--SCRAMBLE-->
+  <Pur S="130100A" B="130102A" U="130104A" lmbi="10" vis="y"/> <!--FINALIZER-->
+  <Pur S="130100B" B="130102B" U="130104B" lmbi="11" vis="y"/> <!--TUTANKHAM-->
+  <Pur S="130100C" B="130102C" U="130104C" lmbi="12" vis="y"/> <!--SPACEARMADA-->
+  <Pur S="130100D" B="130102D" U="130104D" lmbi="13" vis="y"/> <!--ASTROSMASH-->
+  <Pur S="130100E" B="130102E" U="130104E" lmbi="14" vis="y"/> <!--ARMORBATTLE-->
+  <Pur S="130100F" B="130102F" U="130104F" lmbi="15" vis="y"/> <!--SEABATTLE-->
+  <Pur S="" B="1301030" U="" lmbi="16" vis="y"/>             
+  <Pur S="" B="1301031" U="" lmbi="17" vis="y"/>
+  <Pur S="" B="1301032" U="" lmbi="18" vis="y"/>
+  <Pur S="" B="1301033" U="" lmbi="19" vis="y"/>
+  <Pur S="" B="1301034" U="" lmbi="20" vis="y"/>
+  <Pur S="" B="1301035" U="" lmbi="21" vis="y"/>
+  <Pur S="" B="1301036" U="" lmbi="22" vis="y"/>
+  <Pur S="" B="1301037" U="" lmbi="23" vis="y"/>
+  <Pur S="" B="1301038" U="" lmbi="24" vis="y"/>
+  <Pur S="" B="1301039" U="" lmbi="25" vis="y"/>
+  <Pur S="" B="130103A" U="" lmbi="26" vis="y"/>
+  <Pur S="" B="130103B" U="" lmbi="27" vis="y"/>
+  <Pur S="" B="130103C" U="" lmbi="28" vis="y"/>
+  <Pur S="" B="130103D" U="" lmbi="29" vis="y"/>
+  <Pur S="" B="130103E" U="" lmbi="30" vis="y"/>
+  <Gif S="2010-03-24T07:00:00.000Z" E="2010-03-25T07:00:00.000Z" P="ASTEROIDSDELUXE" G="mascot_asteroidsdeluxe"/>
+  <Gif S="2010-03-24T07:00:00.000Z" E="2010-03-25T07:00:00.000Z" P="CRYSTALCASTLES" G="mascot_crystalcastles"/>
+  <Gif S="2010-03-24T07:00:00.000Z" E="2010-03-25T07:00:00.000Z" P="LUNARLANDER" G="mascot_lunarlander"/>
+  <Gif S="2010-03-24T07:00:00.000Z" E="2010-03-25T07:00:00.000Z" P="REDBARON" G="mascot_redbaron"/>
+  <Gif S="2010-03-24T07:00:00.000Z" E="2010-03-25T07:00:00.000Z" P="COMBAT" G="mascot_combat"/>
+  <Gif S="2010-03-24T07:00:00.000Z" E="2010-03-25T07:00:00.000Z" P="OUTLAW" G="mascot_outlaw"/>
+  <Gif S="2010-03-24T07:00:00.000Z" E="2010-03-25T07:00:00.000Z" P="YARSREVENGE" G="mascot_yars"/>
+  <Gif S="2010-03-24T07:00:00.000Z" E="2010-03-25T07:00:00.000Z" P="BATTLANTIS" G="mascot_battlantis"/>
+  <Gif S="2010-03-24T07:00:00.000Z" E="2010-03-25T07:00:00.000Z" P="SCRAMBLE" G="mascot_scramble"/>
+  <Gif S="2010-03-24T07:00:00.000Z" E="2010-03-25T07:00:00.000Z" P="FINALIZER" G="mascot_finalizer"/>
+  <Gif S="2010-03-24T07:00:00.000Z" E="2010-03-25T07:00:00.000Z" P="TUTANKHAM" G="mascot_tutankham"/>
+  <Gif S="2010-03-24T07:00:00.000Z" E="2010-03-25T07:00:00.000Z" P="SPACEARMADA" G="mascot_spacearmada"/>
+  <Gif S="2010-03-24T07:00:00.000Z" E="2010-03-25T07:00:00.000Z" P="ASTROSMASH" G="mascot_astrosmash"/>
+  <Gif S="2010-03-24T07:00:00.000Z" E="2010-03-25T07:00:00.000Z" P="ARMORBATTLE" G="mascot_armorbattle"/>
+  <Gif S="2010-03-24T07:00:00.000Z" E="2010-03-25T07:00:00.000Z" P="SEABATTLE" G="mascot_seabattle"/>
+</Pack>
+<Pack cId="GamePack002" dlId="1302000">
+  <Pur S="1302001" B="1302021" U="1302041" lmbi="01" vis="y"/> <!--CENTIPEDE-->
+  <Pur S="1302002" B="1302022" U="1302042" lmbi="02" vis="y"/> <!--GRAVITAR-->
+  <Pur S="1302003" B="1302023" U="1302043" lmbi="03" vis="y"/> <!--TEMPEST-->
+  <Pur S="1302004" B="1302024" U="1302044" lmbi="04" vis="y"/> <!--ADVENTURE-->
+  <Pur S="1302005" B="1302025" U="1302045" lmbi="05" vis="y"/> <!--MILLIPEDEHV-->
+  <Pur S="1302006" B="1302026" U="1302046" lmbi="06" vis="y"/> <!--RSTENNIS-->
+  <Pur S="1302007" B="1302027" U="1302047" lmbi="07" vis="y"/> <!--STARRAIDERS-->
+  <Pur S="1302008" B="1302028" U="1302048" lmbi="08" vis="y"/> <!--SUPERCOBRA-->
+  <Pur S="1302009" B="1302029" U="1302049" lmbi="09" vis="y"/> <!--ROADFIGHTER-->
+  <Pur S="130200A" B="130202A" U="130204A" lmbi="10" vis="y"/> <!--SHAOLINSROAD-->
+  <Pur S="130200B" B="130202B" U="130204B" lmbi="11" vis="y"/> <!--JUNGLER-->
+  <Pur S="130200C" B="130202C" U="130204C" lmbi="12" vis="y"/> <!--SPACEHAWK-->
+  <Pur S="130200D" B="130202D" U="130204D" lmbi="13" vis="y"/> <!--SUPERPROSKIING-->
+  <Pur S="130200E" B="130202E" U="130204E" lmbi="14" vis="y"/> <!--SUBHUNT-->
+  <Pur S="130200F" B="130202F" U="130204F" lmbi="15" vis="y"/> <!--FOOTBALL-->
+  <Pur S="" B="1302030" U="" lmbi="16" vis="y"/>             
+  <Pur S="" B="1302031" U="" lmbi="17" vis="y"/>
+  <Pur S="" B="1302032" U="" lmbi="18" vis="y"/>
+  <Pur S="" B="1302033" U="" lmbi="19" vis="y"/>
+  <Pur S="" B="1302034" U="" lmbi="20" vis="y"/>
+  <Pur S="" B="1302035" U="" lmbi="21" vis="y"/>
+  <Pur S="" B="1302036" U="" lmbi="22" vis="y"/>
+  <Pur S="" B="1302037" U="" lmbi="23" vis="y"/>
+  <Pur S="" B="1302038" U="" lmbi="24" vis="y"/>
+  <Pur S="" B="1302039" U="" lmbi="25" vis="y"/>
+  <Pur S="" B="130203A" U="" lmbi="26" vis="y"/>
+  <Pur S="" B="130203B" U="" lmbi="27" vis="y"/>
+  <Pur S="" B="130203C" U="" lmbi="28" vis="y"/>
+  <Pur S="" B="130203D" U="" lmbi="29" vis="y"/>
+  <Pur S="" B="130203E" U="" lmbi="30" vis="y"/>
+  <Gif S="2010-03-24T07:00:00.000Z" E="2010-03-25T07:00:00.000Z" P="CENTIPEDE" G="mascot_centipede"/>
+  <Gif S="2010-03-24T07:00:00.000Z" E="2010-03-25T07:00:00.000Z" P="GRAVITAR" G="mascot_gravitar"/>
+  <Gif S="2010-03-24T07:00:00.000Z" E="2010-03-25T07:00:00.000Z" P="TEMPEST" G="mascot_tempest"/>
+  <Gif S="2010-03-24T07:00:00.000Z" E="2010-03-25T07:00:00.000Z" P="ADVENTURE" G="mascot_adventure"/>
+  <Gif S="2010-03-24T07:00:00.000Z" E="2010-03-25T07:00:00.000Z" P="MILLIPEDEHV" G="mascot_millipedehv"/>
+  <Gif S="2010-03-24T07:00:00.000Z" E="2010-03-25T07:00:00.000Z" P="RSTENNIS" G="mascot_rstennis"/>
+  <Gif S="2010-03-24T07:00:00.000Z" E="2010-03-25T07:00:00.000Z" P="STARRAIDERS" G="mascot_starraiders"/>
+  <Gif S="2010-03-24T07:00:00.000Z" E="2010-03-25T07:00:00.000Z" P="SUPERCOBRA" G="mascot_cobra"/>
+  <Gif S="2010-03-24T07:00:00.000Z" E="2010-03-25T07:00:00.000Z" P="ROADFIGHTER" G="mascot_roadfighter"/>
+  <Gif S="2010-03-24T07:00:00.000Z" E="2010-03-25T07:00:00.000Z" P="SHAOLINSROAD" G="mascot_shaolinsroad"/>
+  <Gif S="2010-03-24T07:00:00.000Z" E="2010-03-25T07:00:00.000Z" P="JUNGLER" G="mascot_jungler"/>
+  <Gif S="2010-03-24T07:00:00.000Z" E="2010-03-25T07:00:00.000Z" P="SPACEHAWK" G="mascot_spacehawk"/>
+  <Gif S="2010-03-24T07:00:00.000Z" E="2010-03-25T07:00:00.000Z" P="SUPERPROSKIING" G="mascot_superproskiing"/>
+  <Gif S="2010-03-24T07:00:00.000Z" E="2010-03-25T07:00:00.000Z" P="SUBHUNT" G="mascot_subhunt"/>
+  <Gif S="2010-03-24T07:00:00.000Z" E="2010-03-25T07:00:00.000Z" P="FOOTBALL" G="mascot_football"/>
+</Pack>
+<Pack cId="GamePack003" dlId="1403000">
+  <Pur S="1403001" B="1403021" U="1403041" lmbi="01" vis="2010-04-27T07:00:00.000Z"/> <!--BASKETBALLITV-->
+  <Pur S="1403002" B="1403022" U="1403042" lmbi="02" vis="2010-04-27T07:00:00.000Z"/> <!--CANYONBOMBER-->
+  <Pur S="1403003" B="1403023" U="1403043" lmbi="03" vis="2010-04-27T07:00:00.000Z"/> <!--BATTLEZONE-->
+  <Pur S="1403004" B="1403024" U="1403044" lmbi="04" vis="2010-04-27T07:00:00.000Z"/> <!--KEYSTONEKAPERS-->
+  <Pur S="1403005" B="1403025" U="1403045" lmbi="05" vis="2010-04-27T07:00:00.000Z"/> <!--MEGAZONE-->
+  <Pur S="1403006" B="1403026" U="1403046" lmbi="06" vis="2010-04-27T07:00:00.000Z"/> <!--MEGAMANIA-->
+  <Pur S="1403007" B="1403027" U="1403047" lmbi="07" vis="2010-04-27T07:00:00.000Z"/> <!--NIGHTSTALKER-->
+  <Pur S="1403008" B="1403028" U="1403048" lmbi="08" vis="2010-04-27T07:00:00.000Z"/> <!--NIGHTDRIVER-->
+  <Pur S="1403009" B="1403029" U="1403049" lmbi="09" vis="2010-04-27T07:00:00.000Z"/> <!--OINK!-->
+  <Pur S="140300A" B="140302A" U="140304A" lmbi="10" vis="2010-04-27T07:00:00.000Z"/> <!--RACKEMUP-->
+  <Pur S="140300B" B="140302B" U="140304B" lmbi="11" vis="2010-04-27T07:00:00.000Z"/> <!--PITFALL-->
+  <Pur S="140300C" B="140302C" U="140304C" lmbi="12" vis="2010-04-27T07:00:00.000Z"/> <!--RSVOLLEYBALL-->
+  <Pur S="140300D" B="140302D" U="140304D" lmbi="13" vis="2010-04-27T07:00:00.000Z"/> <!--SUPERBREAKOUT-->
+  <Pur S="140300E" B="140302E" U="140304E" lmbi="14" vis="2010-04-27T07:00:00.000Z"/> <!--SOCCER-->
+  <Pur S="" B="140302F" U="" lmbi="15" vis="2010-04-27T07:00:00.000Z"/>
+  <Pur S="" B="1403030" U="" lmbi="16" vis="2010-04-27T07:00:00.000Z"/>
+  <Pur S="" B="1403031" U="" lmbi="17" vis="2010-04-27T07:00:00.000Z"/>
+  <Pur S="" B="1403032" U="" lmbi="18" vis="2010-04-27T07:00:00.000Z"/>
+  <Pur S="" B="1403033" U="" lmbi="19" vis="2010-04-27T07:00:00.000Z"/>
+  <Pur S="" B="1403034" U="" lmbi="20" vis="2010-04-27T07:00:00.000Z"/>
+  <Pur S="" B="1403035" U="" lmbi="21" vis="2010-04-27T07:00:00.000Z"/>
+  <Pur S="" B="1403036" U="" lmbi="22" vis="2010-04-27T07:00:00.000Z"/>
+  <Pur S="" B="1403037" U="" lmbi="23" vis="2010-04-27T07:00:00.000Z"/>
+  <Pur S="" B="1403038" U="" lmbi="24" vis="2010-04-27T07:00:00.000Z"/>
+  <Pur S="" B="1403039" U="" lmbi="25" vis="2010-04-27T07:00:00.000Z"/>
+  <Pur S="" B="140303A" U="" lmbi="26" vis="2010-04-27T07:00:00.000Z"/>
+  <Pur S="" B="140303B" U="" lmbi="27" vis="2010-04-27T07:00:00.000Z"/>
+  <Pur S="" B="140303C" U="" lmbi="28" vis="2010-04-27T07:00:00.000Z"/>
+  <Gif S="2010-04-27T07:00:00.000Z" E="2010-04-30T09:00:00.000Z" P="BASKETBALLITV" G="mascot_basketball"/>
+  <Gif S="2010-05-04T07:00:00.000Z" E="2010-05-05T07:00:00.000Z" P="CANYONBOMBER" G="mascot_canyonbomber"/>
+  <Gif S="2010-05-04T07:00:00.000Z" E="2010-05-05T07:00:00.000Z" P="BATTLEZONE" G="mascot_battlezone"/>
+  <Gif S="2010-05-04T07:00:00.000Z" E="2010-05-05T07:00:00.000Z" P="KEYSTONEKAPERS" G="mascot_keystonekapers"/>
+  <Gif S="2010-05-04T07:00:00.000Z" E="2010-05-05T07:00:00.000Z" P="MEGAZONE" G="mascot_megazone"/>
+  <Gif S="2010-04-27T07:00:00.000Z" E="2010-04-30T09:00:00.000Z" P="MEGAMANIA" G="mascot_megamania"/>
+  <Gif S="2010-04-27T07:00:00.000Z" E="2010-04-30T09:00:00.000Z" P="NIGHTSTALKER" G="mascot_nightstalker"/>
+  <Gif S="2010-05-04T07:00:00.000Z" E="2010-05-05T07:00:00.000Z" P="NIGHTDRIVER" G="mascot_nightdriver"/>
+  <Gif S="2010-05-04T07:00:00.000Z" E="2010-05-05T07:00:00.000Z" P="OINK!" G="mascot_oink!"/>
+  <Gif S="2010-04-27T07:00:00.000Z" E="2010-04-30T09:00:00.000Z" P="RACKEMUP" G="mascot_rackemup"/>
+  <Gif S="2010-04-27T07:00:00.000Z" E="2010-04-30T09:00:00.000Z" P="PITFALL" G="mascot_pitfall"/>
+  <Gif S="2010-04-27T07:00:00.000Z" E="2010-04-30T09:00:00.000Z" P="RSVOLLEYBALL" G="mascot_rsvolleyball"/>
+  <Gif S="2010-04-27T07:00:00.000Z" E="2010-04-30T09:00:00.000Z" P="SUPERBREAKOUT" G="mascot_superbreakout"/>
+  <Gif S="2010-05-04T07:00:00.000Z" E="2010-05-05T07:00:00.000Z" P="SOCCER" G="mascot_soccer"/>      
+</Pack>
+<Pack cId="GamePack004" dlId="1404000">
+  <Pur S="1404001" B="1404021" U="1404041" lmbi="01" vis="2010-04-27T07:00:00.000Z"/> <!--BOXING-->
+  <Pur S="1404002" B="1404022" U="1404042" lmbi="02" vis="2010-04-27T07:00:00.000Z"/>  <!--BUZZBOMBERS-->
+  <Pur S="1404003" B="1404023" U="1404043" lmbi="03" vis="2010-04-27T07:00:00.000Z"/><!--DEMONSTODIAMONDS-->
+  <Pur S="1404004" B="1404024" U="1404044" lmbi="04" vis="2010-04-27T07:00:00.000Z"/>  <!--GRANDPRIX-->
+  <Pur S="1404005" B="1404025" U="1404045" lmbi="05" vis="2010-04-27T07:00:00.000Z"/><!--HAUNTEDHOUSE-->
+  <Pur S="1404006" B="1404026" U="1404046" lmbi="06" vis="2010-04-27T07:00:00.000Z"/>  <!--ASTEROIDS-->
+  <Pur S="1404007" B="1404027" U="1404047" lmbi="07" vis="2010-04-27T07:00:00.000Z"/> <!--MILLIPEDE-->
+  <Pur S="1404008" B="1404028" U="1404048" lmbi="08" vis="2010-04-27T07:00:00.000Z"/> <!--SPACEDUEL-->
+  <Pur S="1404009" B="1404029" U="1404049" lmbi="09" vis="2010-04-27T07:00:00.000Z"/> <!--RIVERRAID-->
+  <Pur S="140400A" B="140402A" U="140404A" lmbi="10" vis="2010-04-27T07:00:00.000Z"/>  <!--SHARK!SHARK!-->
+  <Pur S="140400B" B="140402B" U="140404B" lmbi="11" vis="2010-04-27T07:00:00.000Z"/> <!--SPIDERFIGHTER-->
+  <Pur S="140400C" B="140402C" U="140404C" lmbi="12" vis="2010-04-27T07:00:00.000Z"/><!--STAMPEDE-->
+  <Pur S="140400D" B="140402D" U="140404D" lmbi="13" vis="2010-04-27T07:00:00.000Z"/><!--STRATEGYX-->
+  <Pur S="140400E" B="140402E" U="140404E" lmbi="14" vis="2010-04-27T07:00:00.000Z"/><!--TIMEPILOT-->
+  <Pur S="" B="140402F" U="" lmbi="15" vis="2010-04-27T07:00:00.000Z"/>
+  <Pur S="" B="1404030" U="" lmbi="16" vis="2010-04-27T07:00:00.000Z"/>
+  <Pur S="" B="1404031" U="" lmbi="17" vis="2010-04-27T07:00:00.000Z"/>
+  <Pur S="" B="1404032" U="" lmbi="18" vis="2010-04-27T07:00:00.000Z"/>
+  <Pur S="" B="1404033" U="" lmbi="19" vis="2010-04-27T07:00:00.000Z"/>
+  <Pur S="" B="1404034" U="" lmbi="20" vis="2010-04-27T07:00:00.000Z"/>
+  <Pur S="" B="1404035" U="" lmbi="21" vis="2010-04-27T07:00:00.000Z"/>
+  <Pur S="" B="1404036" U="" lmbi="22" vis="2010-04-27T07:00:00.000Z"/>
+  <Pur S="" B="1404037" U="" lmbi="23" vis="2010-04-27T07:00:00.000Z"/>
+  <Pur S="" B="1404038" U="" lmbi="24" vis="2010-04-27T07:00:00.000Z"/>
+  <Pur S="" B="1404039" U="" lmbi="25" vis="2010-04-27T07:00:00.000Z"/>
+  <Pur S="" B="140403A" U="" lmbi="26" vis="2010-04-27T07:00:00.000Z"/>
+  <Pur S="" B="140403B" U="" lmbi="27" vis="2010-04-27T07:00:00.000Z"/>
+  <Pur S="" B="140403C" U="" lmbi="28" vis="2010-04-27T07:00:00.000Z"/>
+  <Gif S="2010-05-18T07:00:00.000Z" E="2010-05-19T07:00:00.000Z" P="BOXING" G="mascot_boxing"/>
+  <Gif S="2010-05-18T07:00:00.000Z" E="2010-05-19T07:00:00.000Z" P="BUZZBOMBERS" G="mascot_buzzbombers"/>
+  <Gif S="2010-05-11T07:00:00.000Z" E="2010-05-12T07:00:00.000Z" P="DEMONSTODIAMONDS" G="mascot_demonstodiamonds"/>
+  <Gif S="2010-05-11T07:00:00.000Z" E="2010-05-12T07:00:00.000Z" P="GRANDPRIX" G="mascot_grandprix"/>
+  <Gif S="2010-05-18T07:00:00.000Z" E="2010-05-19T07:00:00.000Z" P="HAUNTEDHOUSE" G="mascot_hauntedhouse"/>
+  <Gif S="2010-05-11T07:00:00.000Z" E="2010-05-12T07:00:00.000Z" P="ASTEROIDS" G="mascot_asteroids"/>
+  <Gif S="2010-05-18T07:00:00.000Z" E="2010-05-19T07:00:00.000Z" P="MILLIPEDE" G="mascot_millipede"/>
+  <Gif S="2010-05-11T07:00:00.000Z" E="2010-05-12T07:00:00.000Z" P="SPACEDUEL" G="mascot_spaceduel"/>
+  <Gif S="2010-05-18T07:00:00.000Z" E="2010-05-19T07:00:00.000Z" P="RIVERRAID" G="mascot_riverraid"/>
+  <Gif S="2010-05-11T07:00:00.000Z" E="2010-05-12T07:00:00.000Z" P="SHARK!SHARK!" G="mascot_shark!shark!"/>
+  <Gif S="2010-05-18T07:00:00.000Z" E="2010-05-19T07:00:00.000Z" P="SPIDERFIGHTER" G="mascot_spiderfighter"/>
+  <Gif S="2010-05-11T07:00:00.000Z" E="2010-05-12T07:00:00.000Z" P="STAMPEDE" G="mascot_stampede"/>
+  <Gif S="2010-05-18T07:00:00.000Z" E="2010-05-19T07:00:00.000Z" P="STRATEGYX" G="mascot_strategyx"/>
+  <Gif S="2010-05-11T07:00:00.000Z" E="2010-05-12T07:00:00.000Z" P="TIMEPILOT" G="mascot_timepilot"/>      
+</Pack>
+</PackList>

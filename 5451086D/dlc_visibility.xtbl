@@ -1,0 +1,473 @@
+<root>
+<Table>
+	<VisibilityRules>
+		<Name>VisibilityRules</Name>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<Offer_List>
+			<Offer_Visibility_Info>
+				<Name>Season Pass</Name>
+				<OfferID>5451086D128D8400</OfferID>
+				<Indirect_License_Mask>00010000</Indirect_License_Mask>
+				<Is_Season_Pass>True</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Genki Viewer</Name>
+				<OfferID>5451086DAC4F3C00</OfferID>
+				<Bundle_ID>26</Bundle_ID>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Genki Paid</Name>
+				<OfferID>5451086DB7C7AC00</OfferID>
+				<Bundle_ID>29</Bundle_ID>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Genki - Season Pass</Name>
+				<OfferID>5451086D17114400</OfferID>
+				<Bundle_ID>29</Bundle_ID>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>True</Requires_Season_Pass>
+				<Hidden_By_Default>True</Hidden_By_Default>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Nyte Blayde</Name>
+				<OfferID>5451086D0000001E</OfferID>
+				<Bundle_ID>19</Bundle_ID>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Online Pass</Name>
+				<OfferID>5451086D0000000D</OfferID>
+				<Bundle_ID>10</Bundle_ID>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Online_Pass>True</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Cheat Pack</Name>
+				<OfferID>5451086D0000001A</OfferID>
+				<Bundle_ID>12</Bundle_ID>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Preorder</Name>
+				<OfferID>5451086D00000014</OfferID>
+				<Bundle_ID>13</Bundle_ID>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Warrior</Name>
+				<OfferID>5451086D0000001D</OfferID>
+				<Bundle_ID>14</Bundle_ID>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Z Style</Name>
+				<OfferID>5451086D00000017</OfferID>
+				<Bundle_ID>15</Bundle_ID>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Soldier</Name>
+				<OfferID>5451086D00000019</OfferID>
+				<Bundle_ID>16</Bundle_ID>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Shark</Name>
+				<OfferID>5451086D00000018</OfferID>
+				<Bundle_ID>17</Bundle_ID>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Bloodsucker</Name>
+				<OfferID>5451086D00000013</OfferID>
+				<Bundle_ID>21</Bundle_ID>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Unlockable</Name>
+				<OfferID>5451086D00000015</OfferID>
+				<Bundle_ID>22</Bundle_ID>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Special Ops Vehicles</Name>
+				<OfferID>5451086D02967800</OfferID>
+				<Bundle_ID>25</Bundle_ID>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Money Shot</Name>
+				<OfferID>5451086D01dc4000</OfferID>
+				<Bundle_ID>20</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Gangstas Viewer</Name>
+				<OfferID>5451086DEBFD3C00</OfferID>
+				<Bundle_ID>28</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Gangstas - Paid</Name>
+				<OfferID>5451086DCE0CD800</OfferID>
+				<Bundle_ID>27</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Gangstas - Season Pass</Name>
+				<OfferID>5451086D692DD000</OfferID>
+				<Bundle_ID>27</Bundle_ID>
+				<Hidden_By_Default>True</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>True</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Steelport Gangs</Name>
+				<OfferID>5451086DC1B80C00</OfferID>
+				<Bundle_ID>23</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Penthouse Pack</Name>
+				<OfferID>5451086D3B2A9000</OfferID>
+				<Bundle_ID>18</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Genki Girl Pack</Name>
+				<OfferID>5451086DCACDE800</OfferID>
+				<Bundle_ID>32</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Horror Pack</Name>
+				<OfferID>5451086D4DD87400</OfferID>
+				<Bundle_ID>24</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Clones - Paid</Name>
+				<OfferID>5451086DEF8EA800</OfferID>
+				<Bundle_ID>31</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Clones - Season Pass</Name>
+				<OfferID>5451086DD0A28800</OfferID>
+				<Bundle_ID>31</Bundle_ID>
+				<Hidden_By_Default>True</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>True</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Clones - Viewer</Name>
+				<OfferID>5451086DCD595000</OfferID>
+				<Bundle_ID>30</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			<Offer_Visibility_Info>
+				<Name>Witches and Wieners</Name>
+				<OfferID>5451086D80FA8C00</OfferID>
+				<Bundle_ID>34</Bundle_ID>
+				<Hidden_By_Default>False</Hidden_By_Default>
+				<Is_Season_Pass>False</Is_Season_Pass>
+				<Requires_Season_Pass>False</Requires_Season_Pass>
+				<Is_Online_Pass>False</Is_Online_Pass>
+				</Offer_Visibility_Info>
+			</Offer_List>
+		<Rule_List>
+			<Rule>
+				<Key_Offer>Season Pass</Key_Offer>
+				<Dependent_Offer>Genki Viewer</Dependent_Offer>
+				<Visibility>Hide</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>Season Pass</Key_Offer>
+				<Dependent_Offer>Genki Paid</Dependent_Offer>
+				<Visibility>Hide</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>Season Pass</Key_Offer>
+				<Dependent_Offer>Nyte Blayde</Dependent_Offer>
+				<Visibility>Hide</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>Season Pass</Key_Offer>
+				<Dependent_Offer>Genki - Season Pass</Dependent_Offer>
+				<Visibility>Show</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>Nyte Blayde</Key_Offer>
+				<Dependent_Offer>Season Pass</Dependent_Offer>
+				<Visibility>Hide</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>Genki Paid</Key_Offer>
+				<Dependent_Offer>Season Pass</Dependent_Offer>
+				<Visibility>Hide</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>Genki Paid</Key_Offer>
+				<Dependent_Offer>Genki Viewer</Dependent_Offer>
+				<Visibility>Hide</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>Season Pass</Key_Offer>
+				<Dependent_Offer>Gangstas Viewer</Dependent_Offer>
+				<Visibility>Hide</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>Season Pass</Key_Offer>
+				<Dependent_Offer>Gangstas - Paid</Dependent_Offer>
+				<Visibility>Hide</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>Season Pass</Key_Offer>
+				<Dependent_Offer>Gangstas - Season Pass</Dependent_Offer>
+				<Visibility>Show</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>Gangstas - Paid</Key_Offer>
+				<Dependent_Offer>Season Pass</Dependent_Offer>
+				<Visibility>Hide</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>Gangstas - Paid</Key_Offer>
+				<Dependent_Offer>Gangstas Viewer</Dependent_Offer>
+				<Visibility>Hide</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>Season Pass</Key_Offer>
+				<Dependent_Offer>Clones - Viewer</Dependent_Offer>
+				<Visibility>Hide</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>Season Pass</Key_Offer>
+				<Dependent_Offer>Clones - Paid</Dependent_Offer>
+				<Visibility>Hide</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>Season Pass</Key_Offer>
+				<Dependent_Offer>Clones - Season Pass</Dependent_Offer>
+				<Visibility>Show</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>Clones - Paid</Key_Offer>
+				<Dependent_Offer>Season Pass</Dependent_Offer>
+				<Visibility>Hide</Visibility>
+				</Rule>
+			<Rule>
+				<Key_Offer>Clones - Paid</Key_Offer>
+				<Dependent_Offer>Clones - Viewer</Dependent_Offer>
+				<Visibility>Hide</Visibility>
+				</Rule>
+			</Rule_List>
+		</VisibilityRules>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>VisibilityRules</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		</Element>
+	<Element>
+		<Name>Offer_List</Name>
+		<Type>Grid</Type>
+		<Display_Name>Offer List</Display_Name>
+		<Element>
+			<Name>Offer_Visibility_Info</Name>
+			<Type>Element</Type>
+			<Display_Name>Offer Visibility Info</Display_Name>
+			<Element>
+				<Name>Name</Name>
+				<Type>String</Type>
+				</Element>
+			<Element>
+				<Name>OfferID</Name>
+				<Type>String</Type>
+				<Display_Name>Offer ID: 0x'0000000000000000'</Display_Name>
+				<Description>The Offer ID</Description>
+				<Default>5451086D</Default>
+				<MaxLength>16</MaxLength>
+				</Element>
+			<Element>
+				<Name>Bundle_ID</Name>
+				<Type>Int</Type>
+				<Display_Name>Bundle ID</Display_Name>
+				<Description>If this bundle is licensed treat it as purchased by the user even if the fUserHasPurchased flag is not set.</Description>
+				<Required>false</Required>
+				<Default>0</Default>
+				<MinValue>1</MinValue>
+				<MaxValue>254</MaxValue>
+				</Element>
+			<Element>
+				<Name>Indirect_License_Mask</Name>
+				<Type>String</Type>
+				<Display_Name>Indirect License Mask</Display_Name>
+				<Description>Indirect License Mask in base 16.</Description>
+				<Required>false</Required>
+				<Default>00000000</Default>
+				<MaxLength>8</MaxLength>
+				</Element>
+			<Element>
+				<Name>Hidden_By_Default</Name>
+				<Type>Selection</Type>
+				<Display_Name>Hidden By Default</Display_Name>
+				<Description>Is the offer hidden in the Xbox LIVE marketplace?</Description>
+				<Default>False</Default>
+				<Choice>True</Choice>
+				<Choice>False</Choice>
+				</Element>
+			<Element>
+				<Name>Is_Season_Pass</Name>
+				<Type>Selection</Type>
+				<Display_Name>Is Season Pass</Display_Name>
+				<Default>False</Default>
+				<Choice>True</Choice>
+				<Choice>False</Choice>
+				</Element>
+			<Element>
+				<Name>Requires_Season_Pass</Name>
+				<Type>Selection</Type>
+				<Display_Name>Requires Season Pass</Display_Name>
+				<Description>Does the Season Pass need to be installed for this offer's content need to be consumed?</Description>
+				<Default>False</Default>
+				<Choice>True</Choice>
+				<Choice>False</Choice>
+				</Element>
+			<Element>
+				<Name>Is_Online_Pass</Name>
+				<Type>Selection</Type>
+				<Display_Name>Is Online Pass</Display_Name>
+				<Default>False</Default>
+				<Choice>True</Choice>
+				<Choice>False</Choice>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Element>
+		<Name>Rule_List</Name>
+		<Type>Grid</Type>
+		<Display_Name>Rule List</Display_Name>
+		<Description>Order is important! Rules are applied in order. A rule will not be applied if its key offer was hidden by a previous rule.</Description>
+		<Element>
+			<Name>Rule</Name>
+			<Type>Element</Type>
+			<Element>
+				<Name>Key_Offer</Name>
+				<Type>Reference</Type>
+				<Reference>
+					<File>..\..\tms\upload\dlc_visibility.xtbl</File>
+					<Type>VisibilityRules.Offer_List.Offer_Visibility_Info.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Dependent_Offer</Name>
+				<Type>Reference</Type>
+				<Display_Name>Dependent Offer</Display_Name>
+				<Reference>
+					<File>..\..\tms\upload\dlc_visibility.xtbl</File>
+					<Type>VisibilityRules.Offer_List.Offer_Visibility_Info.Name</Type>
+					<OpenSeparate>False</OpenSeparate>
+					</Reference>
+				</Element>
+			<Element>
+				<Name>Visibility</Name>
+				<Type>Selection</Type>
+				<Choice>Show</Choice>
+				<Choice>Hide</Choice>
+				</Element>
+			</Element>
+		<Num_Display_Rows>8</Num_Display_Rows>
+		</Element>
+	<Single_Line_XML>False</Single_Line_XML>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>

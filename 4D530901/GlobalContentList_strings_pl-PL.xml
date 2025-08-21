@@ -1,0 +1,582 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocaleXml date="8/Nov/2010 16:57:35" >
+  <String id="(null)" text="[En:(null)]" />
+  <String id="3DTICTACTOE" text="3-D Tic-Tac-Toe" />
+  <String id="3DTICTACTOE_COPYRIGHT" text="© 1980 by Atari Interactive, Inc." />
+  <String id="ACTIVISION" text="ACTIVISION" />
+  <String id="ADVENTURE" text="Adventure" />
+  <String id="ADVENTURE_COPYRIGHT" text="© 1980 by Atari Interactive, Inc." />
+  <String id="AIRSEABATTLE" text="Air-Sea Battle" />
+  <String id="AIRSEABATTLE_COPYRIGHT" text="© 1978 by Atari Interactive, Inc." />
+  <String id="AMIDAR" text="Amidar ™" />
+  <String id="AMIDAR_COPYRIGHT" text="© 1981 Konami Digital Entertainment" />
+  <String id="ARMORBATTLE" text="Armor Battle" />
+  <String id="ARMORBATTLE_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="ASTEROIDS" text="Asteroids" />
+  <String id="ASTEROIDS_COPYRIGHT" text="© 1979 by Atari Interactive, Inc." />
+  <String id="ASTEROIDSDELUXE" text="Asteroids Deluxe" />
+  <String id="ASTEROIDSDELUXE_COPYRIGHT" text="© 1980 by Atari Interactive, Inc." />
+  <String id="ASTEROIDSHV" text="Asteroids ® (2600)" />
+  <String id="ASTEROIDSHV_COPYRIGHT" text="© 1981 by Atari Interactive, Inc." />
+  <String id="ASTROSMASH" text="Astrosmash" />
+  <String id="ASTROSMASH_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="ATARI" text="ATARI" />
+  <String id="AUTORACING" text="Auto Racing" />
+  <String id="AUTORACING_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="BARNSTORMING" text="Barnstorming ™" />
+  <String id="BARNSTORMING_COPYRIGHT" text="© 1982 Activision Publishing, Inc." />
+  <String id="BASEBALL" text="Baseball" />
+  <String id="BASEBALL_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="BASKETBALLITV" text="Basketball" />
+  <String id="BASKETBALLITV_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="BATTLANTIS" text="Battlantis" />
+  <String id="BATTLANTIS_COPYRIGHT" text="© 1987 Konami Digital Entertainment" />
+  <String id="BATTLEZONE" text="Battlezone" />
+  <String id="BATTLEZONE_COPYRIGHT" text="© 1980 by Atari Interactive, Inc." />
+  <String id="BEAMRIDER" text="Beamrider ™" />
+  <String id="BEAMRIDER_COPYRIGHT" text="© 1983 Activision Publishing, Inc." />
+  <String id="BLACKJACK" text="Black Jack ™" />
+  <String id="BLACKJACK_COPYRIGHT" text="© 1977 by Atari Interactive, Inc." />
+  <String id="BLACKWIDOW" text="Black Widow" />
+  <String id="BLACKWIDOW_COPYRIGHT" text="© 1982 by Atari Interactive, Inc." />
+  <String id="BLADESOFSTEEL" text="Blades of Steel ™" />
+  <String id="BLADESOFSTEEL_COPYRIGHT" text="© 1987 Konami Digital Entertainment" />
+  <String id="BOWLING" text="Bowling" />
+  <String id="BOWLING_COPYRIGHT" text="© 1979 by Atari Interactive, Inc." />
+  <String id="BOXING" text="Boxing" />
+  <String id="BOXING2600" text="Boxing (2600)" />
+  <String id="BOXING2600_COPYRIGHT" text="© 1980 Activision Publishing, Inc." />
+  <String id="BOXING_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="BREAKOUTHV" text="Breakout ® (2600)" />
+  <String id="BREAKOUTHV_COPYRIGHT" text="© 1978 by Atari Interactive, Inc." />
+  <String id="BRIDGE" text="Bridge" />
+  <String id="BRIDGE_COPYRIGHT" text="© 1980 Activision Publishing, Inc." />
+  <String id="BUZZBOMBERS" text="Buzz Bombers" />
+  <String id="BUZZBOMBERS_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="CANYONBOMBER" text="Canyon Bomber" />
+  <String id="CANYONBOMBER_COPYRIGHT" text="© 1979 by Atari Interactive, Inc." />
+  <String id="CASINO" text="Casino" />
+  <String id="CASINO_COPYRIGHT" text="© 1979 by Atari Interactive, Inc." />
+  <String id="CENTIPEDE" text="Centipede" />
+  <String id="CENTIPEDE_COPYRIGHT" text="© 1980 by Atari Interactive, Inc." />
+  <String id="CENTIPEDEHV" text="Centipede® (2600)" />
+  <String id="CENTIPEDEHV_COPYRIGHT" text="© 1982 by Atari Interactive, Inc." />
+  <String id="CHECKERS" text="Checkers" />
+  <String id="CHECKERS_COPYRIGHT" text="© 1980 Activision Publishing, Inc." />
+  <String id="CHIPSHOTGOLF" text="Chip Shot Golf" />
+  <String id="CHIPSHOTGOLF_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="CHOPPERCOMMAND" text="Chopper Command ™" />
+  <String id="CHOPPERCOMMAND_COPYRIGHT" text="© 1982 Activision Publishing, Inc." />
+  <String id="CIRCUSATARI" text="Circus Atari" />
+  <String id="CIRCUSATARI_COPYRIGHT" text="© 1980 by Atari Interactive, Inc." />
+  <String id="CIRCUSCHARLIE" text="Circus Charlie" />
+  <String id="CIRCUSCHARLIE_COPYRIGHT" text="TBD" />
+  <String id="CITYBOMBER" text="City Bomber ™" />
+  <String id="CITYBOMBER_COPYRIGHT" text="© 1987 Konami Digital Entertainment" />
+  <String id="CODEBREAKER" text="Codebreaker ™" />
+  <String id="CODEBREAKER_COPYRIGHT" text="© 1978 by Atari Interactive, Inc." />
+  <String id="COMBAT" text="Combat" />
+  <String id="COMBAT_COPYRIGHT" text="© 1978 by Atari Interactive, Inc." />
+  <String id="CONCENTRATION" text="Concentration" />
+  <String id="CONCENTRATION_COPYRIGHT" text="© 1978 by Atari Interactive, Inc." />
+  <String id="CONTRA" text="Gryzor ™" />
+  <String id="CONTRA_COPYRIGHT" text="© 1987 Konami Digital Entertainment" />
+  <String id="COSMICCOMMUTER" text="Cosmic Commuter ™" />
+  <String id="COSMICCOMMUTER_COPYRIGHT" text="© 1985 Activision Publishing, Inc." />
+  <String id="CRACKPOTS" text="Crackpots ™" />
+  <String id="CRACKPOTS_COPYRIGHT" text="© 1983 Activision Publishing, Inc." />
+  <String id="CRYSTALCASTLES" text="Crystal Castles" />
+  <String id="CRYSTALCASTLES_COPYRIGHT" text="© 1983 by Atari Interactive, Inc." />
+  <String id="DECATHLON" text="Activision® Decathlon ™" />
+  <String id="DECATHLON_COPYRIGHT" text="© 1983 Activision Publishing, Inc." />
+  <String id="DECATHLONITV" text="Super Pro Decathlon" />
+  <String id="DECATHLONITV_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="DEEPPOCKETBILLIARDS" text="Deep Pockets Billiards" />
+  <String id="DEEPPOCKETBILLIARDS_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="Defender" text="Defender" />
+  <String id="Defender_COPYRIGHT" text="© 1980 Midway" />
+  <String id="DEMONSTODIAMONDS" text="Demons to Diamonds" />
+  <String id="DEMONSTODIAMONDS_COPYRIGHT" text="© 1982 by Atari Interactive, Inc." />
+  <String id="DESERTFALCON" text="Desert Falcon ™" />
+  <String id="DESERTFALCON_COPYRIGHT" text="© 1987 by Atari Interactive, Inc." />
+  <String id="DETANA" text="Detana!! TwinBee™" />
+  <String id="DETANA_COPYRIGHT" text="© 1991 Konami Digital Entertainment" />
+  <String id="DEVASTATORS" text="Devastators ™" />
+  <String id="DEVASTATORS_COPYRIGHT" text="© 1988 Konami Digital Entertainment" />
+  <String id="DevilWorld" text="Devil World" />
+  <String id="DevilWorld_COPYRIGHT" text="© 1989 Konami Digital Entertainment" />
+  <String id="DODGEEM" text="Dodge 'Em" />
+  <String id="DODGEEM_COPYRIGHT" text="© 1980 by Atari Interactive, Inc." />
+  <String id="DOLPHIN" text="Dolphin ™" />
+  <String id="DOLPHIN_COPYRIGHT" text="© 1983 Activision Publishing, Inc." />
+  <String id="DOUBLEDUNK" text="Double Dunk ™" />
+  <String id="DOUBLEDUNK_COPYRIGHT" text="© 1989 by Atari Interactive, Inc." />
+  <String id="DRAGSTER" text="Dragster ™" />
+  <String id="DRAGSTER_COPYRIGHT" text="© 1980 Activision Publishing, Inc." />
+  <String id="ENDURO" text="Enduro ™" />
+  <String id="ENDURO_COPYRIGHT" text="© 1983 Activision Publishing, Inc." />
+  <String id="FINALIZER" text="Finalizer" />
+  <String id="FINALIZER_COPYRIGHT" text="© 1985 Konami Digital Entertainment" />
+  <String id="FISHINGDERBY" text="Fishing Derby ™" />
+  <String id="FISHINGDERBY_COPYRIGHT" text="© 1980 Activision Publishing, Inc." />
+  <String id="FLAKATTACK" text="Flak Attack ™" />
+  <String id="FLAKATTACK_COPYRIGHT" text="© 1987 Konami Digital Entertainment" />
+  <String id="FOODFIGHT" text="Food Fight ™" />
+  <String id="FOODFIGHT_COPYRIGHT" text="© 1983 by Atari Interactive, Inc." />
+  <String id="FOOTBALL" text="Football" />
+  <String id="FOOTBALL2600" text="Football ™ (2600)" />
+  <String id="FOOTBALL2600_COPYRIGHT" text="© 1978 by Atari Interactive, Inc." />
+  <String id="FOOTBALL_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="FREEWAY" text="Freeway ®" />
+  <String id="FREEWAY_COPYRIGHT" text="© 1981 Activision Publishing, Inc." />
+  <String id="FROGBOG" text="Frog Bog" />
+  <String id="FROGBOG_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="FROSTBITE" text="Frostbite ™" />
+  <String id="FROSTBITE_COPYRIGHT" text="© 1983 Activision Publishing, Inc." />
+  <String id="GALACTICWARRIORS" text="Galactic Warriors ™" />
+  <String id="GALACTICWARRIORS_COPYRIGHT" text="© 1985 Konami Digital Entertainment" />
+  <String id="GAUNTLET" text="Gauntlet" />
+  <String id="GAUNTLET_COPYRIGHT" text="© 1985 Midway" />
+  <String id="GAUNTLETII" text="Gauntlet II" />
+  <String id="GAUNTLETII_COPYRIGHT" text="© 1986 Midway" />
+  <String id="GENRE_ACTION" text="ACTION" />
+  <String id="GENRE_BOARDGAME" text="BOARD GAMES" />
+  <String id="GENRE_FIGHTING" text="FIGHTING" />
+  <String id="GENRE_PLATFORM" text="PLATFORM" />
+  <String id="GENRE_PUZZLE" text="PUZZLE" />
+  <String id="GENRE_SHOOTER" text="SHOOTER" />
+  <String id="GENRE_SPORT" text="SPORT" />
+  <String id="GENRE_STRATEGY" text="STRATEGY" />
+  <String id="GOLF" text="Golf ™" />
+  <String id="GOLF_COPYRIGHT" text="© 1980 by Atari Interactive, Inc." />
+  <String id="GRADIUS" text="Gradius" />
+  <String id="GRADIUS_COPYRIGHT" text="TBD" />
+  <String id="GRANDPRIX" text="Grand Prix ™" />
+  <String id="GRANDPRIX_COPYRIGHT" text="© 1982 Activision Publishing, Inc." />
+  <String id="GRAVITAR" text="Gravitar" />
+  <String id="GRAVITAR_COPYRIGHT" text="© 1982 by Atari Interactive, Inc." />
+  <String id="GRAVITARHV" text="Gravitar ® (2600)" />
+  <String id="GRAVITARHV_COPYRIGHT" text="© 1983 by Atari Interactive, Inc." />
+  <String id="GREENBERET" text="Green Beret" />
+  <String id="GREENBERET_COPYRIGHT" text="TBD" />
+  <String id="GYRUSS" text="Gyruss" />
+  <String id="GYRUSS_COPYRIGHT" text="© 1983 Konami Digital Entertainment" />
+  <String id="HARDHAT" text="Hard Hat" />
+  <String id="HARDHAT_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="HAUNTEDHOUSE" text="Haunted House" />
+  <String id="HAUNTEDHOUSE_COPYRIGHT" text="© 1981 by Atari Interactive, Inc." />
+  <String id="HERO" text="H.E.R.O. ™" />
+  <String id="HERO_COPYRIGHT" text="© 1984 Activision Publishing, Inc." />
+  <String id="HOCKEY" text="Hockey" />
+  <String id="HOCKEY_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="HORSERACING" text="Horse Racing" />
+  <String id="HORSERACING_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="HOVERFORCE" text="Hover Force" />
+  <String id="HOVERFORCE_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="HUMANCANNONBALL" text="Human Cannonball ™" />
+  <String id="HUMANCANNONBALL_COPYRIGHT" text="© 1978 by Atari Interactive, Inc." />
+  <String id="HUSTLER" text="Video Hustler" />
+  <String id="HUSTLER_COPYRIGHT" text="© 1981 Konami Digital Entertainment" />
+  <String id="HYPERCRASH" text="Hyper Crash ™" />
+  <String id="HYPERCRASH_COPYRIGHT" text="© 1987 Konami Digital Entertainment" />
+  <String id="ICEHOCKEY" text="Ice Hockey ™" />
+  <String id="ICEHOCKEY_COPYRIGHT" text="© 1981 Activision Publishing, Inc." />
+  <String id="Intellivision" text="INTELLIVISION" />
+  <String id="IRONHORSE" text="Iron Horse ™" />
+  <String id="IRONHORSE_COPYRIGHT" text="© 1986 Konami Digital Entertainment" />
+  <String id="JACKAL" text="Jackal ™" />
+  <String id="JACKAL_COPYRIGHT" text="© 1986 Konami Digital Entertainment" />
+  <String id="JAILBREAK" text="Jail Break" />
+  <String id="JAILBREAK_COPYRIGHT" text="© 1985 Konami Digital Entertainment" />
+  <String id="JOUST" text="Joust" />
+  <String id="JOUST_COPYRIGHT" text="© 1982 Midway" />
+  <String id="JUNGLER" text="Jungler" />
+  <String id="JUNGLER_COPYRIGHT" text="© 1981 Konami Digital Entertainment" />
+  <String id="JUNOFIRST" text="Juno First" />
+  <String id="JUNOFIRST_COPYRIGHT" text="© 1983 Konami Digital Entertainment" />
+  <String id="KABOBBER" text="Kabobber ™" />
+  <String id="KABOBBER_COPYRIGHT" text="© 1983 Activision Publishing, Inc." />
+  <String id="KABOOM" text="Kaboom! ®" />
+  <String id="KABOOM_COPYRIGHT" text="© 1981 Activision Publishing, Inc." />
+  <String id="KEYSTONEKAPERS" text="Keystone Kapers ™" />
+  <String id="KEYSTONEKAPERS_COPYRIGHT" text="© 1982 Activision Publishing, Inc." />
+  <String id="KITTENKABOODLE" text="Kitten Kaboodle ™" />
+  <String id="KITTENKABOODLE_COPYRIGHT" text="© 1988 Konami Digital Entertainment" />
+  <String id="KONAMI" text="KONAMI" />
+  <String id="KONAMIBUNDLE001" text="Konami-Go!" />
+  <String id="KONAMIBUNDLE002" text="Konami Tower of ROM!" />
+  <String id="KONAMIGT" text="Konami GT ™" />
+  <String id="KONAMIGT_COPYRIGHT" text="© 1985 Konami Digital Entertainment" />
+  <String id="LASERBLAST" text="Laser Blast ™" />
+  <String id="LASERBLAST_COPYRIGHT" text="© 1981 Activision Publishing, Inc." />
+  <String id="LIBERATOR" text="Liberator" />
+  <String id="LIBERATOR_COPYRIGHT" text="© 1982 by Atari Interactive, Inc." />
+  <String id="LIFEFORCE" text="Life Force" />
+  <String id="LIFEFORCE_COPYRIGHT" text="TBD" />
+  <String id="LUNARLANDER" text="Lunar Lander" />
+  <String id="LUNARLANDER_COPYRIGHT" text="© 1979 by Atari Interactive, Inc." />
+  <String id="MAJORHAVOC" text="Major Havoc" />
+  <String id="MAJORHAVOC_COPYRIGHT" text="© 1983 by Atari Interactive, Inc." />
+  <String id="MAZECRAZE" text="Maze Craze" />
+  <String id="MAZECRAZE_COPYRIGHT" text="© 1980 by Atari Interactive, Inc." />
+  <String id="MEGAMANIA" text="Megamania ™" />
+  <String id="MEGAMANIA_COPYRIGHT" text="© 1982 Activision Publishing, Inc." />
+  <String id="MEGAZONE" text="Mega Zone" />
+  <String id="MEGAZONE_COPYRIGHT" text="© 1983 Konami Digital Entertainment" />
+  <String id="MIA" text="Missing In Action ™" />
+  <String id="MIA_COPYRIGHT" text="© 1989 Konami Digital Entertainment" />
+  <String id="MIDWAY" text="[En:MIDWAY]" />
+  <String id="MIKIE" text="Mikie" />
+  <String id="MIKIE_COPYRIGHT" text="TBD" />
+  <String id="MILLIPEDE" text="Millipede" />
+  <String id="MILLIPEDE_COPYRIGHT" text="© 1982 by Atari Interactive, Inc." />
+  <String id="MILLIPEDEHV" text="Millipede (2600)" />
+  <String id="MILLIPEDEHV_COPYRIGHT" text="© 1984 by Atari Interactive, Inc." />
+  <String id="MINIATUREGOLF" text="Miniature Golf ™" />
+  <String id="MINIATUREGOLF_COPYRIGHT" text="© 1979 by Atari Interactive, Inc." />
+  <String id="MISSILECOMMAND" text="Missile Command" />
+  <String id="MISSILECOMMAND_COPYRIGHT" text="© 1980 by Atari Interactive, Inc." />
+  <String id="MISSILECOMMANDHV" text="Missile Command® (2600)" />
+  <String id="MISSILECOMMANDHV_COPYRIGHT" text="© 1980 by Atari Interactive, Inc." />
+  <String id="MOTOCROSS" text="Motocross" />
+  <String id="MOTOCROSS_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="MRKABUKI" text="Mr. Goemon" />
+  <String id="MRKABUKI_COPYRIGHT" text="© 1986 Konami Digital Entertainment" />
+  <String id="NEMESIS" text="Nemesis" />
+  <String id="NEMESIS_COPYRIGHT" text="TBD" />
+  <String id="NIGHTDRIVER" text="Night Driver" />
+  <String id="NIGHTDRIVER_COPYRIGHT" text="© 1980 by Atari Interactive, Inc." />
+  <String id="NIGHTSTALKER" text="Night Stalker" />
+  <String id="NIGHTSTALKER_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="OFFTHEWALL" text="Off The Wall ™" />
+  <String id="OFFTHEWALL_COPYRIGHT" text="© 1989 by Atari Interactive, Inc." />
+  <String id="OINK!" text="Oink! ™" />
+  <String id="OINK!_COPYRIGHT" text="© 1982 Activision Publishing, Inc." />
+  <String id="OLDJOUST" text="OLDJOUST" />
+  <String id="OLDJOUST_COPYRIGHT" text="[En:OLDJOUST_COPYRIGHT]" />
+  <String id="OUTLAW" text="Outlaw" />
+  <String id="OUTLAW_COPYRIGHT" text="© 1978 by Atari Interactive, Inc." />
+  <String id="PINBALL" text="Pinball" />
+  <String id="PINBALL_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="PINGPONG" text="Konami's Ping Pong" />
+  <String id="PINGPONG_COPYRIGHT" text="© 1985 Konami Digital Entertainment" />
+  <String id="PITFALL" text="Pitfall! ®" />
+  <String id="PITFALL_COPYRIGHT" text="© 1982 Activision Publishing, Inc." />
+  <String id="PITFALLII" text="Pitfall II®: Lost Caverns" />
+  <String id="PITFALLII_COPYRIGHT" text="© 1984 Activision Publishing, Inc." />
+  <String id="PLAQUEATTACK" text="Plaque Attack ™" />
+  <String id="PLAQUEATTACK_COPYRIGHT" text="© 1983 Activision Publishing, Inc." />
+  <String id="POOYAN" text="Pooyan ™" />
+  <String id="POOYAN_COPYRIGHT" text="© 1982 Konami Digital Entertainment" />
+  <String id="PRESSURECOOKER" text="Pressure Cooker ™" />
+  <String id="PRESSURECOOKER_COPYRIGHT" text="© 1983 Activision Publishing, Inc." />
+  <String id="PRIVATEEYE" text="Private Eye ™" />
+  <String id="PRIVATEEYE_COPYRIGHT" text="© 1983 Activision Publishing, Inc." />
+  <String id="QUADRUN" text="Quadrun" />
+  <String id="QUADRUN_COPYRIGHT" text="© 1983 by Atari Interactive, Inc." />
+  <String id="RACKEMUP" text="Rack 'Em Up" />
+  <String id="RACKEMUP_COPYRIGHT" text="© 1987 Konami Digital Entertainment" />
+  <String id="RADARLOCK" text="Radar Lock" />
+  <String id="RADARLOCK_COPYRIGHT" text="© 1989 by Atari Interactive, Inc." />
+  <String id="REDBARON" text="Red Baron" />
+  <String id="REDBARON_COPYRIGHT" text="© 1980 by Atari Interactive, Inc." />
+  <String id="REVERSI" text="Reversi" />
+  <String id="REVERSI_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="RIVERRAID" text="River Raid ®" />
+  <String id="RIVERRAID2" text="River Raid ® II" />
+  <String id="RIVERRAID2_COPYRIGHT" text="© 1988 Activision Publishing, Inc." />
+  <String id="RIVERRAID_COPYRIGHT" text="© 1982 Activision Publishing, Inc." />
+  <String id="ROADFIGHTER" text="Road Fighter" />
+  <String id="ROADFIGHTER_COPYRIGHT" text="© 1984 Konami Digital Entertainment" />
+  <String id="ROBOTRON" text="Robotron: 2084" />
+  <String id="ROBOTRON_COPYRIGHT" text="© 1982 Midway" />
+  <String id="ROCKNRAGE" text="Rock 'n Rage" />
+  <String id="ROCKNRAGE_COPYRIGHT" text="TBD" />
+  <String id="ROCKNROPE" text="Roc'n Rope" />
+  <String id="ROCKNROPE_COPYRIGHT" text="TBD" />
+  <String id="RSBASEBALL" text="RealSports® Baseball" />
+  <String id="RSBASEBALL_COPYRIGHT" text="© 1982 by Atari Interactive, Inc." />
+  <String id="RSTENNIS" text="RealSports Tennis" />
+  <String id="RSTENNIS_COPYRIGHT" text="© 1983 by Atari Interactive, Inc." />
+  <String id="RSVOLLEYBALL" text="RealSports Volleyball" />
+  <String id="RSVOLLEYBALL_COPYRIGHT" text="© 1982 by Atari Interactive, Inc." />
+  <String id="RUSHNATTACK" text="Rush'n Attack" />
+  <String id="RUSHNATTACK_COPYRIGHT" text="TBD" />
+  <String id="SALAMANDER" text="Salamander" />
+  <String id="SALAMANDER_COPYRIGHT" text="© 1986 Konami Digital Entertainment" />
+  <String id="SCOOTERSHOOTER" text="Scooter Shooter" />
+  <String id="SCOOTERSHOOTER_COPYRIGHT" text="© 1985 Konami Digital Entertainment" />
+  <String id="SCRAMBLE" text="Scramble" />
+  <String id="SCRAMBLE_COPYRIGHT" text="© 1981 Konami Digital Entertainment" />
+  <String id="SEABATTLE" text="Sea Battle" />
+  <String id="SEABATTLE_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="SEAQUEST" text="Seaquest ™" />
+  <String id="SEAQUEST_COPYRIGHT" text="© 1983 Activision Publishing, Inc." />
+  <String id="SHAOLINSROAD" text="Shao-lin's Road" />
+  <String id="SHAOLINSROAD_COPYRIGHT" text="© 1985 Konami Digital Entertainment" />
+  <String id="SHARK!SHARK!" text="Shark! Shark!" />
+  <String id="SHARK!SHARK!_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="SHARPSHOT" text="Sharp Shot" />
+  <String id="SHARPSHOT_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="SINISTAR" text="Sinistar" />
+  <String id="SINISTAR_COPYRIGHT" text="© 1982 Midway" />
+  <String id="SKIING" text="Skiing™" />
+  <String id="SKIING_COPYRIGHT" text="© 1980 Activision Publishing, Inc." />
+  <String id="SKIINGINTELLIVISION" text="Skiing (INTV)" />
+  <String id="SKIINGINTELLIVISION_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="SKYDIVER" text="Sky Diver" />
+  <String id="SKYDIVER_COPYRIGHT" text="© 1979 by Atari Interactive, Inc." />
+  <String id="SKYJINKS" text="Sky Jinks ™" />
+  <String id="SKYJINKS_COPYRIGHT" text="© 1982 Activision Publishing, Inc." />
+  <String id="SLAMDUNKBASKETBALL" text="Slam Dunk Basketball" />
+  <String id="SLAMDUNKBASKETBALL_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="SLAPSHOTHOCKEY" text="Slap Shot Hockey" />
+  <String id="SLAPSHOTHOCKEY_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="SNAFU" text="Snafu" />
+  <String id="SNAFU_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="SOCCER" text="Soccer" />
+  <String id="SOCCER_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="SPACEARMADA" text="Space Armada" />
+  <String id="SPACEARMADA_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="SPACEBATTLE" text="Space Battle" />
+  <String id="SPACEBATTLE_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="SPACECADET" text="Space Cadet" />
+  <String id="SPACECADET_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="SPACEDUEL" text="Space Duel" />
+  <String id="SPACEDUEL_COPYRIGHT" text="© 1982 by Atari Interactive, Inc." />
+  <String id="SPACEHAWK" text="Space Hawk" />
+  <String id="SPACEHAWK_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="SPACEWAR" text="Space War ™" />
+  <String id="SPACEWAR_COPYRIGHT" text="© 1978 by Atari Interactive, Inc." />
+  <String id="SPIDERFIGHTER" text="Spider Fighter ™" />
+  <String id="SPIDERFIGHTER_COPYRIGHT" text="© 1982 Activision Publishing, Inc." />
+  <String id="SPLAT" text="Splat!" />
+  <String id="SPLAT_COPYRIGHT" text="© 1982 Midway" />
+  <String id="SPRINTMASTER" text="Sprint Master ™" />
+  <String id="SPRINTMASTER_COPYRIGHT" text="© 1988 by Atari Interactive, Inc." />
+  <String id="STAMPEDE" text="Stampede ™" />
+  <String id="STAMPEDE_COPYRIGHT" text="© 1981 Activision Publishing, Inc." />
+  <String id="STARMASTER" text="StarMaster ™" />
+  <String id="STARMASTER_COPYRIGHT" text="© 1982 Activision Publishing, Inc." />
+  <String id="STARRAIDERS" text="Star Raiders" />
+  <String id="STARRAIDERS_COPYRIGHT" text="© 1982 by Atari Interactive, Inc." />
+  <String id="STARSHIP" text="Star Ship ™" />
+  <String id="STARSHIP_COPYRIGHT" text="© 1977 by Atari Interactive, Inc." />
+  <String id="STARSTRIKE" text="Star Strike" />
+  <String id="STARSTRIKE_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="STRATEGYX" text="Strategy X" />
+  <String id="STRATEGYX_COPYRIGHT" text="© 1981 Konami Digital Entertainment" />
+  <String id="STREETRACER" text="Street Racer" />
+  <String id="STREETRACER_COPYRIGHT" text="© 1977 by Atari Interactive, Inc." />
+  <String id="SUBHUNT" text="Sub Hunt" />
+  <String id="SUBHUNT_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="SUBMARINECOMMANDER" text="Submarine Commander" />
+  <String id="SUBMARINECOMMANDER_COPYRIGHT" text="© 1982 by Atari Interactive, Inc." />
+  <String id="SUPERBASKETBALL" text="Super Basketball" />
+  <String id="SUPERBASKETBALL_COPYRIGHT" text="© 1984 Konami Digital Entertainment" />
+  <String id="SUPERBREAKOUT" text="Super Breakout" />
+  <String id="SUPERBREAKOUT_COPYRIGHT" text="© 1978 by Atari Interactive, Inc." />
+  <String id="SUPERBREAKOUTHV" text="Super Breakout® (2600)" />
+  <String id="SUPERBREAKOUTHV_COPYRIGHT" text="© 1981 by Atari Interactive, Inc." />
+  <String id="SUPERCOBRA" text="Super Cobra" />
+  <String id="SUPERCOBRA_COPYRIGHT" text="© 1981 Konami Digital Entertainment" />
+  <String id="SUPERFOOTBALL" text="Super Football ™" />
+  <String id="SUPERFOOTBALL_COPYRIGHT" text="© 1988 by Atari Interactive, Inc." />
+  <String id="SUPERPROSKIING" text="Mountain Madness" />
+  <String id="SUPERPROSKIING_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="SURROUND" text="Surround ™" />
+  <String id="SURROUND_COPYRIGHT" text="© 1977 by Atari Interactive, Inc." />
+  <String id="TEMPEST" text="Tempest" />
+  <String id="TEMPEST_COPYRIGHT" text="© 1980 by Atari Interactive, Inc." />
+  <String id="TENNIS" text="Tennis" />
+  <String id="TENNIS_COPYRIGHT" text="© 1981 Activision Publishing, Inc." />
+  <String id="TENNISITV" text="Tennis (INTV)" />
+  <String id="TENNISITV_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="THEMAINEVENT" text="The Main Event ™" />
+  <String id="THEMAINEVENT_COPYRIGHT" text="© 1988 Konami Digital Entertainment" />
+  <String id="THINICE" text="Thin Ice" />
+  <String id="THINICE_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="THUNDERCASTLE" text="Thunder Castle" />
+  <String id="THUNDERCASTLE_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="THWOCKER" text="Thwocker ™" />
+  <String id="THWOCKER_COPYRIGHT" text="© 1984 Activision Publishing, Inc." />
+  <String id="TIMEPILOT" text="Time Pilot" />
+  <String id="TIMEPILOT_COPYRIGHT" text="© 1982 Konami Digital Entertainment" />
+  <String id="TOWEROFDOOM" text="Tower of Doom" />
+  <String id="TOWEROFDOOM_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="TRICKTRAP" text="Trick Trap - 1771 ™" />
+  <String id="TRICKTRAP_COPYRIGHT" text="© 1987 Konami Digital Entertainment" />
+  <String id="TRIPLEACTION" text="Triple Action" />
+  <String id="TRIPLEACTION_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="TUTANKHAM" text="Tutankham" />
+  <String id="TUTANKHAM_COPYRIGHT" text="© 1982 Konami Digital Entertainment" />
+  <String id="TWINBEE" text="TwinBee ™" />
+  <String id="TWINBEE_COPYRIGHT" text="© 1985 Konami Digital Entertainment" />
+  <String id="UTOPIA" text="Utopia" />
+  <String id="UTOPIA_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="VECTRON" text="Vectron" />
+  <String id="VECTRON_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="VENETIANBLINDS" text="Venetian Blinds" />
+  <String id="VENETIANBLINDS_COPYRIGHT" text="© 1982 Activision Publishing, Inc." />
+  <String id="VIDEOCHESS" text="Video Chess" />
+  <String id="VIDEOCHESS_COPYRIGHT" text="© 1979 by Atari Interactive, Inc." />
+  <String id="VIDEOPINBALL" text="Video Pinball" />
+  <String id="VIDEOPINBALL_COPYRIGHT" text="© 1981 by Atari Interactive, Inc." />
+  <String id="VOLLEYBALL" text="Spiker! Volleyball" />
+  <String id="VOLLEYBALL_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="WARLORDS" text="Warlords" />
+  <String id="WARLORDS_COPYRIGHT" text="© 1980 by Atari Interactive, Inc." />
+  <String id="WARLORDSHV" text="Warlords ™ (2600)" />
+  <String id="WARLORDSHV_COPYRIGHT" text="© 1981 by Atari Interactive, Inc." />
+  <String id="WRESTLING" text="Body Slam! Wrestling" />
+  <String id="WRESTLING_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="YARSREVENGE" text="Yars' Revenge" />
+  <String id="YARSREVENGE_COPYRIGHT" text="© 1981 by Atari Interactive, Inc." />
+  <String id="YIEARKUNGFU" text="Yie Ar Kung-Fu" />
+  <String id="YIEARKUNGFU_COPYRIGHT" text="© 1985 Konami Digital Entertainment" />
+
+
+  <String id="RESET_KEYBOARD" text="Reset" />
+  <String id="RESET_GAMEPAD" text="[_Y] Reset" />
+  <String id="AWARD_THEME" text="theme" />
+  <String id="FILT_XBLDATE" text="[Release Date]" />
+  <String id="FILT_XBLDATE_LASTWEEK" text="LAST WEEK" />
+  <String id="FILT_XBLDATE_LAST30DAYS" text="LAST 30 DAYS" />
+  <String id="FILT_XBLDATE_LAST90DAYS" text="LAST 90 DAYS" />
+  <String id="FILT_XBLDATE_OLDER" text="OLDER" />
+  <String id="MIDWAY" text="MIDWAY" />
+  <String id="ATARIGAMES" text="ATARI GAMES" />
+  <String id="BALLYMIDWAY" text="BALLY MIDWAY" /> 
+  <String id="CINEMATRONICS" text="CINEMATRONICS" /> 
+  <String id="LEYLANDCORP" text="LEYLAND CORP." />
+  <String id="MIDWAYGAMES" text="MIDWAY GAMES" />
+  <String id="WILLIAMSINC" text="WILLIAMS ELECTRONICS, INC." />
+  <String id="SEGA" text="SEGA" />
+  <String id="SNK" text="SNK" />
+  <String id="SNKPLAYMORE" text="SNK PLAYMORE" />
+  <String id="NAZCA" text="NAZCA" />
+  <String id="ADK" text="ADK" />
+  <String id="SAURUS" text="SAURUS" />
+  <String id="DATAEAST" text="DATA EAST" />
+  <String id="NEWSMSG_FRIEND_ACHIEVEMENT" text="%USER1% earned the achievement %ACHIEVEMENT%!" />
+  <String id="NEWSMSG_FRIEND_VISITOR_TOKENS" text="%USER1% visited your arcade and you earned one token!" />
+  <String id="NEWSMSG_STORE_NEWCONTENT" text="%CONTENT% is now available! Get it fast!" />
+  <String id="TAUNTDESC_RIDE_PONY" text="%GAMERTAG% rides the pony to the Number One spot!" />
+  <String id="BEATEN_1_HIGHSCORE" text="You have beaten %GAMERTAG%’s High Score! Would you like to send them a Taunt? " />
+  <String id="BEATEN_X_HIGHSCORES" text="You have beaten %NUMBER% Friends' High Scores! Would you like to send them a Taunt? " />
+  <String id="BEATEN_MESSAGE_START" text="%GAMERTAG% has beaten you on %GAMETITLE%." />
+  <String id="BEATEN_MESSAGE_END" text="Reclaim your title and play Game Room now!" />
+  <String id="TUTORIAL_1" text="Welcome to Game Room, your own virtual Arcade and Games-on-Demand library of retro games and game platforms.\n\nThis is your new Arcade!" />
+  <String id="TUTORIAL_2" text="You can customize your arcade by buying new game Cabinets and game Mascots directly from the Game Room Store.\n\nDecorate your arcade with bonus room Themes and Décor you've unlocked by winning game Medals." />
+  <String id="TUTORIAL_3" text="This is the Game Purchase screen. This screen is displayed for any games that you do not own.\n\nHere you can select to buy the Full Game or a Single Play Session of the game. The Play Anywhere option unlocks the Full Game on any additional supported platforms you may own." />
+  <String id="TUTORIAL_8" text="This is the View Replay screen. Here you can Play, Pause, Fast Forward, and Rewind a replay.\n\nJust got to that big boss? Create a challenge from any current position in the replay to send to your friends! (supported games only)" />
+  <String id="TUTORIAL_10" text="Ranked Mode allows participation to be reported in Leaderboards and is available for games that support High Scores." />  
+  <String id="ABOUT_GR_LIVE_DESC" text="[DIAMOND]Game Room[DIAMOND]\n\nWelcome to Game Room! Your own virtual arcade and games-on-demand library of retro games and game platforms.\n\nThe game titles available in Game Room use the original code from yesteryear, with the software running this code created from scratch to perfectly emulate the original platform. For gamers, this literally means they are playing on the original console or arcade machine that they may have done years earlier--or at least the closest thing to it--with difficulty switches and DIP switches included!\n\nThis is combined with a heavily customizable arcade environment of authenticity, competition, and nostalgia to produce a rich and engaging experience that we hope you will enjoy!\n\n[GAME]My Arcade[GAME]\n\nYou can customize your own arcade by buying new game cabinets and game mascots directly from the Game Room Store.\n\nDecorate your arcade with room themes and bonus décor unlocked by winning game medals.\n\nInvite your friends to look around and play any of the games you have available, or visit your friends' arcades to view their progress and check out their customized rooms.\n\nEach friend who visits your arcade or plays one of your games will award you 1 token.\n\n[FRIEND]Friend Arcades[FRIEND]\n\nExplore your friends' arcades and play any of the game cabinets they have on display.\n\nUse your tokens in your friends' game cabinets for free bonus plays! Each bonus play costs 5 tokens.\n\n[GAMEPACK]Games[GAMEPACK]\n\nGames can be purchased either from the Store or directly from within a friend's arcade. Once a game has been purchased, it can be placed inside your arcade for you and your friends to enjoy.\n\n[TROPHY]Playing in Ranked Mode[TROPHY]\n\nRanked Mode allows participation in global Leaderboards and is available for games that support high scores.\n\n[GAME]Playing in Classic Mode[GAME]\n\nClassic Mode allows unrestricted play of the game and excludes Leaderboard entry. Players can also modify arcade machine DIP switch settings if supported by the original printed circuit board.\n\n[THEME]Download Content and Game Packs[THEME]\n\nCheck Downloadable Content regularly for new game packs to populate the Game Room Store and arcade with new content.\n\n[TOKEN]Store[TOKEN]\n\nThe Game Room Store displays all available games, mascots, and other items contained within downloaded game packs. They are available for purchase with Microsoft® Points [CURRENCY].\n\nEach game in the Store allows the purchase of the Full Game or a Single Play Session of the game.\n\nOnce a game has been purchased, it becomes available within My Collection and can be played and placed within your own arcade.\n\n[RANK1]Levels[RANK1]\n\nThere are 50 levels in Game Room, awarded at every 20 medal points.\n\nGain levels to boast about your retro-gamer skills and make your arcade stand out from the crowd! \n\nEvery level achieved unlocks a new room theme or item of décor!\n\n[TOKEN]Medals[TOKEN]\n\nEach game in Game Room has a set number of medals that may be won, which varies among games. There are three different medal types available across the whole of Game Room:\n\n[ACHIEVEMENT]Point Buster: Awarded for high score performance (Ranked Mode)\n[ACHIEVEMENT]Survivalist: Awarded for time spent playing a single session of a game (Ranked Mode)\n[ACHIEVEMENT]Time Spender: Awarded for total time playing a game (Ranked and Classic modes)\n\nEach medal is worth medal points, which is defined by the medal value:\n\n[ACHIEVEMENT]Gold medal = 5 points\n[ACHIEVEMENT]Silver medal = 3 points\n[ACHIEVEMENT]Bronze medal = 2 points\n\nMedal points count toward your next level. Win multiple medals to unlock achievements!\n\n[CHALLENGE]Challenges[CHALLENGE]\n\nChallenges are mini-tournaments that can be created and sent to your friends or sent to you from your friends.\n\nThe Challenges screen shows all current challenge invites sent to you, active challenges that you're participating in, and any recently completed challenges.\n\n[LEADERBOARD]Leaderboards[LEADERBOARD]\n\nPlay games in Ranked Mode for global Leaderboard entry. Leaderboards are available to view for any current game that you own.\n\nView the replays of the top 20 Leaderboard entries, and even create a game challenge from one! \n\n[CLOSEDENVELOPE]News[CLOSEDENVELOPE]\n\nThe News screen details all the latest Game Room news. Check back regularly to see what your friends have been up to and to keep track of new game content and any challenge updates.\n\n[SHOWCASE]Showcase Arcade[SHOWCASE]\n\nThe Showcase Arcade is accessed from the Main Menu and is updated regularly with new and upcoming releases as well as special events!\n\n[MASCOT]Video Wall[MASCOT]\n\nCheck the video wall regularly for advertisements of new and upcoming games. \n\n[GAMEPACK]Atari 2600 Console Interface[GAMEPACK]\n\nAtari 2600 games are started and configured using the 2600 console interface. This interface is designed to emulate the controls found on the original Atari 2600 console.\n\n[ACHIEVEMENT]The Game Select button cycles through available game modes.\n[ACHIEVEMENT]The Game Reset button starts or resets the game.\n[ACHIEVEMENT]The Left and Right Difficulty switches affect game difficulty.\n\n[GAMEPACK]Intellivision Numpad Interface[GAMEPACK]\n\nIntellivision games may require use of the ITV Numpad Interface and Overlay Cards. This interface is designed to emulate the keypad controller found on the original Intellivision console.\n\nThe interface is used to select game variables such as number of players or to reset the current game using the Reset button.\n\n[GAME]DIP Switches[GAME]\n\nCertain arcade machines may support the use of DIP switches (Classic Mode only). This allows game variables to be modified such as difficulty, number of lives, and so forth. \n\n[HOURGLASS]Time Warp[HOURGLASS]\n\nA level too hard? Just lose that last precious life? \n\nPause the game and use the Time Warp interface to rewind time to an earlier point in the current game and correct the timeline (Classic Mode only). \n\n[OPENENVELOPE]Replays[OPENENVELOPE]\n\nReplays can be saved locally or uploaded to the global Leaderboards (if the Leaderboard entry is within the top 20 players).\n\nEach Replay allows Play, Pause, Fast Forward, and Rewind functionality. \n\nJust get to that big boss? Create a challenge from any current position in a replay to send to your friends (Supported games only)." />
+  <String id="CHALLENGE_GAME_DURATION" text="Game Duration:" />
+  <String id="BUY_BOPA_DESC" text="Buy the full game to play across all supported platforms you may own" />
+  <String id="BUY_UPGRADE_DESC" text="Unlock the game on additional supported platforms you may own" />
+  <String id="THEME_DESC_INTELLIVISION" text="Intellivision LIVES in this theme" />
+  <String id="_X3_NOT_ENOUGH_FREE_SPACE" text="There is not enough free space on your selected storage device to save a game. Would you like to select another device, or continue playing without save games enabled?" />
+  <String id="_D9_NOT_ENOUGH_FREE_SPACE" text="There is not enough free space at &quot;%SAVEPATH%\Game Room&quot; to save a game. You will be unable to save a game until you free some space." />
+  <String id="CONTENT_DOWNLOADED_RELOAD" text="New content has been downloaded. Your arcade will now be reloaded." />
+  <String id="PRESS_START_CONTROLLER" text="PRESS [CON_START]" />
+  <String id="PRESS_START_ALL" text="PRESS [CON_START] or [F1] or [F2]" />
+  <String id="PRESS_START_CON_F1" text="PRESS [CON_START] or [F1]" />
+  <String id="PRESS_START_CON_F2" text="PRESS [CON_START]or [F2]" />
+  <String id="START_LIVES" text="Starting Lives" />
+  <String id="NO_GAMES_MESSAGE" text="You have not yet purchased any games. Go to the Store from the Main Menu to buy your favorite games!\n\nWould you like to go there now?" />
+  <String id="CABINET_VIEW_ERROR" text="To play this game in Cabinet Mode, you need to place the game cabinet in your arcade.\n\nReverting to Arcade Mode."/>
+  <String id="LOADREPLAY_DURATION" text="Replay Length"/>
+  <String id="VISIT_ERRORPOPUP_TITLE" text="Visit Mode"/>
+  <String id="VISIT_FRIEND_ERROR" text="Your friend's arcade is not available right now.\n\nYou will now be returned to your own arcade."/>
+  <String id="TICKER_ALERT_REWIND_CLASSIC_ONLY" text="[HOURGLASS] Use Rewind Time to instantly rewind your game (not available in Ranked or Multiplayer games)" />
+  <String id="VISIT_SHOWCASE_ERROR" text="The Showcase Arcade is not available right now.\n\nYou will now be returned to your own arcade."/>
+  <String id="ITV_CONFIRM_RESET_TITLE" text="Reset Intellivision" />
+  <String id="ITV_CONFIRM_RESET" text="Are you sure you want to reset the Intellivision console? Any unsaved progress will be lost." />
+  <String id="STORE_POPUP_TITLE" text="Store"/>
+  <String id="STORE_UNAVAILABLE_POPUP" text="The Store is not available at this time. Please try again later."/>
+  <String id="RATEGAME_TITLE" text="Rate Game"/>
+  <String id="RATEGAME_DESC" text="Submit your own personal rating for this item"/>
+  <String id="RATEGAME_POPUP_TEXT" text="Select your rating..."/>
+  <String id="RATINGS_UNAVAILABLE" text="Ratings are not available at this time. Please try again later."/>
+  <String id="Y_RATEGAME" text="[Y] Rate Game"/>
+  <String id="STRING_REQUIRES_GAMEPACK" text="Requires %gamepack%"/>
+  <String id="TEXT_UI_CANNOTENABLEMORETHAN10MASCOTS" text="Only 10 mascots can be active at one time. You will have to deselect another mascot before you can add this one."/>
+  <String id="REQUIRES_DOWNLOAD_CONFIRMATION" text="A game pack is required to continue. Would you like to download the game pack now?"/>
+  <String id="OPTION_INGAME_LEADERBOARD" text="In-Game Leaderboards" />
+  <String id="OPTION_INGAME_LEADERBOARD_DESC" text="Enable/disable the in-game leaderboards while playing a game" />
+  <String id="FILT_PACK" text="[Game Pack]" />
+  <String id="GAMEPACK" text="Game Pack" />
+  <String id="BUNDLEPACK" text="Bundle Pack" />
+  <String id="RANK" text="RANK" />
+  <String id="HIGH_SCORE" text="HIGH SCORE" />
+  <String id="RANK_1" text="1ST" />
+  <String id="RANK_2" text="2ND" />
+  <String id="RANK_3" text="3RD" />
+  <String id="RANK_11" text="11TH" />
+  <String id="RANK_12" text="12TH" />
+  <String id="RANK_13" text="13TH" />
+  <String id="RANK_N1" text="%N%ST" />
+  <String id="RANK_N2" text="%N%ND" />
+  <String id="RANK_N3" text="%N%RD" />
+  <String id="RANK_N" text="%N%TH" />
+  <String id="CHALLENGESTATS_UNAVAILABLE" text="Not available" />
+ <String id="NEW" text="New" />
+ <String id="RECOMMENDED" text="Recommended" />
+    <String id="TAUNTDESC_LAUGH" text="%GAMERTAG% laughs heartily at your failure." />
+    <String id="TAUNTDESC_BOWDOWN" text="%GAMERTAG% beckons you to bow down before their greatness." />
+    <String id="TAUNTDESC_GOODENOUGH" text="%GAMERTAG% knew you didn't have what it takes to beat them." />
+    <String id="TAUNTDESC_BADLYSURPRISED" text="%GAMERTAG% is surprised at how bad you are at this game." />
+    <String id="TAUNTDESC_TAUNTYOU" text="%GAMERTAG% would taunt you, but you're so bad and thus can't be bothered." />
+    <String id="TAUNTDESC_KISS_MY_BEHIND" text="%GAMERTAG% taunts you with the full moon." />
+    <String id="TAUNTDESC_ROFL" text="%GAMERTAG% rolls on the floor laughing at your feeble skills." />
+    <String id="TAUNTDESC_FELL_ASLEEP" text="%GAMERTAG% falls asleep waiting for you to beat their score." />
+    <String id="TAUNTDESC_WAX_ON" text="%GAMERTAG% thinks you need more training if you want to win." />
+    <String id="TAUNTDESC_QUEEN_WAVE" text="%GAMERTAG% has royally smashed your score." />
+    <String id="TAUNTDESC_BOW_THANK" text="%GAMERTAG% would like to thank you for trying." />
+    <String id="TAUNTDESC_NINJA" text="%GAMERTAG% has ninja skills that are too quick to be beaten." />
+    <String id="TAUNTDESC_ENLISH_BREAKFAST" text="%GAMERTAG% brews a victory tea." />
+ <!-- Pack versions -->
+  <String id="PACK_VERSION_POPUP_TITLE" text="Content Update" />
+  <String id="PACK_VERSION_NOTIFYGETLATEST" text="Some of your installed content is out of date. For best results, it is highly recommended that you install the latest version of the content. Would you like to download updates now?" />
+  <String id="PACK_VERSION_RESTART_AFTERDOWNLOAD" text="Once the content update has been downloaded, you will need to restart Game Room to see the changes." />
+  <String id="PACK_VERSION_RESTART_NOW" text="Installed content has been updated. You will need to restart Game Room to see the changes." />
+  <String id="PACK_VERSION_ACCESSDENIED_DOWNLOAD" text="Your installed version of this pack is out of date. An update is required. Would you like to download it now?" />
+  <String id="PACK_VERSION_ACCESSDENIED_RESTART" text="Your installed version of this pack is out of date. Please restart Game Room to load the newer version." />
+  <String id="PACK_VERSION_ACCESSDENIED_GENERIC" text="Your installed version of this pack is out of date." />
+  <!--Bundles-->
+  <String id="BUNDLES" text="Bundles" />
+  <String id="BUNDLES_DESC" text="View your bundles" />
+  <String id="BUNDLES_DESC_SHOP" text="Buy great value game bundles to play and fill your arcade" />
+  <String id="SCREENTITLE_BUNDLES" text="BUNDLES" />
+  <String id="SCREENTITLE_BUNDLES_STORE" text="BUNDLES STORE" />
+  <!--global content list-->
+  <String id="GLOBAL_CONTENT_LIST" text="Global Content Index" />
+  <String id="LOCALISATION" text="Global Content Settings" />
+  <!--Profile summary and detail-->
+  <String id="PROFILE_LEVEL" text="Level %LEVEL%" />
+  <String id="PROFILE_XPBAR" text="%NOW% / %NEXT%" />
+  <String id="UNLOCK_AT_NEXT_LEVEL" text="Unlock at next level:" />
+  <String id="TIME_SPENT_PLAYING" text="Total play time:" />
+  <String id="PLAYTIME_MIN" text="%MIN% min" />
+  <String id="PLAYTIME_HOURS_MIN" text="%HOURS% hrs, %MIN% min" />
+  <String id="PLAYTIME_DAYS_HOURS_MIN" text="%DAYS% days, %HOURS% hrs, %MIN% min" />
+  <!--Multiplayer-->
+  <String id="SCREENTITLE_SESSIONLIST" text="ONLINE SESSIONS" />
+  <String id="MP_SESSIONS_EMPTY" text="No games found." />
+  <String id="MP_SESSIONS_UNAVAILABLE" text="Online multiplayer is unavailable." />
+  <String id="MP_SESSIONS_LOADING" text="Loading..." />
+  <String id="JOIN_OK" text="[A] Join" />
+  <String id="MAINMENU_MULTIPLAYER" text="Multiplayer" />
+  <String id="MAINMENU_MULTIPLAYER_DESC" text="Play games with other people online" />
+  <String id="SESSION_FILTER_ALLGAMES" text="All Games" />
+  <String id="SESSION_FILTER_FRIENDS" text="Friends' Games" />
+  <String id="SESSION_FILTER_OWNEDGAMES" text="Owned Games" />
+  <!--Missing packs-->
+  <String id="PACK_MISSING_POPUP_TITLE" text="New Game Packs" />
+  <String id="PACK_MISSING_NOTIFYGETLATEST" text="There are new Game Packs available for download! Would you like to select Game Packs for downloading now?" />
+  <String id="DOWNLOAD_X" text="[X] Download"/>
+  <String id="SCREENTITLE_MISSINGPACKS" text="Select packs" />
+  <String id="DLC_INFO_SAVE_DESC" text="Downloadable Content settings" />
+
+</LocaleXml>

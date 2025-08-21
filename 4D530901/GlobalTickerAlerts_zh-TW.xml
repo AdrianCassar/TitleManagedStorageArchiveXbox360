@@ -1,0 +1,54 @@
+<GlobalTickerAlerts>
+  <Version> 
+    <versionNumber major="1" minor="2"/>
+  </Version>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_GAMEPACK_RELEASED%" string="「遊戲套件 7」現已推出！快到商店來購買！" platform="gfw,x360"/>
+  </ServerAlert>
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_GAMEPACK_RELEASED%" string="「遊戲套件 7」已經上市！其中不但有新遊戲、新吉祥物，還有 1 個免費的主題！您還在等什麼？快去買吧！" platform="gfw,x360"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_GAME%" string="想在經典大型機台遊戲 Gyruss 盡情享受射擊的快感嗎？只要購買「遊戲套件 7」即可擁有！" platform="x360"/>
+  </ServerAlert>
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_GAME%" string="快在 Jail Break 中射殺逃犯，維護街道的安全！只要購買「遊戲套件 7」即可擁有！"/>
+  </ServerAlert>
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_GAME%" string="您有在 Activision Decathlon 中領先群雄的身手嗎？快下載「遊戲套件 7」來試試看吧！"/>
+  </ServerAlert>
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_GAME%" string="在 Yie Ar Kung-Fu 中與 11 位功夫大師對決！現已透過「遊戲套件 7」推出！"/>
+  </ServerAlert>
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_GAME%" string="是 Seaquest 耶！即將透過「遊戲套件 8」推出！"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_SHOWCASE_ARCADE%" string="快去電玩展示中心，看看新推出遊戲的消息！"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_MASCOT%" string="每個遊戲套件都包含新吉祥物！"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_THEME%" string="喂！老兄！在「遊戲套件 7」有海盜主題喔！"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_GAMEPACK_COMING_SOON%" string="「遊戲套件 8」即將推出！"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_GAMEPACK_SPECIAL_OFFER%" string="只要在遊戲發行當天購買遊戲，就能免費或得該遊戲的吉祥物！"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_SHOWCASE_ARCADE_GAME%" string="電玩展示中心推出新遊戲！快去看看！"/>
+  </ServerAlert>
+
+
+</GlobalTickerAlerts>

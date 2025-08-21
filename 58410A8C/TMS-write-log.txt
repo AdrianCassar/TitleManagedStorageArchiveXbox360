@@ -1,0 +1,10 @@
+TMS_write_Batch started on QYXBLTOOLINH804 by v-tald at Wed 05/25/2011 11:22:05.53 -- Begin STANDARD output 
+ 
+ 
+TMS_write_Batch closed at Wed 05/25/2011 11:22:05.56 -- End of STANDARD output 
+__________ 
+TMS_write_Batch started on QYXBLTOOLINH804 by v-tald at Wed 05/25/2011 11:22:05.53 -- Begin ERRDEVICE output 
+ 
+ 
+TMS_write_Batch closed at Wed 05/25/2011 11:22:05.56 -- End of ERRDEVICE output 
+

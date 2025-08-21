@@ -1,0 +1,54 @@
+<GlobalTickerAlerts>
+  <Version> 
+    <versionNumber major="1" minor="2"/>
+  </Version>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_GAMEPACK_RELEASED%" string="現在ストアで Game Pack 7 を配信中!" platform="gfw,x360"/>
+  </ServerAlert>
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_GAMEPACK_RELEASED%" string="現在 Game Pack 7 を配信中! 今すぐゲットして、新しいゲーム、マスコット、無料のテーマを楽しもう!" platform="gfw,x360"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_GAME%" string="アーケード ゲームの傑作 Gyruss で宇宙へと旅立とう。Game Pack 7 で現在配信中!" platform="x360"/>
+  </ServerAlert>
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_GAME%" string="Jail Break (日本名: マンハッタン 24 分署) で街の平和を守ろう。Game Pack 7 で現在配信中!"/>
+  </ServerAlert>
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_GAME%" string="十種競技で戦うスキルと体力を、キミは持ち合わせているか? The Activision Decathlon は Game Pack 7 で現在配信中!"/>
+  </ServerAlert>
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_GAME%" string="11 人の達人が、挑戦者の到来を待っている。Yie Ar Kung-Fu は Game Pack 7 で現在配信中!"/>
+  </ServerAlert>
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_GAME%" string="Seaquest ファンの皆様お待たせしました! Game Pack 8 で近日配信予定!"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_SHOWCASE_ARCADE%" string="ショーケース アーケードで、最新ゲームを少しだけ紹介!"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_MASCOT%" string="各 Game Pack で新しいマスコットを入手可能!"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_THEME%" string="Game Pack 7 で海賊のテーマを配信中! これで気分は海の荒くれ者だ!"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_GAMEPACK_COMING_SOON%" string="Game Pack 8 は近日配信予定..."/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_GAMEPACK_SPECIAL_OFFER%" string="リリース日にゲームを購入すると、そのゲームのマスコットを無料でプレゼント!"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_SHOWCASE_ARCADE_GAME%" string="ショーケース アーケードに新しいゲームが登場! 今すぐ訪問しよう!"/>
+  </ServerAlert>
+
+
+</GlobalTickerAlerts>

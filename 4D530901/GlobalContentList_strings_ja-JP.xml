@@ -1,0 +1,438 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LocaleXml date="8/Nov/2010 16:57:35" >
+  <String id="(null)" text="[Ja:(null)]" />
+  <String id="3DTICTACTOE" text="3-D Tic-Tac-Toe " />
+  <String id="3DTICTACTOE_COPYRIGHT" text="© 1980 by Atari Interactive, Inc. " />
+  <String id="ACTIVISION" text="ACTIVISION" />
+  <String id="ADVENTURE" text="Adventure" />
+  <String id="ADVENTURE_COPYRIGHT" text="© 1980 by Atari Interactive, Inc." />
+  <String id="AIRSEABATTLE" text="Air-Sea Battle" />
+  <String id="AIRSEABATTLE_COPYRIGHT" text="© 1978 by Atari Interactive, Inc." />
+  <String id="AMIDAR" text="Amidar ™" />
+  <String id="AMIDAR_COPYRIGHT" text="© 1981 Konami Digital Entertainment" />
+  <String id="ARMORBATTLE" text="Armor Battle" />
+  <String id="ARMORBATTLE_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="ASTEROIDS" text="Asteroids" />
+  <String id="ASTEROIDS_COPYRIGHT" text="© 1979 by Atari Interactive, Inc." />
+  <String id="ASTEROIDSDELUXE" text="Asteroids Deluxe" />
+  <String id="ASTEROIDSDELUXE_COPYRIGHT" text="© 1980 by Atari Interactive, Inc." />
+  <String id="ASTEROIDSHV" text="Asteroids ® (2600) " />
+  <String id="ASTEROIDSHV_COPYRIGHT" text="© 1981 by Atari Interactive, Inc. " />
+  <String id="ASTROSMASH" text="Astrosmash" />
+  <String id="ASTROSMASH_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="ATARI" text="ATARI" />
+  <String id="AUTORACING" text="Auto Racing " />
+  <String id="AUTORACING_COPYRIGHT" text="© Intellivision Productions, Inc. " />
+  <String id="BARNSTORMING" text="Barnstorming ™" />
+  <String id="BARNSTORMING_COPYRIGHT" text="© 1982 Activision Publishing, Inc. " />
+  <String id="BASEBALL" text="Baseball" />
+  <String id="BASEBALL_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="BASKETBALLITV" text="Basketball" />
+  <String id="BASKETBALLITV_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="BATTLANTIS" text="Battlantis" />
+  <String id="BATTLANTIS_COPYRIGHT" text="© 1987 Konami Digital Entertainment" />
+  <String id="BATTLEZONE" text="Battlezone" />
+  <String id="BATTLEZONE_COPYRIGHT" text="© 1980 by Atari Interactive, Inc." />
+  <String id="BEAMRIDER" text="Beamrider ™" />
+  <String id="BEAMRIDER_COPYRIGHT" text="© 1983 Activision Publishing, Inc." />
+  <String id="BLACKJACK" text="[Ja:BLACKJACK]" />
+  <String id="BLACKJACK_COPYRIGHT" text="[Ja:BLACKJACK_COPYRIGHT]" />
+  <String id="BLACKWIDOW" text="Black Widow" />
+  <String id="BLACKWIDOW_COPYRIGHT" text="© 1982 by Atari Interactive, Inc." />
+  <String id="BLADESOFSTEEL" text="Blades of Steel ™" />
+  <String id="BLADESOFSTEEL_COPYRIGHT" text="© 1987 Konami Digital Entertainment" />
+  <String id="BOWLING" text="Bowling" />
+  <String id="BOWLING_COPYRIGHT" text="© 1979 by Atari Interactive, Inc." />
+  <String id="BOXING" text="Boxing" />
+  <String id="BOXING2600" text="Boxing (2600)" />
+  <String id="BOXING2600_COPYRIGHT" text="© 1980 Activision Publishing, Inc." />
+  <String id="BOXING_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="BREAKOUTHV" text="Breakout ® (2600)" />
+  <String id="BREAKOUTHV_COPYRIGHT" text="© 1978 by Atari Interactive, Inc." />
+  <String id="BRIDGE" text="Bridge" />
+  <String id="BRIDGE_COPYRIGHT" text="© 1980 Activision Publishing, Inc." />
+  <String id="BUZZBOMBERS" text="Buzz Bombers" />
+  <String id="BUZZBOMBERS_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="CANYONBOMBER" text="Canyon Bomber" />
+  <String id="CANYONBOMBER_COPYRIGHT" text="© 1979 by Atari Interactive, Inc." />
+  <String id="CASINO" text="Casino" />
+  <String id="CASINO_COPYRIGHT" text="© 1979 by Atari Interactive, Inc." />
+  <String id="CENTIPEDE" text="Centipede" />
+  <String id="CENTIPEDE_COPYRIGHT" text="© 1980 by Atari Interactive, Inc." />
+  <String id="CENTIPEDEHV" text="Centipede® (2600)" />
+  <String id="CENTIPEDEHV_COPYRIGHT" text="© 1982 by Atari Interactive, Inc." />
+  <String id="CHECKERS" text="Checkers" />
+  <String id="CHECKERS_COPYRIGHT" text="© 1980 Activision Publishing, Inc." />
+  <String id="CHIPSHOTGOLF" text="Chip Shot Golf " />
+  <String id="CHIPSHOTGOLF_COPYRIGHT" text="© Intellivision Productions, Inc. " />
+  <String id="CHOPPERCOMMAND" text="Chopper Command ™" />
+  <String id="CHOPPERCOMMAND_COPYRIGHT" text="© 1982 Activision Publishing, Inc." />
+  <String id="CIRCUSATARI" text="Circus Atari" />
+  <String id="CIRCUSATARI_COPYRIGHT" text="© 1980 by Atari Interactive, Inc." />
+  <String id="CIRCUSCHARLIE" text="[Ja:CIRCUSCHARLIE]" />
+  <String id="CIRCUSCHARLIE_COPYRIGHT" text="[Ja:CIRCUSCHARLIE_COPYRIGHT]" />
+  <String id="CITYBOMBER" text="City Bomber ™" />
+  <String id="CITYBOMBER_COPYRIGHT" text="© 1987 Konami Digital Entertainment" />
+  <String id="CODEBREAKER" text="Codebreaker ™" />
+  <String id="CODEBREAKER_COPYRIGHT" text="© 1978 by Atari Interactive, Inc." />
+  <String id="COMBAT" text="Combat" />
+  <String id="COMBAT_COPYRIGHT" text="© 1978 by Atari Interactive, Inc." />
+  <String id="CONCENTRATION" text="Concentration" />
+  <String id="CONCENTRATION_COPYRIGHT" text="© 1978 by Atari Interactive, Inc." />
+  <String id="CONTRA" text="Gryzor ™" />
+  <String id="CONTRA_COPYRIGHT" text="© 1987 Konami Digital Entertainment" />
+  <String id="COSMICCOMMUTER" text="Cosmic Commuter ™" />
+  <String id="COSMICCOMMUTER_COPYRIGHT" text="© 1985 Activision Publishing, Inc." />
+  <String id="CRACKPOTS" text="Crackpots ™" />
+  <String id="CRACKPOTS_COPYRIGHT" text="© 1983 Activision Publishing, Inc." />
+  <String id="CRYSTALCASTLES" text="Crystal Castles" />
+  <String id="CRYSTALCASTLES_COPYRIGHT" text="© 1983 by Atari Interactive, Inc." />
+  <String id="DECATHLON" text="Activision® Decathlon ™" />
+  <String id="DECATHLON_COPYRIGHT" text="© 1983 Activision Publishing, Inc. " />
+  <String id="DECATHLONITV" text="Super Pro Decathlon " />
+  <String id="DECATHLONITV_COPYRIGHT" text="© Intellivision Productions, Inc. " />
+  <String id="DEEPPOCKETBILLIARDS" text="Deep Pockets Billiards" />
+  <String id="DEEPPOCKETBILLIARDS_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="Defender" text="Defender" />
+  <String id="Defender_COPYRIGHT" text="© 1980 Midway" />
+  <String id="DEMONSTODIAMONDS" text="Demons To Diamonds" />
+  <String id="DEMONSTODIAMONDS_COPYRIGHT" text="© 1982 by Atari Interactive, Inc." />
+  <String id="DESERTFALCON" text="Desert Falcon ™" />
+  <String id="DESERTFALCON_COPYRIGHT" text="© 1987 by Atari Interactive, Inc." />
+  <String id="DETANA" text="Detana!! TwinBee™" />
+  <String id="DETANA_COPYRIGHT" text="© 1991 Konami Digital Entertainment" />
+  <String id="DEVASTATORS" text="Devastators ™" />
+  <String id="DEVASTATORS_COPYRIGHT" text="© 1988 Konami Digital Entertainment" />
+  <String id="DevilWorld" text="[Ja:DevilWorld]" />
+  <String id="DevilWorld_COPYRIGHT" text="[Ja:DevilWorld_COPYRIGHT]" />
+  <String id="DODGEEM" text="Dodge 'Em " />
+  <String id="DODGEEM_COPYRIGHT" text="© 1980 by Atari Interactive, Inc." />
+  <String id="DOLPHIN" text="Dolphin ™" />
+  <String id="DOLPHIN_COPYRIGHT" text="© 1983 Activision Publishing, Inc. " />
+  <String id="DOUBLEDUNK" text="Double Dunk ™" />
+  <String id="DOUBLEDUNK_COPYRIGHT" text="© 1989 by Atari Interactive, Inc." />
+  <String id="DRAGSTER" text="Dragster ™" />
+  <String id="DRAGSTER_COPYRIGHT" text="© 1980 Activision Publishing, Inc. " />
+  <String id="ENDURO" text="Enduro ™" />
+  <String id="ENDURO_COPYRIGHT" text="© 1983 Activision Publishing, Inc. " />
+  <String id="FINALIZER" text="Finalizer" />
+  <String id="FINALIZER_COPYRIGHT" text="© 1985 Konami Digital Entertainment" />
+  <String id="FISHINGDERBY" text="Fishing Derby ™" />
+  <String id="FISHINGDERBY_COPYRIGHT" text="© 1980 Activision Publishing, Inc." />
+  <String id="FLAKATTACK" text="Flak Attack ™" />
+  <String id="FLAKATTACK_COPYRIGHT" text="© 1987 Konami Digital Entertainment" />
+  <String id="FOODFIGHT" text="Food Fight ™" />
+  <String id="FOODFIGHT_COPYRIGHT" text="© 1983 by Atari Interactive, Inc." />
+  <String id="FOOTBALL" text="Football" />
+  <String id="FOOTBALL2600" text="Football ™ (2600)" />
+  <String id="FOOTBALL2600_COPYRIGHT" text="© 1978 by Atari Interactive, Inc." />
+  <String id="FOOTBALL_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="FREEWAY" text="Freeway ®" />
+  <String id="FREEWAY_COPYRIGHT" text="© 1981 Activision Publishing, Inc." />
+  <String id="FROGBOG" text="Frog Bog" />
+  <String id="FROGBOG_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="FROSTBITE" text="Frostbite ™" />
+  <String id="FROSTBITE_COPYRIGHT" text="© 1983 Activision Publishing, Inc." />
+  <String id="GALACTICWARRIORS" text="Galactic Warriors ™" />
+  <String id="GALACTICWARRIORS_COPYRIGHT" text="© 1985 Konami Digital Entertainment" />
+  <String id="GAUNTLET" text="Gauntlet" />
+  <String id="GAUNTLET_COPYRIGHT" text="© 1985 Midway" />
+  <String id="GAUNTLETII" text="Gauntlet II" />
+  <String id="GAUNTLETII_COPYRIGHT" text="© 1986 Midway" />
+  <String id="GENRE_ACTION" text="アクション" />
+  <String id="GENRE_BOARDGAME" text="ボード ゲーム" />
+  <String id="GENRE_FIGHTING" text="格闘" />
+  <String id="GENRE_PLATFORM" text="キャラクター アクション" />
+  <String id="GENRE_PUZZLE" text="パズル" />
+  <String id="GENRE_SHOOTER" text="シューティング" />
+  <String id="GENRE_SPORT" text="スポーツ" />
+  <String id="GENRE_STRATEGY" text="戦略" />
+  <String id="GOLF" text="Golf ™" />
+  <String id="GOLF_COPYRIGHT" text="© 1980 by Atari Interactive, Inc." />
+  <String id="GRADIUS" text="[Ja:GRADIUS]" />
+  <String id="GRADIUS_COPYRIGHT" text="[Ja:GRADIUS_COPYRIGHT]" />
+  <String id="GRANDPRIX" text="Grand Prix" />
+  <String id="GRANDPRIX_COPYRIGHT" text="© 1982 Activision Publishing, Inc." />
+  <String id="GRAVITAR" text="Gravitar" />
+  <String id="GRAVITAR_COPYRIGHT" text="© 1982 by Atari Interactive, Inc." />
+  <String id="GRAVITARHV" text="Gravitar ® (2600)" />
+  <String id="GRAVITARHV_COPYRIGHT" text="© 1983 by Atari Interactive, Inc. " />
+  <String id="GREENBERET" text="[Ja:GREENBERET]" />
+  <String id="GREENBERET_COPYRIGHT" text="[Ja:GREENBERET_COPYRIGHT]" />
+  <String id="GYRUSS" text="Gyruss " />
+  <String id="GYRUSS_COPYRIGHT" text="© 1983 Konami Digital Entertainment " />
+  <String id="HARDHAT" text="Hard Hat" />
+  <String id="HARDHAT_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="HAUNTEDHOUSE" text="Haunted House" />
+  <String id="HAUNTEDHOUSE_COPYRIGHT" text="© 1981 by Atari Interactive, Inc." />
+  <String id="HERO" text="H.E.R.O. ™" />
+  <String id="HERO_COPYRIGHT" text="© 1984 Activision Publishing, Inc." />
+  <String id="HOCKEY" text="Hockey" />
+  <String id="HOCKEY_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="HORSERACING" text="Horse Racing" />
+  <String id="HORSERACING_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="HOVERFORCE" text="Hover Force " />
+  <String id="HOVERFORCE_COPYRIGHT" text="© Intellivision Productions, Inc. " />
+  <String id="HUMANCANNONBALL" text="Human Cannonball ™" />
+  <String id="HUMANCANNONBALL_COPYRIGHT" text="© 1978 by Atari Interactive, Inc." />
+  <String id="HUSTLER" text="Video Hustler" />
+  <String id="HUSTLER_COPYRIGHT" text="© 1981 Konami Digital Entertainment" />
+  <String id="HYPERCRASH" text="Hyper Crash ™" />
+  <String id="HYPERCRASH_COPYRIGHT" text="© 1987 Konami Digital Entertainment" />
+  <String id="ICEHOCKEY" text="Ice Hockey ™" />
+  <String id="ICEHOCKEY_COPYRIGHT" text="© 1981 Activision Publishing, Inc. " />
+  <String id="Intellivision" text="Intellivision" />
+  <String id="IRONHORSE" text="Iron Horse ™" />
+  <String id="IRONHORSE_COPYRIGHT" text="© 1986 Konami Digital Entertainment" />
+  <String id="JACKAL" text="Jackal ™" />
+  <String id="JACKAL_COPYRIGHT" text="© 1986 Konami Digital Entertainment" />
+  <String id="JAILBREAK" text="Jail Break " />
+  <String id="JAILBREAK_COPYRIGHT" text="© 1985 Konami Digital Entertainment" />
+  <String id="JOUST" text="Joust" />
+  <String id="JOUST_COPYRIGHT" text="© 1982 Midway" />
+  <String id="JUNGLER" text="Jungler" />
+  <String id="JUNGLER_COPYRIGHT" text="© 1981 Konami Digital Entertainment" />
+  <String id="JUNOFIRST" text="Juno First" />
+  <String id="JUNOFIRST_COPYRIGHT" text="© 1983 Konami Digital Entertainment" />
+  <String id="KABOBBER" text="Kabobber ™" />
+  <String id="KABOBBER_COPYRIGHT" text="© 1983 Activision Publishing, Inc." />
+  <String id="KABOOM" text="Kaboom! ™" />
+  <String id="KABOOM_COPYRIGHT" text="© 1981 Activision Publishing, Inc." />
+  <String id="KEYSTONEKAPERS" text="Keystone Kapers ™" />
+  <String id="KEYSTONEKAPERS_COPYRIGHT" text="© 1982 Activision Publishing, Inc." />
+  <String id="KITTENKABOODLE" text="Kitten Kaboodle ™" />
+  <String id="KITTENKABOODLE_COPYRIGHT" text="© 1988 Konami Digital Entertainment" />
+  <String id="KONAMI" text="コナミ" />
+  <String id="KONAMIBUNDLE001" text="Konami-Go!" />
+  <String id="KONAMIBUNDLE002" text="Konami Tower of ROM!" />
+  <String id="KONAMIGT" text="Konami GT ™" />
+  <String id="KONAMIGT_COPYRIGHT" text="© 1985 Konami Digital Entertainment" />
+  <String id="LASERBLAST" text="Laser Blast ™" />
+  <String id="LASERBLAST_COPYRIGHT" text="© 1981 Activision Publishing, Inc." />
+  <String id="LIBERATOR" text="Liberator" />
+  <String id="LIBERATOR_COPYRIGHT" text="© 1982 by Atari Interactive, Inc." />
+  <String id="LIFEFORCE" text="[Ja:LIFEFORCE]" />
+  <String id="LIFEFORCE_COPYRIGHT" text="[Ja:LIFEFORCE_COPYRIGHT]" />
+  <String id="LUNARLANDER" text="Lunar Lander" />
+  <String id="LUNARLANDER_COPYRIGHT" text="© 1979 by Atari Interactive, Inc." />
+  <String id="MAJORHAVOC" text="Major Havoc" />
+  <String id="MAJORHAVOC_COPYRIGHT" text="© 1983 by Atari Interactive, Inc." />
+  <String id="MAZECRAZE" text="Maze Craze" />
+  <String id="MAZECRAZE_COPYRIGHT" text="© 1980 by Atari Interactive, Inc." />
+  <String id="MEGAMANIA" text="Megamania ™" />
+  <String id="MEGAMANIA_COPYRIGHT" text="© 1982 Activision Publishing, Inc." />
+  <String id="MEGAZONE" text="Mega Zone" />
+  <String id="MEGAZONE_COPYRIGHT" text="© 1983 Konami Digital Entertainment" />
+  <String id="MIA" text="Missing In Action ™" />
+  <String id="MIA_COPYRIGHT" text="© 1989 Konami Digital Entertainment" />
+  <String id="MIDWAY" text="[Ja:MIDWAY]" />
+  <String id="MIKIE" text="[Ja:MIKIE]" />
+  <String id="MIKIE_COPYRIGHT" text="[Ja:MIKIE_COPYRIGHT]" />
+  <String id="MILLIPEDE" text="Millipede" />
+  <String id="MILLIPEDE_COPYRIGHT" text="© 1982 by Atari Interactive, Inc." />
+  <String id="MILLIPEDEHV" text="Millipede (2600)" />
+  <String id="MILLIPEDEHV_COPYRIGHT" text="© 1984 by Atari Interactive, Inc." />
+  <String id="MINIATUREGOLF" text="Miniature Golf ™" />
+  <String id="MINIATUREGOLF_COPYRIGHT" text="© 1979 by Atari Interactive, Inc." />
+  <String id="MISSILECOMMAND" text="Missile Command" />
+  <String id="MISSILECOMMAND_COPYRIGHT" text="© 1980 by Atari Interactive, Inc." />
+  <String id="MISSILECOMMANDHV" text="Missile Command® (2600)" />
+  <String id="MISSILECOMMANDHV_COPYRIGHT" text="© 1980 by Atari Interactive, Inc." />
+  <String id="MOTOCROSS" text="Motocross" />
+  <String id="MOTOCROSS_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="MRKABUKI" text="Mr. Goemon" />
+  <String id="MRKABUKI_COPYRIGHT" text="© 1986 Konami Digital Entertainment" />
+  <String id="NEMESIS" text="[Ja:NEMESIS]" />
+  <String id="NEMESIS_COPYRIGHT" text="[Ja:NEMESIS_COPYRIGHT]" />
+  <String id="NIGHTDRIVER" text="Night Driver" />
+  <String id="NIGHTDRIVER_COPYRIGHT" text="© 1980 by Atari Interactive, Inc." />
+  <String id="NIGHTSTALKER" text="Night Stalker" />
+  <String id="NIGHTSTALKER_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="OFFTHEWALL" text="Off The Wall ™" />
+  <String id="OFFTHEWALL_COPYRIGHT" text="© 1989 by Atari Interactive, Inc." />
+  <String id="OINK!" text="Oink! ™" />
+  <String id="OINK!_COPYRIGHT" text="© 1982 Activision Publishing, Inc." />
+  <String id="OLDJOUST" text="OLDJOUST" />
+  <String id="OLDJOUST_COPYRIGHT" text="[Ja:OLDJOUST_COPYRIGHT]" />
+  <String id="OUTLAW" text="Outlaw" />
+  <String id="OUTLAW_COPYRIGHT" text="© 1978 by Atari Interactive, Inc." />
+  <String id="PINBALL" text="Pinball" />
+  <String id="PINBALL_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="PINGPONG" text="Konami's Ping Pong" />
+  <String id="PINGPONG_COPYRIGHT" text="© 1985 Konami Digital Entertainment" />
+  <String id="PITFALL" text="Pitfall! ®" />
+  <String id="PITFALL_COPYRIGHT" text="© 1982 Activision Publishing, Inc." />
+  <String id="PITFALLII" text="Pitfall II®: Lost Caverns" />
+  <String id="PITFALLII_COPYRIGHT" text="© 1984 Activision Publishing, Inc." />
+  <String id="PLAQUEATTACK" text="Plaque Attack ™" />
+  <String id="PLAQUEATTACK_COPYRIGHT" text="© 1983 Activision Publishing, Inc." />
+  <String id="POOYAN" text="Pooyan ™" />
+  <String id="POOYAN_COPYRIGHT" text="© 1982 Konami Digital Entertainment" />
+  <String id="PRESSURECOOKER" text="Pressure Cooker ™" />
+  <String id="PRESSURECOOKER_COPYRIGHT" text="© 1983 Activision Publishing, Inc." />
+  <String id="PRIVATEEYE" text="Private Eye ™" />
+  <String id="PRIVATEEYE_COPYRIGHT" text="© 1983 Activision Publishing, Inc." />
+  <String id="QUADRUN" text="Quadrun " />
+  <String id="QUADRUN_COPYRIGHT" text="© 1983 by Atari Interactive, Inc. " />
+  <String id="RACKEMUP" text="Rack 'Em Up" />
+  <String id="RACKEMUP_COPYRIGHT" text="© 1987 Konami Digital Entertainment" />
+  <String id="RADARLOCK" text="Radar Lock" />
+  <String id="RADARLOCK_COPYRIGHT" text="© 1989 by Atari Interactive, Inc." />
+  <String id="REDBARON" text="Red Baron" />
+  <String id="REDBARON_COPYRIGHT" text="© 1980 by Atari Interactive, Inc." />
+  <String id="REVERSI" text="Reversi" />
+  <String id="REVERSI_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="RIVERRAID" text="River Raid ™" />
+  <String id="RIVERRAID2" text="River Raid ® II" />
+  <String id="RIVERRAID2_COPYRIGHT" text="© 1988 Activision Publishing, Inc." />
+  <String id="RIVERRAID_COPYRIGHT" text="© 1982 Activision Publishing, Inc." />
+  <String id="ROADFIGHTER" text="Road Fighter" />
+  <String id="ROADFIGHTER_COPYRIGHT" text="© 1984 Konami Digital Entertainment" />
+  <String id="ROBOTRON" text="Robotron: 2084" />
+  <String id="ROBOTRON_COPYRIGHT" text="© 1982 Midway" />
+  <String id="ROCKNRAGE" text="[Ja:ROCKNRAGE]" />
+  <String id="ROCKNRAGE_COPYRIGHT" text="[Ja:ROCKNRAGE_COPYRIGHT]" />
+  <String id="ROCKNROPE" text="[Ja:ROCKNROPE]" />
+  <String id="ROCKNROPE_COPYRIGHT" text="[Ja:ROCKNROPE_COPYRIGHT]" />
+  <String id="RSBASEBALL" text="RealSports® Baseball" />
+  <String id="RSBASEBALL_COPYRIGHT" text="© 1982 by Atari Interactive, Inc." />
+  <String id="RSTENNIS" text="RealSports Tennis" />
+  <String id="RSTENNIS_COPYRIGHT" text="© 1983 by Atari Interactive, Inc." />
+  <String id="RSVOLLEYBALL" text="RealSports Volleyball" />
+  <String id="RSVOLLEYBALL_COPYRIGHT" text="© 1982 by Atari Interactive, Inc." />
+  <String id="RUSHNATTACK" text="[Ja:RUSHNATTACK]" />
+  <String id="RUSHNATTACK_COPYRIGHT" text="[Ja:RUSHNATTACK_COPYRIGHT]" />
+  <String id="SALAMANDER" text="Salamander" />
+  <String id="SALAMANDER_COPYRIGHT" text="© 1986 Konami Digital Entertainment" />
+  <String id="SCOOTERSHOOTER" text="Scooter Shooter" />
+  <String id="SCOOTERSHOOTER_COPYRIGHT" text="© 1985 Konami Digital Entertainment" />
+  <String id="SCRAMBLE" text="Scramble" />
+  <String id="SCRAMBLE_COPYRIGHT" text="© 1981 Konami Digital Entertainment" />
+  <String id="SEABATTLE" text="Sea Battle" />
+  <String id="SEABATTLE_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="SEAQUEST" text="Seaquest ™" />
+  <String id="SEAQUEST_COPYRIGHT" text="© 1983 Activision Publishing, Inc. " />
+  <String id="SHAOLINSROAD" text="Shao-lin's Road" />
+  <String id="SHAOLINSROAD_COPYRIGHT" text="© 1985 Konami Digital Entertainment" />
+  <String id="SHARK!SHARK!" text="Shark! Shark!" />
+  <String id="SHARK!SHARK!_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="SHARPSHOT" text="Sharp Shot" />
+  <String id="SHARPSHOT_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="SINISTAR" text="Sinistar" />
+  <String id="SINISTAR_COPYRIGHT" text="© 1982 Midway" />
+  <String id="SKIING" text="Skiing™" />
+  <String id="SKIING_COPYRIGHT" text="© 1980 Activision Publishing, Inc." />
+  <String id="SKIINGINTELLIVISION" text="Skiing (INTV)" />
+  <String id="SKIINGINTELLIVISION_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="SKYDIVER" text="Sky Diver" />
+  <String id="SKYDIVER_COPYRIGHT" text="© 1979 by Atari Interactive, Inc." />
+  <String id="SKYJINKS" text="Sky Jinks ™" />
+  <String id="SKYJINKS_COPYRIGHT" text="© 1982 Activision Publishing, Inc." />
+  <String id="SLAMDUNKBASKETBALL" text="Slam Dunk Basketball" />
+  <String id="SLAMDUNKBASKETBALL_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="SLAPSHOTHOCKEY" text="Slap Shot Hockey" />
+  <String id="SLAPSHOTHOCKEY_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="SNAFU" text="Snafu " />
+  <String id="SNAFU_COPYRIGHT" text="© Intellivision Productions, Inc. " />
+  <String id="SOCCER" text="Soccer" />
+  <String id="SOCCER_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="SPACEARMADA" text="Space Armada" />
+  <String id="SPACEARMADA_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="SPACEBATTLE" text="Space Battle" />
+  <String id="SPACEBATTLE_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="SPACECADET" text="Space Cadet" />
+  <String id="SPACECADET_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="SPACEDUEL" text="Space Duel" />
+  <String id="SPACEDUEL_COPYRIGHT" text="© 1982 by Atari Interactive, Inc." />
+  <String id="SPACEHAWK" text="Space Hawk" />
+  <String id="SPACEHAWK_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="SPACEWAR" text="Space War ™" />
+  <String id="SPACEWAR_COPYRIGHT" text="© 1978 by Atari Interactive, Inc." />
+  <String id="SPIDERFIGHTER" text="Spider Fighter ™" />
+  <String id="SPIDERFIGHTER_COPYRIGHT" text="© 1982 Activision Publishing, Inc." />
+  <String id="SPLAT" text="Splat!" />
+  <String id="SPLAT_COPYRIGHT" text="© 1982 Midway" />
+  <String id="SPRINTMASTER" text="Sprint Master ™" />
+  <String id="SPRINTMASTER_COPYRIGHT" text="© 1988 by Atari Interactive, Inc." />
+  <String id="STAMPEDE" text="Stampede ™" />
+  <String id="STAMPEDE_COPYRIGHT" text="© 1981 Activision Publishing, Inc." />
+  <String id="STARMASTER" text="StarMaster ™" />
+  <String id="STARMASTER_COPYRIGHT" text="© 1982 Activision Publishing, Inc." />
+  <String id="STARRAIDERS" text="Star Raiders" />
+  <String id="STARRAIDERS_COPYRIGHT" text="© 1982 by Atari Interactive, Inc." />
+  <String id="STARSHIP" text="Star Ship ™" />
+  <String id="STARSHIP_COPYRIGHT" text="© 1977 by Atari Interactive, Inc." />
+  <String id="STARSTRIKE" text="Star Strike" />
+  <String id="STARSTRIKE_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="STRATEGYX" text="Strategy X" />
+  <String id="STRATEGYX_COPYRIGHT" text="© 1981 Konami Digital Entertainment" />
+  <String id="STREETRACER" text="Street Racer" />
+  <String id="STREETRACER_COPYRIGHT" text="© 1977 by Atari Interactive, Inc." />
+  <String id="SUBHUNT" text="Sub Hunt" />
+  <String id="SUBHUNT_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="SUBMARINECOMMANDER" text="Submarine Commander" />
+  <String id="SUBMARINECOMMANDER_COPYRIGHT" text="© 1982 by Atari Interactive, Inc." />
+  <String id="SUPERBASKETBALL" text="Super Basketball" />
+  <String id="SUPERBASKETBALL_COPYRIGHT" text="© 1984 Konami Digital Entertainment" />
+  <String id="SUPERBREAKOUT" text="Super Breakout" />
+  <String id="SUPERBREAKOUT_COPYRIGHT" text="© 1978 by Atari Interactive, Inc." />
+  <String id="SUPERBREAKOUTHV" text="Super Breakout® (2600)" />
+  <String id="SUPERBREAKOUTHV_COPYRIGHT" text="© 1981 by Atari Interactive, Inc." />
+  <String id="SUPERCOBRA" text="Super Cobra" />
+  <String id="SUPERCOBRA_COPYRIGHT" text="© 1981 Konami Digital Entertainment" />
+  <String id="SUPERFOOTBALL" text="Super Football ™" />
+  <String id="SUPERFOOTBALL_COPYRIGHT" text="© 1988 by Atari Interactive, Inc." />
+  <String id="SUPERPROSKIING" text="Mountain Madness" />
+  <String id="SUPERPROSKIING_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="SURROUND" text="Surround ™" />
+  <String id="SURROUND_COPYRIGHT" text="© 1977 by Atari Interactive, Inc." />
+  <String id="TEMPEST" text="Tempest" />
+  <String id="TEMPEST_COPYRIGHT" text="© 1980 by Atari Interactive, Inc." />
+  <String id="TENNIS" text="Tennis" />
+  <String id="TENNIS_COPYRIGHT" text="© 1981 Activision Publishing, Inc." />
+  <String id="TENNISITV" text="Tennis (INTV)" />
+  <String id="TENNISITV_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="THEMAINEVENT" text="The Main Event ™" />
+  <String id="THEMAINEVENT_COPYRIGHT" text="© 1988 Konami Digital Entertainment" />
+  <String id="THINICE" text="Thin Ice" />
+  <String id="THINICE_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="THUNDERCASTLE" text="Thunder Castle" />
+  <String id="THUNDERCASTLE_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="THWOCKER" text="Thwocker ™" />
+  <String id="THWOCKER_COPYRIGHT" text="© 1984 Activision Publishing, Inc." />
+  <String id="TIMEPILOT" text="Time Pilot" />
+  <String id="TIMEPILOT_COPYRIGHT" text="© 1982 Konami Digital Entertainment" />
+  <String id="TOWEROFDOOM" text="Tower of Doom " />
+  <String id="TOWEROFDOOM_COPYRIGHT" text="© Intellivision Productions, Inc. " />
+  <String id="TRICKTRAP" text="Trick Trap - 1771 ™" />
+  <String id="TRICKTRAP_COPYRIGHT" text="© 1987 Konami Digital Entertainment" />
+  <String id="TRIPLEACTION" text="Triple Action" />
+  <String id="TRIPLEACTION_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="TUTANKHAM" text="Tutankham" />
+  <String id="TUTANKHAM_COPYRIGHT" text="© 1982 Konami Digital Entertainment" />
+  <String id="TWINBEE" text="TwinBee ™" />
+  <String id="TWINBEE_COPYRIGHT" text="© 1985 Konami Digital Entertainment" />
+  <String id="UTOPIA" text="Utopia" />
+  <String id="UTOPIA_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="VECTRON" text="Vectron" />
+  <String id="VECTRON_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="VENETIANBLINDS" text="Venetian Blinds" />
+  <String id="VENETIANBLINDS_COPYRIGHT" text="© 1982 by Atari Interactive, Inc" />
+  <String id="VIDEOCHESS" text="Video Chess" />
+  <String id="VIDEOCHESS_COPYRIGHT" text="© 1979 by Atari Interactive, Inc." />
+  <String id="VIDEOPINBALL" text="Video Pinball" />
+  <String id="VIDEOPINBALL_COPYRIGHT" text="© 1981 by Atari Interactive, Inc." />
+  <String id="VOLLEYBALL" text="Spiker! Volleyball" />
+  <String id="VOLLEYBALL_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="WARLORDS" text="Warlords" />
+  <String id="WARLORDS_COPYRIGHT" text="© 1980 by Atari Interactive, Inc." />
+  <String id="WARLORDSHV" text="Warlords ™ (2600)" />
+  <String id="WARLORDSHV_COPYRIGHT" text="© 1981 by Atari Interactive, Inc." />
+  <String id="WRESTLING" text="Body Slam! Wrestling" />
+  <String id="WRESTLING_COPYRIGHT" text="© Intellivision Productions, Inc." />
+  <String id="YARSREVENGE" text="Yars' Revenge" />
+  <String id="YARSREVENGE_COPYRIGHT" text="© 1981 by Atari Interactive, Inc." />
+  <String id="YIEARKUNGFU" text="Yie Ar Kung-Fu" />
+  <String id="YIEARKUNGFU_COPYRIGHT" text="© 1985 Konami Digital Entertainment" />
+  <String id="STRING_REQUIRES_GAMEPACK" text="%gamepack% が必要"/>
+</LocaleXml>
