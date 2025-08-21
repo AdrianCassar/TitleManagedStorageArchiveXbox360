@@ -1,0 +1,9 @@
+TitleID: 4E4D0864
+Version: 0.0.1.3
+
+PathName[0]: //title.4e4d0864/t:4e4d0864/regulation_ww_102.bin - Size: 91600 (0x165D0) bytes - Created: 15/01/2014 - 09:00:20 - Modified: 15/01/2014 - 09:00:20
+
+PathName[1]: //title.4e4d0864/t:4e4d0864/regulation_ww_101.bin - Size: 91600 (0x165D0) bytes - Created: 18/10/2013 - 08:00:15 - Modified: 15/01/2014 - 09:00:17
+
+PathName[2]: //title.4e4d0864/t:4e4d0864/regulation_ww_100.bin - Size: 91600 (0x165D0) bytes - Created: 18/10/2013 - 08:00:11 - Modified: 15/01/2014 - 09:00:14
+

@@ -1,0 +1,54 @@
+<GlobalTickerAlerts>
+  <Version> 
+    <versionNumber major="1" minor="2"/>
+  </Version>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_GAMEPACK_RELEASED%" string="Spielepaket 7 ist jetzt im Laden erhältlich!" platform="gfw,x360"/>
+  </ServerAlert>
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_GAMEPACK_RELEASED%" string="Spielepaket 7 ist jetzt erhältlich! Mit neuen Spielen, Maskottchen und einem kostenlosen Design! Worauf wartest du noch?" platform="gfw,x360"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_GAME%" string="Heb mit dem Spielhallenklassiker Gyruss ab, der jetzt im Spielepaket 7 erhältlich ist." platform="x360"/>
+  </ServerAlert>
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_GAME%" string="Sorg auf den Straßen für Sicherheit! Jail Break ist jetzt im Spielepaket 7 erhältlich!"/>
+  </ServerAlert>
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_GAME%" string="Kannst du beim Activision Decathlon mithalten? Lade jetzt Spielepaket 7 herunter, um es herauszufinden!"/>
+  </ServerAlert>
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_GAME%" string="Kämpfe in Yie Ar Kung-Fu gegen 11 Kung-Fu-Meister! Jetzt im Spielepaket 7 erhältlich!"/>
+  </ServerAlert>
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_GAME%" string="Seaquest! - bald schon in Spielepaket 8!"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_SHOWCASE_ARCADE%" string="Besuch die Präsentations-Spielhalle für eine Vorschau auf die neuesten Spiele!"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_MASCOT%" string="Neue Maskottchen in jedem Spielepaket!"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_THEME%" string="Ahoi, ihr Landratten! Das Piratendesign findet ihr in Spielepaket 7!"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_GAMEPACK_COMING_SOON%" string="In Kürze erhältlich: Spielepaket 8 ..."/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_GAMEPACK_SPECIAL_OFFER%" string="Kaufe ein Spiel am ersten Tag, an dem es erhältich ist, für ein Gratis-Maskottchen!"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_SHOWCASE_ARCADE_GAME%" string="Neue Spiele, jetzt in der Präsentations-Spielhalle! Nichts wie hin!"/>
+  </ServerAlert>
+
+
+</GlobalTickerAlerts>

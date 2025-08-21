@@ -1,0 +1,5 @@
+TitleID: 5345082A
+Version: 0.0.3.1
+
+PathName[0]: //title.5345082a/t:5345082a/Online.cfgBE - Size: 2424 (0x978) bytes - Created: 06/07/2010 - 16:00:53 - Modified: 06/07/2010 - 16:00:53
+

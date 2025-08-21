@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<globalcontentlist date="8/Nov/2010 16:57:35" >
+  <machines>
+    <machine name="COMBAT" pack="GamePack001" lmbi="5" playonce="1" mfr="ATARI" genre="GENRE_ACTION" year="1978" emu="Atari2600" minPlayers="2" ranked="0" />
+    <machine name="CRYSTALCASTLES" pack="GamePack001" lmbi="2" playonce="1" mfr="ATARI" genre="GENRE_ACTION" year="1983" />
+    <machine name="ASTEROIDSDELUXE" pack="GamePack001" lmbi="1" playonce="1" mfr="ATARI" genre="GENRE_SHOOTER" year="1980" />
+    <machine name="TUTANKHAM" pack="GamePack001" lmbi="11" playonce="2" mfr="KONAMI" genre="GENRE_ACTION" year="1982" />
+    <machine name="REDBARON" pack="GamePack001" lmbi="4" playonce="1" mfr="ATARI" genre="GENRE_SHOOTER" year="1980" maxPlayers="1" />
+    <machine name="ASTROSMASH" pack="GamePack001" lmbi="13" playonce="3" mfr="Intellivision" genre="GENRE_SHOOTER" year="1981" emu="Intellivision" maxPlayers="1" itvButtons="123" />
+    <machine name="SPACEARMADA" pack="GamePack001" lmbi="12" playonce="3" mfr="Intellivision" genre="GENRE_ACTION" year="1981" emu="Intellivision" maxPlayers="1" itvButtons="12CE" />
+    <machine name="FINALIZER" pack="GamePack001" lmbi="10" playonce="2" mfr="KONAMI" genre="GENRE_ACTION" year="1985" />
+    <machine name="YARSREVENGE" pack="GamePack001" lmbi="7" playonce="1" mfr="ATARI" genre="GENRE_SHOOTER" year="1981" emu="Atari2600" />
+    <machine name="SEABATTLE" pack="GamePack001" lmbi="15" playonce="3" mfr="Intellivision" genre="GENRE_ACTION" year="1980" emu="Intellivision" minPlayers="2" ranked="0" itvButtons="123456789C0E" />
+    <machine name="LUNARLANDER" pack="GamePack001" lmbi="3" playonce="1" mfr="ATARI" genre="GENRE_ACTION" year="1979" maxPlayers="1" />
+    <machine name="BATTLANTIS" pack="GamePack001" lmbi="8" playonce="2" mfr="KONAMI" genre="GENRE_SHOOTER" year="1987" />
+    <machine name="SCRAMBLE" pack="GamePack001" lmbi="9" playonce="2" mfr="KONAMI" genre="GENRE_SHOOTER" year="1981" />
+    <machine name="OUTLAW" pack="GamePack001" lmbi="6" playonce="1" mfr="ATARI" genre="GENRE_ACTION" year="1978" emu="Atari2600" ranked="0" />
+    <machine name="ARMORBATTLE" pack="GamePack001" lmbi="14" playonce="3" mfr="Intellivision" genre="GENRE_ACTION" year="1979" emu="Intellivision" minPlayers="2" ranked="0" itvButtons="1238" />
+    <machine name="JUNGLER" pack="GamePack002" lmbi="11" playonce="2" mfr="KONAMI" genre="GENRE_ACTION" year="1981" />
+    <machine name="ADVENTURE" pack="GamePack002" lmbi="4" playonce="1" mfr="ATARI" genre="GENRE_ACTION" year="1980" emu="Atari2600" ranked="0" maxPlayers="1" />
+    <machine name="SUPERCOBRA" pack="GamePack002" lmbi="8" playonce="2" mfr="KONAMI" genre="GENRE_ACTION" year="1981" />
+    <machine name="GRAVITAR" pack="GamePack002" lmbi="2" playonce="1" mfr="ATARI" genre="GENRE_ACTION" year="1982" />
+    <machine name="FOOTBALL" pack="GamePack002" lmbi="15" playonce="3" mfr="Intellivision" genre="GENRE_SPORT" year="1980" emu="Intellivision" minPlayers="2" ranked="0" itvButtons="123456789CE" />
+    <machine name="TEMPEST" pack="GamePack002" lmbi="3" playonce="1" mfr="ATARI" genre="GENRE_SHOOTER" year="1980" />
+    <machine name="CENTIPEDE" pack="GamePack002" lmbi="1" playonce="1" mfr="ATARI" genre="GENRE_SHOOTER" year="1980" />
+    <machine name="SHAOLINSROAD" pack="GamePack002" lmbi="10" playonce="2" mfr="KONAMI" genre="GENRE_FIGHTING" year="1985" />
+    <machine name="SUBHUNT" pack="GamePack002" lmbi="14" playonce="3" mfr="Intellivision" genre="GENRE_ACTION" year="1982" emu="Intellivision" ranked="0" maxPlayers="1" itvButtons="123456789C0E" />
+    <machine name="ROADFIGHTER" pack="GamePack002" lmbi="9" playonce="2" mfr="KONAMI" genre="GENRE_ACTION" year="1984" />
+    <machine name="SUPERPROSKIING" pack="GamePack002" lmbi="13" playonce="3" mfr="Intellivision" genre="GENRE_SPORT" year="1988" emu="Intellivision" ranked="0" maxPlayers="6" itvButtons="123456789C0E" />
+    <machine name="MILLIPEDEHV" pack="GamePack002" lmbi="5" playonce="1" mfr="ATARI" genre="GENRE_SHOOTER" year="1984" emu="Atari2600" maxPlayers="1" />
+    <machine name="STARRAIDERS" pack="GamePack002" lmbi="7" playonce="1" mfr="ATARI" genre="GENRE_ACTION" year="1982" emu="Atari2600" ranked="0" maxPlayers="1" />
+    <machine name="RSTENNIS" pack="GamePack002" lmbi="6" playonce="1" mfr="ATARI" genre="GENRE_SPORT" year="1983" emu="Atari2600" ranked="0" />
+    <machine name="SPACEHAWK" pack="GamePack002" lmbi="12" playonce="3" mfr="Intellivision" genre="GENRE_ACTION" year="1982" emu="Intellivision" maxPlayers="1" itvButtons="1245789C" />
+    <machine name="KEYSTONEKAPERS" pack="GamePack003" lmbi="4" playonce="4" mfr="ACTIVISION" genre="GENRE_PLATFORM" year="1983" emu="Atari2600" maxPlayers="1" />
+    <machine name="RACKEMUP" pack="GamePack003" lmbi="10" playonce="2" mfr="KONAMI" genre="GENRE_SPORT" year="1987" />
+    <machine name="PITFALL" pack="GamePack003" lmbi="11" playonce="4" mfr="ACTIVISION" genre="GENRE_PLATFORM" year="1982" emu="Atari2600" maxPlayers="1" />
+    <machine name="CANYONBOMBER" pack="GamePack003" lmbi="2" playonce="1" mfr="ATARI" genre="GENRE_SHOOTER" year="1979" emu="Atari2600" ranked="0" />
+    <machine name="RSVOLLEYBALL" pack="GamePack003" lmbi="12" playonce="1" mfr="ATARI" genre="GENRE_SPORT" year="1982" emu="Atari2600" ranked="0" />
+    <machine name="MEGAZONE" pack="GamePack003" lmbi="5" playonce="2" mfr="KONAMI" genre="GENRE_ACTION" year="1983" />
+    <machine name="NIGHTDRIVER" pack="GamePack003" lmbi="8" playonce="1" mfr="ATARI" genre="GENRE_ACTION" year="1980" emu="Atari2600" ranked="0" maxPlayers="1" />
+    <machine name="SOCCER" pack="GamePack003" lmbi="14" playonce="3" mfr="Intellivision" genre="GENRE_SPORT" year="1980" emu="Intellivision" minPlayers="2" ranked="0" itvButtons="123" />
+    <machine name="BATTLEZONE" pack="GamePack003" lmbi="3" playonce="1" mfr="ATARI" genre="GENRE_SHOOTER" year="1980" maxPlayers="1" />
+    <machine name="BASKETBALLITV" pack="GamePack003" lmbi="1" playonce="3" mfr="Intellivision" genre="GENRE_SPORT" year="1980" emu="Intellivision" minPlayers="2" ranked="0" itvButtons="123456789C0E" />
+    <machine name="OINK!" pack="GamePack003" lmbi="9" playonce="4" mfr="ACTIVISION" genre="GENRE_ACTION" year="1983" emu="Atari2600" />
+    <machine name="NIGHTSTALKER" pack="GamePack003" lmbi="7" playonce="3" mfr="Intellivision" genre="GENRE_SHOOTER" year="1982" emu="Intellivision" maxPlayers="1" itvButtons="1234680" />
+    <machine name="SUPERBREAKOUT" pack="GamePack003" lmbi="13" playonce="1" mfr="ATARI" genre="GENRE_ACTION" year="1978" />
+    <machine name="MEGAMANIA" pack="GamePack003" lmbi="6" playonce="4" mfr="ACTIVISION" genre="GENRE_SHOOTER" year="1982" emu="Atari2600" />
+    <machine name="HAUNTEDHOUSE" pack="GamePack004" lmbi="5" playonce="1" mfr="ATARI" genre="GENRE_PUZZLE" year="1981" emu="Atari2600" ranked="0" maxPlayers="1" />
+    <machine name="GRANDPRIX" pack="GamePack004" lmbi="4" playonce="4" mfr="ACTIVISION" genre="GENRE_SPORT" year="1982" emu="Atari2600" ranked="0" maxPlayers="1" />
+    <machine name="ASTEROIDS" pack="GamePack004" lmbi="6" playonce="1" mfr="ATARI" genre="GENRE_SHOOTER" year="1979" />
+    <machine name="BUZZBOMBERS" pack="GamePack004" lmbi="2" playonce="3" mfr="Intellivision" genre="GENRE_SHOOTER" year="1983" emu="Intellivision" maxPlayers="1" itvButtons="123456789C0E" />
+    <machine name="DEMONSTODIAMONDS" pack="GamePack004" lmbi="3" playonce="1" mfr="ATARI" genre="GENRE_ACTION" year="1982" emu="Atari2600" />
+    <machine name="SPIDERFIGHTER" pack="GamePack004" lmbi="11" playonce="4" mfr="ACTIVISION" genre="GENRE_SHOOTER" year="1982" emu="Atari2600" maxPlayers="1" />
+    <machine name="SPACEDUEL" pack="GamePack004" lmbi="8" playonce="1" mfr="ATARI" genre="GENRE_SHOOTER" year="1982" />
+    <machine name="RIVERRAID" pack="GamePack004" lmbi="9" playonce="4" mfr="ACTIVISION" genre="GENRE_SHOOTER" year="1982" emu="Atari2600" />
+    <machine name="STAMPEDE" pack="GamePack004" lmbi="12" playonce="4" mfr="ACTIVISION" genre="GENRE_ACTION" year="1981" emu="Atari2600" maxPlayers="1" />
+    <machine name="SHARK!SHARK!" pack="GamePack004" lmbi="10" playonce="3" mfr="Intellivision" genre="GENRE_ACTION" year="1982" emu="Intellivision" itvButtons="123CE" />
+    <machine name="BOXING" pack="GamePack004" lmbi="1" playonce="3" mfr="Intellivision" genre="GENRE_SPORT" year="1981" emu="Intellivision" minPlayers="2" ranked="0" itvButtons="123456789C0E" />
+    <machine name="MILLIPEDE" pack="GamePack004" lmbi="7" playonce="1" mfr="ATARI" genre="GENRE_SHOOTER" year="1982" />
+    <machine name="STRATEGYX" pack="GamePack004" lmbi="13" playonce="2" mfr="KONAMI" genre="GENRE_SHOOTER" year="1981" />
+    <machine name="TIMEPILOT" pack="GamePack004" lmbi="14" playonce="2" mfr="KONAMI" genre="GENRE_SHOOTER" year="1982" />
+    <machine name="RIVERRAID2" pack="GamePack005" lmbi="11" playonce="4" mfr="ACTIVISION" genre="GENRE_SHOOTER" year="1988" emu="Atari2600" />
+    <machine name="HUSTLER" pack="GamePack005" lmbi="14" playonce="2" mfr="KONAMI" genre="GENRE_SPORT" year="1981" />
+    <machine name="CHOPPERCOMMAND" pack="GamePack005" lmbi="3" playonce="4" mfr="ACTIVISION" genre="GENRE_SHOOTER" year="1982" emu="Atari2600" />
+    <machine name="PINGPONG" pack="GamePack005" lmbi="6" playonce="2" mfr="KONAMI" genre="GENRE_SPORT" year="1985" />
+    <machine name="AIRSEABATTLE" pack="GamePack005" lmbi="1" playonce="1" mfr="ATARI" genre="GENRE_SHOOTER" year="1978" emu="Atari2600" ranked="0" />
+    <machine name="LIBERATOR" pack="GamePack005" lmbi="7" playonce="1" mfr="ATARI" genre="GENRE_SHOOTER" year="1982" />
+    <machine name="MRKABUKI" pack="GamePack005" lmbi="10" playonce="2" mfr="KONAMI" genre="GENRE_FIGHTING" year="1986" />
+    <machine name="VIDEOPINBALL" pack="GamePack005" lmbi="15" playonce="1" mfr="ATARI" genre="GENRE_ACTION" year="1981" emu="Atari2600" />
+    <machine name="FROGBOG" pack="GamePack005" lmbi="5" playonce="3" mfr="Intellivision" genre="GENRE_ACTION" year="1982" emu="Intellivision" ranked="0" itvButtons="13C0E" />
+    <machine name="SKIING" pack="GamePack005" lmbi="12" playonce="4" mfr="ACTIVISION" genre="GENRE_SPORT" year="1980" emu="Atari2600" ranked="0" maxPlayers="1" />
+    <machine name="CIRCUSATARI" pack="GamePack005" lmbi="4" playonce="1" mfr="ATARI" genre="GENRE_ACTION" year="1980" emu="Atari2600" />
+    <machine name="MOTOCROSS" pack="GamePack005" lmbi="9" playonce="3" mfr="Intellivision" genre="GENRE_SPORT" year="1983" emu="Intellivision" ranked="0" itvButtons="12345CE" />
+    <machine name="MISSILECOMMAND" pack="GamePack005" lmbi="8" playonce="1" mfr="ATARI" genre="GENRE_SHOOTER" year="1980" />
+    <machine name="BASEBALL" pack="GamePack005" lmbi="2" playonce="3" mfr="Intellivision" genre="GENRE_SPORT" year="1980" emu="Intellivision" minPlayers="2" ranked="0" itvButtons="123457890" />
+    <machine name="SKYJINKS" pack="GamePack005" lmbi="13" playonce="4" mfr="ACTIVISION" genre="GENRE_ACTION" year="1982" emu="Atari2600" ranked="0" maxPlayers="1" />
+    <machine name="CASINO" pack="GamePack006" lmbi="2" playonce="1" mfr="ATARI" genre="GENRE_BOARDGAME" year="1979" emu="Atari2600" ranked="0" maxPlayers="4" />
+    <machine name="STARSTRIKE" pack="GamePack006" lmbi="10" playonce="3" mfr="Intellivision" genre="GENRE_SHOOTER" year="1982" emu="Intellivision" maxPlayers="1" itvButtons="12345" />
+    <machine name="CRACKPOTS" pack="GamePack006" lmbi="15" playonce="4" mfr="ACTIVISION" genre="GENRE_ACTION" year="1983" emu="Atari2600" />
+    <machine name="TRIPLEACTION" pack="GamePack006" lmbi="12" playonce="3" mfr="Intellivision" genre="GENRE_ACTION" year="1981" emu="Intellivision" minPlayers="2" ranked="0" itvButtons="1234CE" />
+    <machine name="STARMASTER" pack="GamePack006" lmbi="11" playonce="4" mfr="ACTIVISION" genre="GENRE_SHOOTER" year="1978" emu="Atari2600" ranked="0" maxPlayers="1" />
+    <machine name="MAJORHAVOC" pack="GamePack006" lmbi="7" playonce="1" mfr="ATARI" genre="GENRE_ACTION" year="1983" />
+    <machine name="JUNOFIRST" pack="GamePack006" lmbi="4" playonce="2" mfr="KONAMI" genre="GENRE_SHOOTER" year="1983" />
+    <machine name="SCOOTERSHOOTER" pack="GamePack006" lmbi="8" playonce="2" mfr="KONAMI" genre="GENRE_SHOOTER" year="1985" />
+    <machine name="WARLORDS" pack="GamePack006" lmbi="14" playonce="1" mfr="ATARI" genre="GENRE_ACTION" year="1980" maxPlayers="4" />
+    <machine name="BLACKWIDOW" pack="GamePack006" lmbi="1" playonce="1" mfr="ATARI" genre="GENRE_SHOOTER" year="1982" />
+    <machine name="SKYDIVER" pack="GamePack006" lmbi="9" playonce="1" mfr="ATARI" genre="GENRE_ACTION" year="1979" emu="Atari2600" minPlayers="2" ranked="0" />
+    <machine name="HERO" pack="GamePack006" lmbi="3" playonce="4" mfr="ACTIVISION" genre="GENRE_SHOOTER" year="1984" emu="Atari2600" maxPlayers="1" />
+    <machine name="LASERBLAST" pack="GamePack006" lmbi="6" playonce="4" mfr="ACTIVISION" genre="GENRE_SHOOTER" year="1981" emu="Atari2600" maxPlayers="1" />
+    <machine name="UTOPIA" pack="GamePack006" lmbi="13" playonce="3" mfr="Intellivision" genre="GENRE_STRATEGY" year="1981" emu="Intellivision" ranked="0" itvButtons="123456789C0E" />
+    <machine name="KABOOM" pack="GamePack006" lmbi="5" playonce="4" mfr="ACTIVISION" genre="GENRE_ACTION" year="1981" emu="Atari2600" />
+    <machine name="AUTORACING" pack="GamePack007" lmbi="3" playonce="3" mfr="Intellivision" genre="GENRE_SPORT" year="1980" emu="Intellivision" ranked="0" itvButtons="12345E" />
+    <machine name="JAILBREAK" pack="GamePack007" lmbi="12" playonce="2" mfr="KONAMI" genre="GENRE_ACTION" year="1985" />
+    <machine name="BARNSTORMING" pack="GamePack007" lmbi="4" playonce="4" mfr="ACTIVISION" genre="GENRE_ACTION" year="1982" emu="Atari2600" ranked="0" maxPlayers="1" />
+    <machine name="TOWEROFDOOM" pack="GamePack007" lmbi="15" playonce="3" mfr="Intellivision" genre="GENRE_ACTION" year="1987" emu="Intellivision" maxPlayers="1" />
+    <machine name="ENDURO" pack="GamePack007" lmbi="6" playonce="4" mfr="ACTIVISION" genre="GENRE_SPORT" year="1983" emu="Atari2600" ranked="0" maxPlayers="1" />
+    <machine name="DECATHLON" pack="GamePack007" lmbi="5" playonce="4" mfr="ACTIVISION" genre="GENRE_SPORT" year="1983" emu="Atari2600" maxPlayers="4" />
+    <machine name="HOVERFORCE" pack="GamePack007" lmbi="9" playonce="3" mfr="Intellivision" genre="GENRE_SHOOTER" year="1986" emu="Intellivision" maxPlayers="1" itvButtons="123C0E" />
+    <machine name="GYRUSS" pack="GamePack007" lmbi="8" playonce="2" mfr="KONAMI" genre="GENRE_SHOOTER" year="1983" />
+    <machine name="FISHINGDERBY" pack="GamePack007" lmbi="1" playonce="4" mfr="ACTIVISION" genre="GENRE_SPORT" year="1980" emu="Atari2600" ranked="0" />
+    <machine name="ASTEROIDSHV" pack="GamePack007" lmbi="2" playonce="1" mfr="ATARI" genre="GENRE_SHOOTER" year="1981" emu="Atari2600" />
+    <machine name="ICEHOCKEY" pack="GamePack007" lmbi="10" playonce="4" mfr="ACTIVISION" genre="GENRE_SPORT" year="1981" emu="Atari2600" ranked="0" toggleButtons="11" />
+    <machine name="QUADRUN" pack="GamePack007" lmbi="14" playonce="1" mfr="ATARI" genre="GENRE_SHOOTER" year="1983" emu="Atari2600" maxPlayers="1" />
+    <machine name="YIEARKUNGFU" pack="GamePack007" lmbi="11" playonce="2" mfr="KONAMI" genre="GENRE_FIGHTING" year="1985" />
+    <machine name="FROSTBITE" pack="GamePack007" lmbi="13" playonce="4" mfr="ACTIVISION" genre="GENRE_ACTION" year="1983" emu="Atari2600" />
+    <machine name="GRAVITARHV" pack="GamePack007" lmbi="7" playonce="1" mfr="ATARI" genre="GENRE_SHOOTER" year="1983" emu="Atari2600" maxPlayers="1" />
+    <machine name="CENTIPEDEHV" pack="GamePack008" lmbi="3" playonce="1" mfr="ATARI" genre="GENRE_SHOOTER" year="1982" emu="Atari2600" maxPlayers="1" />
+    <machine name="DECATHLONITV" pack="GamePack008" lmbi="4" playonce="3" mfr="Intellivision" genre="GENRE_SPORT" year="1988" emu="Intellivision" maxPlayers="4" itvButtons="1234CE" />
+    <machine name="DODGEEM" pack="GamePack008" lmbi="6" playonce="1" mfr="ATARI" genre="GENRE_ACTION" year="1980" emu="Atari2600" />
+    <machine name="BEAMRIDER" pack="GamePack008" lmbi="1" playonce="4" mfr="ACTIVISION" genre="GENRE_SHOOTER" year="1983" emu="Atari2600" maxPlayers="1" />
+    <machine name="COSMICCOMMUTER" pack="GamePack008" lmbi="5" playonce="4" mfr="ACTIVISION" genre="GENRE_ACTION" year="1985" emu="Atari2600" maxPlayers="1" />
+    <machine name="SEAQUEST" pack="GamePack008" lmbi="13" playonce="4" mfr="ACTIVISION" genre="GENRE_ACTION" year="1983" emu="Atari2600" />
+    <machine name="CHIPSHOTGOLF" pack="GamePack008" lmbi="9" playonce="3" mfr="Intellivision" genre="GENRE_SPORT" year="1987" emu="Intellivision" ranked="0" itvButtons="12C0E" />
+    <machine name="SNAFU" pack="GamePack008" lmbi="14" playonce="3" mfr="Intellivision" genre="GENRE_PUZZLE" year="1981" emu="Intellivision" ranked="0" />
+    <machine name="MAZECRAZE" pack="GamePack008" lmbi="11" playonce="4" mfr="ATARI" genre="GENRE_ACTION" year="1980" emu="Atari2600" ranked="0" />
+    <machine name="HOCKEY" pack="GamePack008" lmbi="10" playonce="3" mfr="Intellivision" genre="GENRE_SPORT" year="1980" emu="Intellivision" minPlayers="2" ranked="0" itvButtons="123E" />
+    <machine name="THINICE" pack="GamePack008" lmbi="15" playonce="3" mfr="Intellivision" genre="GENRE_ACTION" year="1986" emu="Intellivision" itvButtons="12CE" />
+    <machine name="DRAGSTER" pack="GamePack008" lmbi="8" playonce="4" mfr="ACTIVISION" genre="GENRE_SPORT" year="1980" emu="Atari2600" ranked="0" />
+    <machine name="3DTICTACTOE" pack="GamePack008" lmbi="2" playonce="1" mfr="ATARI" genre="GENRE_PUZZLE" year="1980" emu="Atari2600" ranked="0" toggleButtons="11" />
+    <machine name="FREEWAY" pack="GamePack008" lmbi="12" playonce="4" mfr="ACTIVISION" genre="GENRE_ACTION" year="1981" emu="Atari2600" ranked="0" />
+    <machine name="DOLPHIN" pack="GamePack008" lmbi="7" playonce="4" mfr="ACTIVISION" genre="GENRE_ACTION" year="1983" emu="Atari2600" />
+    <machine name="FLAKATTACK" pack="GamePack009" lmbi="1" playonce="2" mfr="KONAMI" genre="GENRE_SHOOTER" year="1987" />
+    <machine name="KITTENKABOODLE" pack="GamePack009" lmbi="2" playonce="2" mfr="KONAMI" genre="GENRE_PUZZLE" year="1988" />
+    <machine name="CONCENTRATION" pack="GamePack009" lmbi="3" playonce="1" mfr="ATARI" genre="GENRE_PUZZLE" year="1978" emu="Atari2600" ranked="0" />
+    <machine name="SUPERBASKETBALL" pack="GamePack009" lmbi="4" playonce="2" mfr="KONAMI" genre="GENRE_SPORT" year="1984" />
+    <machine name="BRIDGE" pack="GamePack009" lmbi="5" playonce="4" mfr="ACTIVISION" genre="GENRE_BOARDGAME" year="1981" emu="Atari2600" ranked="0" />
+    <machine name="CHECKERS" pack="GamePack009" lmbi="6" playonce="4" mfr="ACTIVISION" genre="GENRE_BOARDGAME" year="1980" emu="Atari2600" ranked="0" />
+    <machine name="SUPERBREAKOUTHV" pack="GamePack009" lmbi="7" playonce="1" mfr="ATARI" genre="GENRE_ACTION" year="1981" emu="Atari2600" />
+    <machine name="BOXING2600" pack="GamePack009" lmbi="8" playonce="4" mfr="ACTIVISION" genre="GENRE_SPORT" year="1980" emu="Atari2600" ranked="0" />
+    <machine name="HARDHAT" pack="GamePack009" lmbi="9" playonce="3" mfr="Intellivision" genre="GENRE_ACTION" year="1982" emu="Intellivision" minPlayers="2" ranked="0" />
+    <machine name="TENNIS" pack="GamePack009" lmbi="10" playonce="4" mfr="ACTIVISION" genre="GENRE_SPORT" year="1981" emu="Atari2600" ranked="0" />
+    <machine name="PINBALL" pack="GamePack009" lmbi="11" playonce="3" mfr="Intellivision" genre="GENRE_ACTION" year="1983" emu="Intellivision" />
+    <machine name="VIDEOCHESS" pack="GamePack009" lmbi="12" playonce="1" mfr="ATARI" genre="GENRE_BOARDGAME" year="1979" emu="Atari2600" ranked="0" maxPlayers="1" toggleButtons="01" />
+    <machine name="CITYBOMBER" pack="GamePack009" lmbi="13" playonce="2" mfr="KONAMI" genre="GENRE_SHOOTER" year="1987" />
+    <machine name="THUNDERCASTLE" pack="GamePack009" lmbi="14" playonce="3" mfr="Intellivision" genre="GENRE_ACTION" year="1982" emu="Intellivision" />
+    <machine name="REVERSI" pack="GamePack009" lmbi="15" playonce="3" mfr="Intellivision" genre="GENRE_BOARDGAME" year="1981" emu="Intellivision" ranked="0" itvButtons="123456789" />
+    <machine name="PLAQUEATTACK" pack="GamePack010" lmbi="1" playonce="4" mfr="ACTIVISION" genre="GENRE_SHOOTER" year="1983" emu="Atari2600" ranked="1" maxPlayers="2" />
+    <machine name="PRIVATEEYE" pack="GamePack010" lmbi="2" playonce="4" mfr="ACTIVISION" genre="GENRE_ACTION" year="1984" emu="Atari2600" ranked="0" maxPlayers="1" />
+    <machine name="SUBMARINECOMMANDER" pack="GamePack010" lmbi="3" playonce="1" mfr="ATARI" genre="GENRE_SHOOTER" year="1982" emu="Atari2600" />
+    <machine name="BOWLING" pack="GamePack010" lmbi="4" playonce="1" mfr="ATARI" genre="GENRE_SPORT" year="1979" emu="Atari2600" ranked="0" />
+    <machine name="STREETRACER" pack="GamePack010" lmbi="5" playonce="1" mfr="ATARI" genre="GENRE_ACTION" year="1977" emu="Atari2600" ranked="0" maxPlayers="4" />
+    <machine name="RADARLOCK" pack="GamePack010" lmbi="6" playonce="1" mfr="ATARI" genre="GENRE_SHOOTER" year="1989" emu="Atari2600" />
+    <machine name="MISSILECOMMANDHV" pack="GamePack010" lmbi="7" playonce="1" mfr="ATARI" genre="GENRE_SHOOTER" year="1980" emu="Atari2600" />
+    <machine name="HORSERACING" pack="GamePack010" lmbi="8" playonce="3" mfr="Intellivision" genre="GENRE_SPORT" year="1980" emu="Intellivision" ranked="0" />
+    <machine name="DEEPPOCKETBILLIARDS" pack="GamePack010" lmbi="9" playonce="3" mfr="Intellivision" genre="GENRE_SPORT" year="1990" emu="Intellivision" ranked="0" />
+    <machine name="SHARPSHOT" pack="GamePack010" lmbi="10" playonce="3" mfr="Intellivision" genre="GENRE_ACTION" year="1982" emu="Intellivision" ranked="0" />
+    <machine name="WRESTLING" pack="GamePack010" lmbi="11" playonce="3" mfr="Intellivision" genre="GENRE_SPORT" year="1988" emu="Intellivision" ranked="0" />
+    <machine name="PRESSURECOOKER" pack="GamePack010" lmbi="12" playonce="4" mfr="ACTIVISION" genre="GENRE_PUZZLE" year="1983" emu="Atari2600" ranked="1" maxPlayers="2" />
+    <machine name="GALACTICWARRIORS" pack="GamePack010" lmbi="13" playonce="2" mfr="KONAMI" genre="GENRE_FIGHTING" year="1985" />
+    <machine name="HYPERCRASH" pack="GamePack010" lmbi="14" playonce="2" mfr="KONAMI" genre="GENRE_ACTION" year="1987" maxPlayers="1" />
+    <machine name="KONAMIGT" pack="GamePack010" lmbi="15" playonce="2" mfr="KONAMI" genre="GENRE_SPORT" year="1985" maxPlayers="1" />
+    <machine name="BREAKOUTHV" pack="GamePack011" lmbi="1" playonce="1" mfr="ATARI" genre="GENRE_ACTION" year="1978" emu="Atari2600" maxPlayers="4" />
+    <machine name="DOUBLEDUNK" pack="GamePack011" lmbi="2" playonce="1" mfr="ATARI" genre="GENRE_SPORT" year="1989" emu="Atari2600" ranked="0" />
+    <machine name="GOLF" pack="GamePack011" lmbi="3" playonce="1" mfr="ATARI" genre="GENRE_SPORT" year="1980" emu="Atari2600" ranked="0" />
+    <machine name="HUMANCANNONBALL" pack="GamePack011" lmbi="4" playonce="1" mfr="ATARI" genre="GENRE_ACTION" year="1978" emu="Atari2600" ranked="0" />
+    <machine name="JACKAL" pack="GamePack011" lmbi="5" playonce="2" mfr="KONAMI" genre="GENRE_SHOOTER" year="1986" />
+    <machine name="KABOBBER" pack="GamePack011" lmbi="6" playonce="4" mfr="ACTIVISION" genre="GENRE_ACTION" year="1983" emu="Atari2600" />
+    <machine name="MINIATUREGOLF" pack="GamePack011" lmbi="7" playonce="1" mfr="ATARI" genre="GENRE_SPORT" year="1979" emu="Atari2600" ranked="0" />
+    <machine name="SKIINGINTELLIVISION" pack="GamePack011" lmbi="8" playonce="3" mfr="Intellivision" genre="GENRE_SPORT" year="1980" emu="Intellivision" maxPlayers="6" ranked="0" />
+    <machine name="SLAPSHOTHOCKEY" pack="GamePack011" lmbi="9" playonce="3" mfr="Intellivision" genre="GENRE_SPORT" year="1987" emu="Intellivision" ranked="0" />
+    <machine name="SPACEBATTLE" pack="GamePack011" lmbi="10" playonce="3" mfr="Intellivision" genre="GENRE_ACTION" year="1979" emu="Intellivision" ranked="0" />
+    <machine name="SPACECADET" pack="GamePack011" lmbi="11" playonce="3" mfr="Intellivision" genre="GENRE_ACTION" year="1984" emu="Intellivision" minPlayers="2" ranked="0" />
+    <machine name="SPACEWAR" pack="GamePack011" lmbi="12" playonce="1" mfr="ATARI" genre="GENRE_SHOOTER" year="1978" emu="Atari2600" ranked="0" />
+    <machine name="SPRINTMASTER" pack="GamePack011" lmbi="13" playonce="1" mfr="ATARI" genre="GENRE_SPORT" year="1988" emu="Atari2600" ranked="0" />
+    <machine name="SUPERFOOTBALL" pack="GamePack011" lmbi="14" playonce="1" mfr="ATARI" genre="GENRE_SPORT" year="1988" emu="Atari2600" ranked="0" />
+    <machine name="AMIDAR" pack="GamePack012" lmbi="1" playonce="2" mfr="KONAMI" genre="GENRE_ACTION" year="1981" />
+    <machine name="BLADESOFSTEEL" pack="GamePack012" lmbi="2" playonce="2" mfr="KONAMI" genre="GENRE_SPORT" year="1987" ranked="0" />
+    <machine name="DETANA" pack="GamePack012" lmbi="3" playonce="2" mfr="KONAMI" genre="GENRE_SHOOTER" year="1991" />
+    <machine name="FOODFIGHT" pack="GamePack012" lmbi="4" playonce="1" mfr="ATARI" genre="GENRE_ACTION" year="1983" />
+    <machine name="MIA" pack="GamePack012" lmbi="5" playonce="2" mfr="KONAMI" genre="GENRE_ACTION" year="1989" />
+    <machine name="OFFTHEWALL" pack="GamePack012" lmbi="6" playonce="1" mfr="ATARI" genre="GENRE_ACTION" year="1989" emu="Atari2600" />
+    <machine name="PITFALLII" pack="GamePack012" lmbi="7" playonce="4" mfr="ACTIVISION" genre="GENRE_PLATFORM" year="1984" emu="Atari2600" maxPlayers="1" ranked="0" />
+    <machine name="POOYAN" pack="GamePack012" lmbi="8" playonce="2" mfr="KONAMI" genre="GENRE_ACTION" year="1982" />
+    <machine name="THWOCKER" pack="GamePack012" lmbi="10" playonce="4" mfr="ACTIVISION" genre="GENRE_ACTION" year="1984" emu="Atari2600" maxPlayers="1" ranked="0" />
+    <machine name="TRICKTRAP" pack="GamePack012" lmbi="11" playonce="2" mfr="KONAMI" genre="GENRE_SHOOTER" year="1987" />
+    <machine name="TWINBEE" pack="GamePack012" lmbi="12" playonce="2" mfr="KONAMI" genre="GENRE_SHOOTER" year="1985" />
+    <machine name="VECTRON" pack="GamePack012" lmbi="13" playonce="3" mfr="Intellivision" genre="GENRE_ACTION" year="1982" emu="Intellivision" />
+    <machine name="VOLLEYBALL" pack="GamePack012" lmbi="14" playonce="3" mfr="Intellivision" genre="GENRE_SPORT" year="1989" emu="Intellivision" ranked="0" />
+    <machine name="WARLORDSHV" pack="GamePack012" lmbi="15" playonce="1" mfr="ATARI" genre="GENRE_ACTION" year="1981" emu="Atari2600" maxPlayers="4" ranked="0" />
+    <machine name="CODEBREAKER" pack="GamePack013" lmbi="1" playonce="1" mfr="ATARI" genre="GENRE_PUZZLE" year="1978" emu="Atari2600" ranked="0" />
+    <machine name="DESERTFALCON" pack="GamePack013" lmbi="2" playonce="1" mfr="ATARI" genre="GENRE_ACTION" year="1987" emu="Atari2600" />
+    <machine name="DEVASTATORS" pack="GamePack013" lmbi="3" playonce="2" mfr="KONAMI" genre="GENRE_SHOOTER" year="1988" />
+    <machine name="FOOTBALL2600" pack="GamePack013" lmbi="4" playonce="1" mfr="ATARI" genre="GENRE_SPORT" year="1978" emu="Atari2600" minPlayers="2" ranked="0" />
+    <machine name="IRONHORSE" pack="GamePack013" lmbi="5" playonce="2" mfr="KONAMI" genre="GENRE_ACTION" year="1986" />
+    <machine name="RSBASEBALL" pack="GamePack013" lmbi="6" playonce="1" mfr="ATARI" genre="GENRE_SPORT" year="1982" emu="Atari2600" ranked="0" />
+    <machine name="SLAMDUNKBASKETBALL" pack="GamePack013" lmbi="7" playonce="3" mfr="Intellivision" genre="GENRE_SPORT" year="1987" emu="Intellivision" ranked="0" />
+    <machine name="STARSHIP" pack="GamePack013" lmbi="8" playonce="1" mfr="ATARI" genre="GENRE_SHOOTER" year="1977" emu="Atari2600" ranked="0" />
+    <machine name="SURROUND" pack="GamePack013" lmbi="9" playonce="1" mfr="ATARI" genre="GENRE_PUZZLE" year="1977" emu="Atari2600" ranked="0" />
+    <machine name="TENNISITV" pack="GamePack013" lmbi="10" playonce="3" mfr="Intellivision" genre="GENRE_SPORT" year="1980" emu="Intellivision" minPlayers="2" ranked="0" />
+    <machine name="THEMAINEVENT" pack="GamePack013" lmbi="11" playonce="2" mfr="KONAMI" genre="GENRE_SPORT" year="1988" maxPlayers="4" />
+    <machine name="VENETIANBLINDS" pack="GamePack013" lmbi="12" playonce="4" mfr="ACTIVISION" genre="GENRE_ACTION" year="1982" emu="Atari2600" maxPlayers="1" ranked="0" />
+  </machines>
+  <mascots>
+    <mascot name="mascot_seabattle" pack="GamePack001" lmbi="30" disp="SEABATTLE" />
+    <mascot name="mascot_yars" pack="GamePack001" lmbi="22" disp="YARSREVENGE" />
+    <mascot name="mascot_lunarlander" pack="GamePack001" lmbi="18" disp="LUNARLANDER" />
+    <mascot name="mascot_scramble" pack="GamePack001" lmbi="24" disp="SCRAMBLE" />
+    <mascot name="mascot_battlantis" pack="GamePack001" lmbi="23" disp="BATTLANTIS" />
+    <mascot name="mascot_armorbattle" pack="GamePack001" lmbi="29" disp="ARMORBATTLE" />
+    <mascot name="mascot_combat" pack="GamePack001" lmbi="20" disp="COMBAT" />
+    <mascot name="mascot_crystalcastles" pack="GamePack001" lmbi="17" disp="CRYSTALCASTLES" />
+    <mascot name="mascot_outlaw" pack="GamePack001" lmbi="21" disp="OUTLAW" />
+    <mascot name="mascot_tutankham" pack="GamePack001" lmbi="26" disp="TUTANKHAM" />
+    <mascot name="mascot_astrosmash" pack="GamePack001" lmbi="28" disp="ASTROSMASH" />
+    <mascot name="mascot_finalizer" pack="GamePack001" lmbi="25" disp="FINALIZER" />
+    <mascot name="mascot_redbaron" pack="GamePack001" lmbi="19" disp="REDBARON" />
+    <mascot name="mascot_spacearmada" pack="GamePack001" lmbi="27" disp="SPACEARMADA" />
+    <mascot name="mascot_asteroidsdeluxe" pack="GamePack001" lmbi="16" disp="ASTEROIDSDELUXE" />
+    <mascot name="mascot_superproskiing" pack="GamePack002" lmbi="28" disp="SUPERPROSKIING" />
+    <mascot name="mascot_rstennis" pack="GamePack002" lmbi="21" disp="RSTENNIS" />
+    <mascot name="mascot_jungler" pack="GamePack002" lmbi="26" disp="JUNGLER" />
+    <mascot name="mascot_roadfighter" pack="GamePack002" lmbi="24" disp="ROADFIGHTER" />
+    <mascot name="mascot_spacehawk" pack="GamePack002" lmbi="27" disp="SPACEHAWK" />
+    <mascot name="mascot_shaolinsroad" pack="GamePack002" lmbi="25" disp="SHAOLINSROAD" />
+    <mascot name="mascot_subhunt" pack="GamePack002" lmbi="29" disp="SUBHUNT" />
+    <mascot name="mascot_millipedehv" pack="GamePack002" lmbi="20" disp="MILLIPEDEHV" />
+    <mascot name="mascot_starraiders" pack="GamePack002" lmbi="22" disp="STARRAIDERS" />
+    <mascot name="mascot_tempest" pack="GamePack002" lmbi="18" disp="TEMPEST" />
+    <mascot name="mascot_cobra" pack="GamePack002" lmbi="23" disp="SUPERCOBRA" />
+    <mascot name="mascot_adventure" pack="GamePack002" lmbi="19" disp="ADVENTURE" />
+    <mascot name="mascot_centipede" pack="GamePack002" lmbi="16" disp="CENTIPEDE" />
+    <mascot name="mascot_gravitar" pack="GamePack002" lmbi="17" disp="GRAVITAR" />
+    <mascot name="mascot_football" pack="GamePack002" lmbi="30" disp="Football" />
+    <mascot name="mascot_soccer" pack="GamePack003" lmbi="28" disp="SOCCER" />
+    <mascot name="mascot_rsvolleyball" pack="GamePack003" lmbi="26" disp="RSVOLLEYBALL" />
+    <mascot name="mascot_canyonbomber" pack="GamePack003" lmbi="16" disp="CANYONBOMBER" />
+    <mascot name="mascot_pitfall" pack="GamePack003" lmbi="25" disp="PITFALL" />
+    <mascot name="mascot_megamania" pack="GamePack003" lmbi="20" disp="MEGAMANIA" />
+    <mascot name="mascot_basketball" pack="GamePack003" lmbi="15" disp="BASKETBALLITV" />
+    <mascot name="mascot_nightstalker" pack="GamePack003" lmbi="21" disp="NIGHTSTALKER" />
+    <mascot name="mascot_megazone" pack="GamePack003" lmbi="19" disp="MEGAZONE" />
+    <mascot name="mascot_oink!" pack="GamePack003" lmbi="23" disp="OINK!" />
+    <mascot name="mascot_keystonekapers" pack="GamePack003" lmbi="18" disp="KEYSTONEKAPERS" />
+    <mascot name="mascot_battlezone" pack="GamePack003" lmbi="17" disp="BATTLEZONE" />
+    <mascot name="mascot_rackemup" pack="GamePack003" lmbi="24" disp="RACKEMUP" />
+    <mascot name="mascot_nightdriver" pack="GamePack003" lmbi="22" disp="NIGHTDRIVER" />
+    <mascot name="mascot_superbreakout" pack="GamePack003" lmbi="27" disp="SUPERBREAKOUT" />
+    <mascot name="mascot_millipede" pack="GamePack004" lmbi="21" disp="MILLIPEDE" />
+    <mascot name="mascot_hauntedhouse" pack="GamePack004" lmbi="19" disp="HAUNTEDHOUSE" />
+    <mascot name="mascot_spiderfighter" pack="GamePack004" lmbi="25" disp="SPIDERFIGHTER" />
+    <mascot name="mascot_timepilot" pack="GamePack004" lmbi="28" disp="TIMEPILOT" />
+    <mascot name="mascot_shark!shark!" pack="GamePack004" lmbi="24" disp="SHARK!SHARK!" />
+    <mascot name="mascot_strategyx" pack="GamePack004" lmbi="27" disp="STRATEGYX" />
+    <mascot name="mascot_buzzbombers" pack="GamePack004" lmbi="16" disp="BUZZBOMBERS" />
+    <mascot name="mascot_asteroids" pack="GamePack004" lmbi="20" disp="ASTEROIDS" />
+    <mascot name="mascot_grandprix" pack="GamePack004" lmbi="18" disp="GRANDPRIX" />
+    <mascot name="mascot_stampede" pack="GamePack004" lmbi="26" disp="STAMPEDE" />
+    <mascot name="mascot_boxing" pack="GamePack004" lmbi="15" disp="BOXING" />
+    <mascot name="mascot_demonstodiamonds" pack="GamePack004" lmbi="17" disp="DEMONSTODIAMONDS" />
+    <mascot name="mascot_riverraid" pack="GamePack004" lmbi="23" disp="RIVERRAID" />
+    <mascot name="mascot_spaceduel" pack="GamePack004" lmbi="22" disp="SPACEDUEL" />
+    <mascot name="mascot_baseball" pack="GamePack005" lmbi="17" disp="BASEBALL" />
+    <mascot name="mascot_motocross" pack="GamePack005" lmbi="24" disp="MOTOCROSS" />
+    <mascot name="mascot_skiing" pack="GamePack005" lmbi="27" disp="SKIING" />
+    <mascot name="mascot_skyjinks" pack="GamePack005" lmbi="28" disp="SKYJINKS" />
+    <mascot name="mascot_circusatari" pack="GamePack005" lmbi="19" disp="CIRCUSATARI" />
+    <mascot name="mascot_frogbog" pack="GamePack005" lmbi="20" disp="FROGBOG" />
+    <mascot name="mascot_airseabattle" pack="GamePack005" lmbi="16" disp="AIRSEABATTLE" />
+    <mascot name="mascot_missilecommand" pack="GamePack005" lmbi="23" disp="MISSILECOMMAND" />
+    <mascot name="mascot_videopinball" pack="GamePack005" lmbi="30" disp="VIDEOPINBALL" />
+    <mascot name="mascot_hustler" pack="GamePack005" lmbi="29" disp="HUSTLER" />
+    <mascot name="mascot_pingpong" pack="GamePack005" lmbi="21" disp="PINGPONG" />
+    <mascot name="mascot_mrkabuki" pack="GamePack005" lmbi="25" disp="MRKABUKI" />
+    <mascot name="mascot_riverraid2" pack="GamePack005" lmbi="26" disp="RIVERRAID2" />
+    <mascot name="mascot_liberator" pack="GamePack005" lmbi="22" disp="LIBERATOR" />
+    <mascot name="mascot_choppercommand" pack="GamePack005" lmbi="18" disp="CHOPPERCOMMAND" />
+    <mascot name="mascot_laserblast" pack="GamePack006" lmbi="21" disp="LASERBLAST" />
+    <mascot name="mascot_tripleaction" pack="GamePack006" lmbi="27" disp="TRIPLEACTION" />
+    <mascot name="mascot_warlords" pack="GamePack006" lmbi="29" disp="WARLORDS" />
+    <mascot name="mascot_casino" pack="GamePack006" lmbi="17" disp="CASINO" />
+    <mascot name="mascot_skydiver" pack="GamePack006" lmbi="24" disp="SKYDIVER" />
+    <mascot name="mascot_blackwidow" pack="GamePack006" lmbi="16" disp="BLACKWIDOW" />
+    <mascot name="mascot_junofirst" pack="GamePack006" lmbi="19" disp="JUNOFIRST" />
+    <mascot name="mascot_kaboom" pack="GamePack006" lmbi="20" disp="KABOOM" />
+    <mascot name="mascot_crackpots" pack="GamePack006" lmbi="30" disp="CRACKPOTS" />
+    <mascot name="mascot_utopia" pack="GamePack006" lmbi="28" disp="UTOPIA" />
+    <mascot name="mascot_starstrike" pack="GamePack006" lmbi="25" disp="STARSTRIKE" />
+    <mascot name="mascot_majorhavoc" pack="GamePack006" lmbi="22" disp="MAJORHAVOC" />
+    <mascot name="mascot_starmaster" pack="GamePack006" lmbi="26" disp="STARMASTER" />
+    <mascot name="mascot_scootershooter" pack="GamePack006" lmbi="23" disp="SCOOTERSHOOTER" />
+    <mascot name="mascot_hero" pack="GamePack006" lmbi="18" disp="HERO" />
+    <mascot name="mascot_icehockey" pack="GamePack007" lmbi="25" disp="ICEHOCKEY" />
+    <mascot name="mascot_enduro" pack="GamePack007" lmbi="21" disp="ENDURO" />
+    <mascot name="mascot_asteroidshv" pack="GamePack007" lmbi="17" disp="ASTEROIDSHV" />
+    <mascot name="mascot_gravitarhv" pack="GamePack007" lmbi="22" disp="GRAVITARHV" />
+    <mascot name="mascot_barnstorming" pack="GamePack007" lmbi="19" disp="BARNSTORMING" />
+    <mascot name="mascot_yiearkungfu" pack="GamePack007" lmbi="26" disp="YIEARKUNGFU" />
+    <mascot name="mascot_frostbite" pack="GamePack007" lmbi="28" disp="FROSTBITE" />
+    <mascot name="mascot_hoverforce" pack="GamePack007" lmbi="24" disp="HOVERFORCE" />
+    <mascot name="mascot_quadrun" pack="GamePack007" lmbi="29" disp="QUADRUN" />
+    <mascot name="mascot_towerofdoom" pack="GamePack007" lmbi="30" disp="TOWEROFDOOM" />
+    <mascot name="mascot_jailbreak" pack="GamePack007" lmbi="27" disp="JAILBREAK" />
+    <mascot name="mascot_fishingderby" pack="GamePack007" lmbi="16" disp="FISHINGDERBY" />
+    <mascot name="mascot_decathlon" pack="GamePack007" lmbi="20" disp="DECATHLON" />
+    <mascot name="mascot_autoracing" pack="GamePack007" lmbi="18" disp="AUTORACING" />
+    <mascot name="mascot_gyruss" pack="GamePack007" lmbi="23" disp="GYRUSS" />
+    <mascot name="mascot_decathlonITV" pack="GamePack008" lmbi="19" disp="DECATHLONITV" />
+    <mascot name="mascot_dodgeem" pack="GamePack008" lmbi="21" disp="DODGEEM" />
+    <mascot name="mascot_3dtictactoe" pack="GamePack008" lmbi="17" disp="3DTICTACTOE" />
+    <mascot name="mascot_chipshotgolf" pack="GamePack008" lmbi="24" disp="CHIPSHOTGOLF" />
+    <mascot name="mascot_snafu" pack="GamePack008" lmbi="29" disp="SNAFU" />
+    <mascot name="mascot_dragster" pack="GamePack008" lmbi="23" disp="DRAGSTER" />
+    <mascot name="mascot_beamrider" pack="GamePack008" lmbi="16" disp="BEAMRIDER" />
+    <mascot name="mascot_seaquest" pack="GamePack008" lmbi="28" disp="SEAQUEST" />
+    <mascot name="mascot_centipedeHV" pack="GamePack008" lmbi="18" disp="CENTIPEDEHV" />
+    <mascot name="mascot_thinice" pack="GamePack008" lmbi="30" disp="THINICE" />
+    <mascot name="mascot_mazecraze" pack="GamePack008" lmbi="26" disp="MAZECRAZE" />
+    <mascot name="mascot_dolphin" pack="GamePack008" lmbi="22" disp="DOLPHIN" />
+    <mascot name="mascot_freeway" pack="GamePack008" lmbi="27" disp="FREEWAY" />
+    <mascot name="mascot_cosmiccommuter" pack="GamePack008" lmbi="20" disp="COSMICCOMMUTER" />
+    <mascot name="mascot_hockey" pack="GamePack008" lmbi="25" disp="HOCKEY" />
+    <mascot name="mascot_flakattack" pack="GamePack009" lmbi="16" disp="FLAKATTACK" />
+    <mascot name="mascot_kittenkaboodle" pack="GamePack009" lmbi="17" disp="KITTENKABOODLE" />
+    <mascot name="mascot_concentration" pack="GamePack009" lmbi="18" disp="CONCENTRATION" />
+    <mascot name="mascot_superbasketball" pack="GamePack009" lmbi="19" disp="SUPERBASKETBALL" />
+    <mascot name="mascot_bridge" pack="GamePack009" lmbi="20" disp="BRIDGE" />
+    <mascot name="mascot_checkers" pack="GamePack009" lmbi="21" disp="CHECKERS" />
+    <mascot name="mascot_superbreakoutHV" pack="GamePack009" lmbi="22" disp="SUPERBREAKOUTHV" />
+    <mascot name="mascot_boxing2600" pack="GamePack009" lmbi="23" disp="BOXING2600" />
+    <mascot name="mascot_hardhat" pack="GamePack009" lmbi="24" disp="HARDHAT" />
+    <mascot name="mascot_tennis" pack="GamePack009" lmbi="25" disp="TENNIS" />
+    <mascot name="mascot_pinball" pack="GamePack009" lmbi="26" disp="PINBALL" />
+    <mascot name="mascot_videochess" pack="GamePack009" lmbi="27" disp="VIDEOCHESS" />
+    <mascot name="mascot_citybomber" pack="GamePack009" lmbi="28" disp="CITYBOMBER" />
+    <mascot name="mascot_thundercastle" pack="GamePack009" lmbi="29" disp="THUNDERCASTLE" />
+    <mascot name="mascot_reversi" pack="GamePack009" lmbi="30" disp="REVERSI" />
+    <mascot name="mascot_plaqueattack" pack="GamePack010" lmbi="16" disp="PLAQUEATTACK" />
+    <mascot name="mascot_privateeye" pack="GamePack010" lmbi="17" disp="PRIVATEEYE" />
+    <mascot name="mascot_submarinecommander" pack="GamePack010" lmbi="18" disp="SUBMARINECOMMANDER" />
+    <mascot name="mascot_bowling" pack="GamePack010" lmbi="19" disp="BOWLING" />
+    <mascot name="mascot_streetracer" pack="GamePack010" lmbi="20" disp="STREETRACER" />
+    <mascot name="mascot_radarlock" pack="GamePack010" lmbi="21" disp="RADARLOCK" />
+    <mascot name="mascot_missilecommandHV" pack="GamePack010" lmbi="22" disp="MISSILECOMMANDHV" />
+    <mascot name="mascot_horseracing" pack="GamePack010" lmbi="23" disp="HORSERACING" />
+    <mascot name="mascot_deeppocketbilliards" pack="GamePack010" lmbi="24" disp="DEEPPOCKETBILLIARDS" />
+    <mascot name="mascot_sharpshot" pack="GamePack010" lmbi="25" disp="SHARPSHOT" />
+    <mascot name="mascot_wrestling" pack="GamePack010" lmbi="26" disp="WRESTLING" />
+    <mascot name="mascot_pressurecooker" pack="GamePack010" lmbi="27" disp="PRESSURECOOKER" />
+    <mascot name="mascot_galacticwarriors" pack="GamePack010" lmbi="28" disp="GALACTICWARRIORS" />
+    <mascot name="mascot_hypercrash" pack="GamePack010" lmbi="29" disp="HYPERCRASH" />
+    <mascot name="mascot_konamiGT" pack="GamePack010" lmbi="30" disp="KONAMIGT" />
+    <mascot name="mascot_breakoutHV" pack="GamePack011" lmbi="15" disp="BREAKOUTHV" />
+    <mascot name="mascot_doubledunk" pack="GamePack011" lmbi="16" disp="DOUBLEDUNK" />
+    <mascot name="mascot_golf" pack="GamePack011" lmbi="17" disp="GOLF" />
+    <mascot name="mascot_humancannonball" pack="GamePack011" lmbi="18" disp="HUMANCANNONBALL" />
+    <mascot name="mascot_jackal" pack="GamePack011" lmbi="19" disp="JACKAL" />
+    <mascot name="mascot_kabobber" pack="GamePack011" lmbi="20" disp="KABOBBER" />
+    <mascot name="mascot_miniaturegolf" pack="GamePack011" lmbi="21" disp="MINIATUREGOLF" />
+    <mascot name="mascot_skiingintellivision" pack="GamePack011" lmbi="22" disp="SKIINGINTELLIVISION" />
+    <mascot name="mascot_slapshothockey" pack="GamePack011" lmbi="23" disp="SLAPSHOTHOCKEY" />
+    <mascot name="mascot_spacebattle" pack="GamePack011" lmbi="24" disp="SPACEBATTLE" />
+    <mascot name="mascot_spacecadet" pack="GamePack011" lmbi="25" disp="SPACECADET" />
+    <mascot name="mascot_spacewar" pack="GamePack011" lmbi="26" disp="SPACEWAR" />
+    <mascot name="mascot_sprintmaster" pack="GamePack011" lmbi="27" disp="SPRINTMASTER" />
+    <mascot name="mascot_superfootball" pack="GamePack011" lmbi="28" disp="SUPERFOOTBALL" />
+    <mascot name="mascot_amidar" pack="GamePack012" lmbi="16" disp="AMIDAR" />
+    <mascot name="mascot_bladesofsteel" pack="GamePack012" lmbi="17" disp="BLADESOFSTEEL" />
+    <mascot name="mascot_DETANA" pack="GamePack012" lmbi="18" disp="DETANA" />
+    <mascot name="mascot_foodfight" pack="GamePack012" lmbi="19" disp="FOODFIGHT" />
+    <mascot name="mascot_MIA" pack="GamePack012" lmbi="20" disp="MIA" />
+    <mascot name="mascot_offthewall" pack="GamePack012" lmbi="21" disp="OFFTHEWALL" />
+    <mascot name="mascot_pitfallII" pack="GamePack012" lmbi="22" disp="PITFALLII" />
+    <mascot name="mascot_pooyan" pack="GamePack012" lmbi="23" disp="POOYAN" />
+    <mascot name="mascot_thwocker" pack="GamePack012" lmbi="25" disp="THWOCKER" />
+    <mascot name="mascot_tricktrap" pack="GamePack012" lmbi="26" disp="TRICKTRAP" />
+    <mascot name="mascot_twinbee" pack="GamePack012" lmbi="27" disp="TWINBEE" />
+    <mascot name="mascot_vectron" pack="GamePack012" lmbi="28" disp="VECTRON" />
+    <mascot name="mascot_volleyball" pack="GamePack012" lmbi="29" disp="VOLLEYBALL" />
+    <mascot name="mascot_warlordsHV" pack="GamePack012" lmbi="30" disp="WARLORDSHV" />
+    <mascot name="mascot_codebreaker" pack="GamePack013" lmbi="13" disp="CODEBREAKER" />
+    <mascot name="mascot_desertfalcon" pack="GamePack013" lmbi="14" disp="DESERTFALCON" />
+    <mascot name="mascot_devastators" pack="GamePack013" lmbi="15" disp="DEVASTATORS" />
+    <mascot name="mascot_football2600" pack="GamePack013" lmbi="16" disp="FOOTBALL2600" />
+    <mascot name="mascot_ironhorse" pack="GamePack013" lmbi="17" disp="IRONHORSE" />
+    <mascot name="mascot_rsbaseball" pack="GamePack013" lmbi="18" disp="RSBASEBALL" />
+    <mascot name="mascot_slamdunkbasketball" pack="GamePack013" lmbi="19" disp="SLAMDUNKBASKETBALL" />
+    <mascot name="mascot_starship" pack="GamePack013" lmbi="20" disp="STARSHIP" />
+    <mascot name="mascot_surround" pack="GamePack013" lmbi="21" disp="SURROUND" />
+    <mascot name="mascot_tennisITV" pack="GamePack013" lmbi="22" disp="TENNISITV" />
+    <mascot name="mascot_themainevent" pack="GamePack013" lmbi="23" disp="THEMAINEVENT" />
+    <mascot name="mascot_venetianblinds" pack="GamePack013" lmbi="24" disp="VENETIANBLINDS" />
+  </mascots>
+</globalcontentlist>

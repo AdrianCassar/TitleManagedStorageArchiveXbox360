@@ -1,0 +1,57 @@
+TitleID: 4D530901
+Version: 0.0.3.3
+
+PathName[0]: //title.4d530901/t:4d530901/GlobalContentList_strings_zh-TW.xml - Size: 28381 (0x6EDD) bytes - Created: 13/07/2010 - 21:43:09 - Modified: 17/12/2010 - 00:31:29
+
+PathName[1]: //title.4d530901/t:4d530901/GlobalContentList_strings_ru-RU.xml - Size: 46375 (0xB527) bytes - Created: 25/08/2010 - 01:50:05 - Modified: 17/12/2010 - 00:31:27
+
+PathName[2]: //title.4d530901/t:4d530901/GlobalContentList_strings_pt-PT.xml - Size: 18336 (0x47A0) bytes - Created: 25/08/2010 - 01:50:02 - Modified: 17/12/2010 - 00:31:23
+
+PathName[3]: //title.4d530901/t:4d530901/GlobalContentList_strings_pt-BR.xml - Size: 46375 (0xB527) bytes - Created: 25/08/2010 - 01:49:59 - Modified: 17/12/2010 - 00:31:21
+
+PathName[4]: //title.4d530901/t:4d530901/GlobalContentList_strings_pl-PL.xml - Size: 46375 (0xB527) bytes - Created: 25/08/2010 - 01:49:56 - Modified: 17/12/2010 - 00:31:18
+
+PathName[5]: //title.4d530901/t:4d530901/GlobalContentList_strings_ko-KR.xml - Size: 28421 (0x6F05) bytes - Created: 13/07/2010 - 21:43:07 - Modified: 17/12/2010 - 00:31:14
+
+PathName[6]: //title.4d530901/t:4d530901/GlobalContentList_strings_ja-JP.xml - Size: 28515 (0x6F63) bytes - Created: 13/07/2010 - 21:43:06 - Modified: 17/12/2010 - 00:31:11
+
+PathName[7]: //title.4d530901/t:4d530901/GlobalContentList_strings_it-IT.xml - Size: 28337 (0x6EB1) bytes - Created: 13/07/2010 - 21:43:05 - Modified: 17/12/2010 - 00:31:08
+
+PathName[8]: //title.4d530901/t:4d530901/GlobalContentList_strings_fr-FR.xml - Size: 28419 (0x6F03) bytes - Created: 13/07/2010 - 21:43:04 - Modified: 17/12/2010 - 00:31:05
+
+PathName[9]: //title.4d530901/t:4d530901/GlobalContentList_strings_es-ES.xml - Size: 28414 (0x6EFE) bytes - Created: 13/07/2010 - 21:43:04 - Modified: 17/12/2010 - 00:31:02
+
+PathName[10]: //title.4d530901/t:4d530901/GlobalContentList_strings_en-US.xml - Size: 28145 (0x6DF1) bytes - Created: 13/07/2010 - 21:43:03 - Modified: 17/12/2010 - 00:31:00
+
+PathName[11]: //title.4d530901/t:4d530901/GlobalContentList_strings_de-DE.xml - Size: 28176 (0x6E10) bytes - Created: 13/07/2010 - 21:43:02 - Modified: 17/12/2010 - 00:30:57
+
+PathName[12]: //title.4d530901/t:4d530901/GlobalContentList.xml - Size: 44901 (0xAF65) bytes - Created: 13/07/2010 - 21:43:01 - Modified: 17/12/2010 - 00:30:54
+
+PathName[13]: //title.4d530901/t:4d530901/offers_x360.xml - Size: 54609 (0xD551) bytes - Created: 19/03/2010 - 19:38:51 - Modified: 14/12/2010 - 18:34:45
+
+PathName[14]: //title.4d530901/t:4d530901/offers_gfwl.xml - Size: 54409 (0xD489) bytes - Created: 19/03/2010 - 19:38:48 - Modified: 14/12/2010 - 18:34:26
+
+PathName[15]: //title.4d530901/t:4d530901/showcaseProfile_v01.dat - Size: 4046 (0xFCE) bytes - Created: 23/07/2010 - 17:41:02 - Modified: 23/07/2010 - 17:41:02
+
+PathName[16]: //title.4d530901/t:4d530901/GlobalTickerAlerts_zh-TW.xml - Size: 2642 (0xA52) bytes - Created: 19/03/2010 - 19:38:45 - Modified: 14/07/2010 - 20:51:11
+
+PathName[17]: //title.4d530901/t:4d530901/GlobalTickerAlerts_ko-KR.xml - Size: 2678 (0xA76) bytes - Created: 19/03/2010 - 19:38:42 - Modified: 14/07/2010 - 20:51:10
+
+PathName[18]: //title.4d530901/t:4d530901/GlobalTickerAlerts_ja-JP.xml - Size: 2813 (0xAFD) bytes - Created: 19/03/2010 - 19:38:39 - Modified: 14/07/2010 - 20:51:09
+
+PathName[19]: //title.4d530901/t:4d530901/GlobalTickerAlerts_it-IT.xml - Size: 2603 (0xA2B) bytes - Created: 19/03/2010 - 19:38:37 - Modified: 14/07/2010 - 20:51:08
+
+PathName[20]: //title.4d530901/t:4d530901/GlobalTickerAlerts_fr-FR.xml - Size: 2617 (0xA39) bytes - Created: 19/03/2010 - 19:38:34 - Modified: 14/07/2010 - 20:51:08
+
+PathName[21]: //title.4d530901/t:4d530901/GlobalTickerAlerts_es-ES.xml - Size: 2676 (0xA74) bytes - Created: 19/03/2010 - 19:38:31 - Modified: 14/07/2010 - 20:51:07
+
+PathName[22]: //title.4d530901/t:4d530901/GlobalTickerAlerts_en-US.xml - Size: 2425 (0x979) bytes - Created: 19/03/2010 - 19:38:28 - Modified: 14/07/2010 - 20:51:06
+
+PathName[23]: //title.4d530901/t:4d530901/GlobalTickerAlerts_de-DE.xml - Size: 2573 (0xA0D) bytes - Created: 19/03/2010 - 19:38:25 - Modified: 14/07/2010 - 20:51:05
+
+PathName[24]: //title.4d530901/t:4d530901/LiveConfig.xml - Size: 3484 (0xD9C) bytes - Created: 13/07/2010 - 21:44:23 - Modified: 13/07/2010 - 21:44:23
+
+PathName[25]: //title.4d530901/t:4d530901/offers_gfw.xml - Size: 15373 (0x3C0D) bytes - Created: 03/05/2010 - 23:42:27 - Modified: 03/05/2010 - 23:42:27
+
+PathName[26]: //title.4d530901/t:4d530901/globalnews.xml - Size: 29 (0x1D) bytes - Created: 19/03/2010 - 19:38:23 - Modified: 19/03/2010 - 19:38:23
+

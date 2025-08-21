@@ -1,0 +1,54 @@
+<GlobalTickerAlerts>
+  <Version> 
+    <versionNumber major="1" minor="2"/>
+  </Version>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_GAMEPACK_RELEASED%" string="¡El pack de juegos 7 ya está disponible en la Tienda!" platform="gfw,x360"/>
+  </ServerAlert>
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_GAMEPACK_RELEASED%" string="¡El pack de juegos 7 ya está disponible! ¡Incluye nuevos juegos, mascotas y un tema gratuito! ¿A qué esperas?" platform="gfw,x360"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_GAME%" string="Ponte en órbita con el clásico de los salones recreativos Gyruss, disponible ya en el pack de juegos 7." platform="x360"/>
+  </ServerAlert>
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_GAME%" string="¡Mantén las calles seguras! ¡Jail Break ya está disponible en el pack de juegos 7!"/>
+  </ServerAlert>
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_GAME%" string="¿Tienes lo que hay que tener para competir en Decathlon de Activision? ¡Descarga el pack de juegos 7 para descubrirlo!"/>
+  </ServerAlert>
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_GAME%" string="¡Acaba con los 11 maestros del kung-fu en Yie Ar Kung-Fu, disponible en el pack de juegos 7!"/>
+  </ServerAlert>
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_GAME%" string="¡Seaquest! ¡Próximamente disponible en el pack de juegos 8!"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_SHOWCASE_ARCADE%" string="¡Visita la vitrina del salón recreativo para ver un anticipo de los últimos juegos!"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_MASCOT%" string="¡Cada pack de juegos contiene nuevas mascotas!"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_THEME%" string="¡A bordo, marinero! ¡Encontrarás el tema Pirata en el pack de juegos 7!"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_GAMEPACK_COMING_SOON%" string="Pack de juegos 8 próximamente a la venta..."/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_GAMEPACK_SPECIAL_OFFER%" string="¡Compra cualquier juego el día de su lanzamiento para desbloquear la mascota del juego gratis!"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_SHOWCASE_ARCADE_GAME%" string="¡Ya hay nuevos juegos en la vitrina del salón recreativo! ¡Visítala!"/>
+  </ServerAlert>
+
+
+</GlobalTickerAlerts>

@@ -1,0 +1,5 @@
+TitleID: 464F0803
+Version: 0.0.0.6
+
+PathName[0]: //title.464f0803/t:464f0803/Online.cfgBE - Size: 552 (0x228) bytes - Created: 22/05/2014 - 14:19:52 - Modified: 22/05/2014 - 14:19:52
+

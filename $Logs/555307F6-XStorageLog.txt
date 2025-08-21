@@ -1,0 +1,5 @@
+TitleID: 555307F6
+Version: 0.0.1.4
+
+PathName[0]: //title.555307f6/t:555307f6/xuid.lst - Size: 36 (0x24) bytes - Created: 05/03/2010 - 16:32:18 - Modified: 05/03/2010 - 16:32:18
+

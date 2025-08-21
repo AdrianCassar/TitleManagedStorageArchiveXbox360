@@ -1,0 +1,11 @@
+TitleID: 465307E3
+Version: 0.0.3.4
+
+PathName[0]: //title.465307e3/t:465307e3/regulation_jp_103.bin - Size: 91600 (0x165D0) bytes - Created: 28/11/2013 - 07:01:25 - Modified: 13/12/2013 - 04:01:18
+
+PathName[1]: //title.465307e3/t:465307e3/regulation_jp_102.bin - Size: 91600 (0x165D0) bytes - Created: 31/10/2013 - 04:01:09 - Modified: 13/12/2013 - 04:01:15
+
+PathName[2]: //title.465307e3/t:465307e3/regulation_jp_101.bin - Size: 91600 (0x165D0) bytes - Created: 02/10/2013 - 04:01:38 - Modified: 13/12/2013 - 04:01:12
+
+PathName[3]: //title.465307e3/t:465307e3/regulation_jp_100.bin - Size: 91600 (0x165D0) bytes - Created: 02/10/2013 - 04:01:35 - Modified: 13/12/2013 - 04:01:09
+

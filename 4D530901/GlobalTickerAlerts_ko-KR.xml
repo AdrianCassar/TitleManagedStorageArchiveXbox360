@@ -1,0 +1,54 @@
+<GlobalTickerAlerts>
+  <Version> 
+    <versionNumber major="1" minor="2"/>
+  </Version>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_GAMEPACK_RELEASED%" string="지금 상점에서 게임 팩 7을 구입할 수 있습니다!" platform="gfw,x360"/>
+  </ServerAlert>
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_GAMEPACK_RELEASED%" string="게임 팩 7 절찬리 판매 중! 새 게임, 마스코트 및 무료 테마가 포함됩니다. 왜 서두르지 않는 거죠?" platform="gfw,x360"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_GAME%" string="고전 아케이드 게임 Gyruss를 게임 팩 7에서 즐길 수 있습니다." platform="x360"/>
+  </ServerAlert>
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_GAME%" string="거리를 안전하게 지키세요! 게임 팩 7에서 Jail Break를 즐길 수 있습니다!"/>
+  </ServerAlert>
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_GAME%" string="지금 바로 게임 팩 7을 다운로드하여 Activision Decathlon을 클리어해 보세요!"/>
+  </ServerAlert>
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_GAME%" string="게임 팩 7에 포함된 Yie Ar Kung-Fu를 즐기며 11명의 쿵푸 마스터에 도전해 보세요!"/>
+  </ServerAlert>
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_GAME%" string="게임 팩 8에서는 Seaquest를 만나보실 수 있습니다!"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_SHOWCASE_ARCADE%" string="오락실 전시장을 방문하여 새로 출시된 게임을 확인해 보세요!"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_MASCOT%" string="모든 게임 팩에 새로운 마스코트가 제공됩니다!"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_NEW_THEME%" string="이봐, 친구들! 게임 팩 7에서 해적 테마를 무료로 사용해 보라고!"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_GAMEPACK_COMING_SOON%" string="게임 팩 8 출시 예정..."/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_GAMEPACK_SPECIAL_OFFER%" string="발매일에 게임을 구매하시면 해당 게임의 마스코트를 무료로 증정합니다!"/>
+  </ServerAlert>
+
+  <ServerAlert>
+    <alert variableName="%SERVER_TICKER_ALERT_SHOWCASE_ARCADE_GAME%" string="지금 오락실 전시장에서 새로운 게임을 만나보세요!"/>
+  </ServerAlert>
+
+
+</GlobalTickerAlerts>

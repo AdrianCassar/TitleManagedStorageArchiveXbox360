@@ -1,0 +1,413 @@
+<root>
+<Table>
+	<DlcProducts>
+		<Name>MODE01 Co-Op</Name>
+		<OfferIDH32>1414596717</OfferIDH32>
+		<OfferIDL32>13</OfferIDL32>
+		<Peg>
+			<Filename>ui_dlc_pack_coop.gvbm_xbox2</Filename>
+			</Peg>
+		<Flags>
+			<Flag>OnDisk</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</DlcProducts>
+	<DlcProducts>
+		<Name>PREORDER01 Genki Pack</Name>
+		<OfferIDH32>1414596717</OfferIDH32>
+		<OfferIDL32>20</OfferIDL32>
+		<Peg>
+			<Filename>ui_dlc_pack_funtime.gvbm_xbox2</Filename>
+			</Peg>
+		<Flags>
+			<Flag>OnDisk</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</DlcProducts>
+	<DlcProducts>
+		<Name>PREORDER02 Bling Pack</Name>
+		<OfferIDH32>1414596717</OfferIDH32>
+		<OfferIDL32>23</OfferIDL32>
+		<Peg>
+			<Filename>ui_dlc_pack_z_style.gvbm_xbox2</Filename>
+			</Peg>
+		<Flags>
+			<Flag>OnDisk</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</DlcProducts>
+	<DlcProducts>
+		<Name>PREORDER03 Soldier Pack</Name>
+		<OfferIDH32>1414596717</OfferIDH32>
+		<OfferIDL32>25</OfferIDL32>
+		<Peg>
+			<Filename>ui_dlc_pack_explosive_combat.gvbm_xbox2</Filename>
+			</Peg>
+		<Flags>
+			<Flag>OnDisk</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</DlcProducts>
+	<DlcProducts>
+		<Name>PREORDER04 Shark Pack</Name>
+		<OfferIDH32>1414596717</OfferIDH32>
+		<OfferIDL32>24</OfferIDL32>
+		<Peg>
+			<Filename>ui_dlc_pack_shark_attack.gvbm_xbox2</Filename>
+			</Peg>
+		<Flags>
+			<Flag>OnDisk</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</DlcProducts>
+	<DlcProducts>
+		<Name>GAMEPLAY01 Cheat Pack</Name>
+		<OfferIDH32>1414596717</OfferIDH32>
+		<OfferIDL32>26</OfferIDL32>
+		<Peg>
+			<Filename>ui_dlc_pack_invincible.gvbm_xbox2</Filename>
+			</Peg>
+		<Flags>
+			<Flag>OnDisk</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</DlcProducts>
+	<DlcProducts>
+		<Name>GAMEPLAY02 Vampire Pack</Name>
+		<OfferIDH32>1414596717</OfferIDH32>
+		<OfferIDL32>19</OfferIDL32>
+		<Peg>
+			<Filename>ui_dlc_pack_bloodsucker.gvbm_xbox2</Filename>
+			</Peg>
+		<Flags>
+			<Flag>OnDisk</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</DlcProducts>
+	<DlcProducts>
+		<Name>GAMEPLAY03 Unlock Pack</Name>
+		<Peg>
+			<Filename>ui_dlc_pack_unlockable.gvbm_xbox2</Filename>
+			</Peg>
+		<Flags>
+			<Flag>OnDisk</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		<OfferIDH32>1414596717</OfferIDH32>
+		<OfferIDL32>21</OfferIDL32>
+		</DlcProducts>
+	<DlcProducts>
+		<Name>CUST01 Penthouse Pack</Name>
+		<OfferIDH32>1414596717</OfferIDH32>
+		<OfferIDL32>992645120</OfferIDL32>
+		<Peg>
+			<Filename>ui_dlc_pack_penthouse.gvbm_xbox2</Filename>
+			</Peg>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</DlcProducts>
+	<DlcProducts>
+		<Name>CUST02 Witches and Wieners</Name>
+		<OfferIDH32>1414596717</OfferIDH32>
+		<OfferIDL32>2163903488</OfferIDL32>
+		<Peg>
+			<Filename>ui_dlc_pack_witches.gvbm_xbox2</Filename>
+			</Peg>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</DlcProducts>
+	<DlcProducts>
+		<Name>ASSET01 Warrior Pack</Name>
+		<OfferIDH32>1414596717</OfferIDH32>
+		<OfferIDL32>29</OfferIDL32>
+		<Peg>
+			<Filename>ui_dlc_pack_warrior.gvbm_xbox2</Filename>
+			</Peg>
+		<Flags>
+			<Flag>OnDisk</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</DlcProducts>
+	<DlcProducts>
+		<Name>ASSET02 Nyte Blayde Pack</Name>
+		<OfferIDH32>1414596717</OfferIDH32>
+		<OfferIDL32>30</OfferIDL32>
+		<Peg>
+			<Filename>ui_dlc_pack_nyte_blayde.gvbm_xbox2</Filename>
+			</Peg>
+		<Flags>
+			<Flag>OnDisk</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</DlcProducts>
+	<DlcProducts>
+		<Name>ASSET03 Gangs Pack</Name>
+		<OfferIDH32>1414596717</OfferIDH32>
+		<OfferIDL32>3250064384</OfferIDL32>
+		<Peg>
+			<Filename>ui_dlc_pack_steelport_gangs.gvbm_xbox2</Filename>
+			</Peg>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</DlcProducts>
+	<DlcProducts>
+		<Name>ASSET04 Saints Military Pack</Name>
+		<OfferIDH32>1414596717</OfferIDH32>
+		<OfferIDL32>43415552</OfferIDL32>
+		<Peg>
+			<Filename>ui_dlc_pack_spec_ops.gvbm_xbox2</Filename>
+			</Peg>
+		<Flags>
+			<Flag>OnDisk</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</DlcProducts>
+	<DlcProducts>
+		<Name>ASSET05 Horror Pack</Name>
+		<OfferIDH32>1414596717</OfferIDH32>
+		<OfferIDL32>1306031104</OfferIDL32>
+		<Peg>
+			<Filename>ui_dlc_pack_horror.gvbm_xbox2</Filename>
+			</Peg>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</DlcProducts>
+	<DlcProducts>
+		<Name>ASSET06 Genki Girl Veh Pack</Name>
+		<OfferIDH32>1414596717</OfferIDH32>
+		<OfferIDL32>3402491904</OfferIDL32>
+		<Peg>
+			<Filename>ui_dlc_pack_genki_girls.gvbm_xbox2</Filename>
+			</Peg>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</DlcProducts>
+	<DlcProducts>
+		<Name>STORY02 Genki Missions</Name>
+		<OfferIDH32>1414596717</OfferIDH32>
+		<OfferIDL32>3083316224</OfferIDL32>
+		<Peg>
+			<Filename>ui_dlc_pack_genkibowl.gvbm_xbox2</Filename>
+			</Peg>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</DlcProducts>
+	<DlcProducts>
+		<Name>STORY02 Genki Missions (Viewer)</Name>
+		<OfferIDH32>1414596717</OfferIDH32>
+		<OfferIDL32>2890873856</OfferIDL32>
+		<Peg>
+			<Filename>ui_dlc_pack_genkibowl.gvbm_xbox2</Filename>
+			</Peg>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</DlcProducts>
+	<DlcProducts>
+		<Name>STORY02 Genki Missions (SP)</Name>
+		<OfferIDH32>1414596717</OfferIDH32>
+		<OfferIDL32>0387007488</OfferIDL32>
+		<Peg>
+			<Filename>ui_dlc_pack_genkibowl.gvbm_xbox2</Filename>
+			</Peg>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</DlcProducts>
+	<DlcProducts>
+		<Name>STORY01 Gangstas Missions</Name>
+		<OfferIDH32>1414596717</OfferIDH32>
+		<OfferIDL32>3456948224</OfferIDL32>
+		<Peg>
+			<Filename>ui_dlc_pack_gangstas.gvbm_xbox2</Filename>
+			</Peg>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</DlcProducts>
+	<DlcProducts>
+		<Name>STORY01 Gangstas Missions (SP)</Name>
+		<OfferIDH32>1414596717</OfferIDH32>
+		<OfferIDL32>1764610048</OfferIDL32>
+		<Peg>
+			<Filename>ui_dlc_pack_gangstas.gvbm_xbox2</Filename>
+			</Peg>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</DlcProducts>		
+	<DlcProducts>
+		<Name>STORY01 Gangstas Missions (Viewer)</Name>
+		<OfferIDH32>1414596717</OfferIDH32>
+		<OfferIDL32>3959241728</OfferIDL32>
+		<Peg>
+			<Filename>ui_dlc_pack_gangstas.gvbm_xbox2</Filename>
+			</Peg>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</DlcProducts>
+	<DlcProducts>
+		<Name>STORY03 Clones Missions</Name>
+		<OfferIDH32>1414596717</OfferIDH32>
+		<OfferIDL32>4019103744</OfferIDL32>
+		<Peg>
+			<Filename>ui_dlc_pack_clones.gvbm_xbox2</Filename>
+			</Peg>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</DlcProducts>
+	<DlcProducts>
+		<Name>STORY03 Clones Missions (SP)</Name>
+		<OfferIDH32>1414596717</OfferIDH32>
+		<OfferIDL32>3500312576</OfferIDL32>
+		<Peg>
+			<Filename>ui_dlc_pack_clones.gvbm_xbox2</Filename>
+			</Peg>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</DlcProducts>
+	<DlcProducts>
+		<Name>STORY03 Clones Missions (Viewer)</Name>
+		<OfferIDH32>1414596717</OfferIDH32>
+		<OfferIDL32>3445182464</OfferIDL32>
+		<Peg>
+			<Filename>ui_dlc_pack_clones.gvbm_xbox2</Filename>
+			</Peg>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</DlcProducts>
+	<DlcProducts>
+		<Name>MEDIA01 Money Shot Pack</Name>
+		<OfferIDH32>1414596717</OfferIDH32>
+		<OfferIDL32>31211520</OfferIDL32>
+		<Peg>
+			<Filename>ui_dlc_pack_moneyshot.gvbm_xbox2</Filename>
+			</Peg>
+		<Flags>
+			<Flag>OnDisk</Flag>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</DlcProducts>
+	<DlcProducts>
+		<Name>Season Pass</Name>
+		<OfferIDH32>1414596717</OfferIDH32>
+		<OfferIDL32>311264256</OfferIDL32>
+		<Peg>
+			<Filename>ui_dlc_pack_season_pass_med.gvbm_xbox2</Filename>
+			</Peg>
+		<Flags>
+			</Flags>
+		<_Editor>
+			<Category>Entries</Category>
+			</_Editor>
+		</DlcProducts>
+	</Table>
+
+<TableTemplates>
+	</TableTemplates>
+
+<TableDescription>
+	<Name>DlcProducts</Name>
+	<Type>TableDescription</Type>
+	<Element>
+		<Name>Name</Name>
+		<Type>String</Type>
+		<Description>Title of the DLC Product being offered.</Description>
+		</Element>
+	<Element>
+		<Name>OfferIDH32</Name>
+		<Type>Int</Type>
+		<Display_Name>Offer ID: 0x'00000000' 00000000</Display_Name>
+		<Description>The high order 32 bits in base 10</Description>
+		<Default>00000000</Default>
+		</Element>
+	<Element>
+		<Name>OfferIDL32</Name>
+		<Type>Int</Type>
+		<Display_Name>Offer ID: 0x00000000 '00000000'</Display_Name>
+		<Description>The low order 32 bits in base 10</Description>
+		<Default>00000000</Default>
+		</Element>
+	<Element>
+		<Name>Peg</Name>
+		<Type>Filename</Type>
+		<Extension>gvbm_xbox2</Extension>
+		<StartingPath>tms</StartingPath>
+		<ShowPreload>True</ShowPreload>
+		</Element>
+	<Element>
+		<Name>Flags</Name>
+		<Type>Flags</Type>
+		<Flag>OnDisk</Flag>
+		</Element>
+	<Single_Line_XML>False</Single_Line_XML>
+	</TableDescription>
+
+<EntryCategories>
+	<Category>
+		<Name>Entries</Name>
+		</Category>
+	</EntryCategories>
+</root>
